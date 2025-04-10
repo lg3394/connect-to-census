@@ -1,0 +1,3223 @@
+"GEOID","median_income","State","County","UnhealthyDaysMonth"
+"01001",68315,"Alabama","Autauga",4.3003635569
+"01003",71039,"Alabama","Baldwin",3.8764361413
+"01005",39712,"Alabama","Barbour",5.4310302942
+"01007",50669,"Alabama","Bibb",5.0556189336
+"01009",57440,"Alabama","Blount",4.8024000348
+"01011",36136,"Alabama","Bullock",5.8141217665
+"01013",44429,"Alabama","Butler",5.2460762338
+"01015",54339,"Alabama","Calhoun",4.9712460628
+"01017",48805,"Alabama","Chambers",4.8482805596
+"01019",46621,"Alabama","Cherokee",4.8918141448
+"01021",62471,"Alabama","Chilton",4.7136912739
+"01023",43299,"Alabama","Choctaw",5.1174926515
+"01025",47549,"Alabama","Clarke",5.1585646192
+"01027",48074,"Alabama","Clay",5.0592719122
+"01029",51553,"Alabama","Cleburne",4.9134294659
+"01031",62199,"Alabama","Coffee",4.6304141509
+"01033",56149,"Alabama","Colbert",4.552855795
+"01035",39888,"Alabama","Conecuh",5.2910230494
+"01037",52279,"Alabama","Coosa",4.7808202325
+"01039",48772,"Alabama","Covington",4.9298765919
+"01041",48557,"Alabama","Crenshaw",4.9562233461
+"01043",58119,"Alabama","Cullman",4.7903861336
+"01045",52813,"Alabama","Dale",4.9688840821
+"01047",37180,"Alabama","Dallas",5.3815908398
+"01049",47920,"Alabama","DeKalb",5.3055567376
+"01051",73258,"Alabama","Elmore",4.364264063
+"01053",41153,"Alabama","Escambia",5.6473755354
+"01055",52177,"Alabama","Etowah",4.7155208299
+"01057",45650,"Alabama","Fayette",5.3005580506
+"01059",47359,"Alabama","Franklin",5.1956491637
+"01061",47608,"Alabama","Geneva",5.3848015382
+"01063",32796,"Alabama","Greene",5.7638010691
+"01065",35851,"Alabama","Hale",5.1826296834
+"01067",58395,"Alabama","Henry",4.9330215927
+"01069",55064,"Alabama","Houston",4.4700115734
+"01071",46748,"Alabama","Jackson",5.1332007757
+"01073",63595,"Alabama","Jefferson",4.0813352946
+"01075",49565,"Alabama","Lamar",4.9570425938
+"01077",56081,"Alabama","Lauderdale",4.5521429468
+"01079",54786,"Alabama","Lawrence",5.0458346113
+"01081",59288,"Alabama","Lee",4.0910269509
+"01083",80146,"Alabama","Limestone",4.1986358579
+"01085",33125,"Alabama","Lowndes",5.4284225467
+"01087",41206,"Alabama","Macon",5.0144693755
+"01089",78058,"Alabama","Madison",3.9285510785
+"01091",42975,"Alabama","Marengo",4.8222701794
+"01093",49743,"Alabama","Marion",5.1009522776
+"01095",58272,"Alabama","Marshall",4.8547744553
+"01097",55352,"Alabama","Mobile",4.485062272
+"01099",39965,"Alabama","Monroe",5.206189603
+"01101",56707,"Alabama","Montgomery",4.4678721678
+"01103",61588,"Alabama","Morgan",4.4781181311
+"01105",32332,"Alabama","Perry",5.7876533811
+"01107",45339,"Alabama","Pickens",5.0528665057
+"01109",42616,"Alabama","Pike",4.9282791161
+"01111",49879,"Alabama","Randolph",4.9501178337
+"01113",47420,"Alabama","Russell",4.8562574313
+"01115",73218,"Alabama","St. Clair",4.5519763205
+"01117",90618,"Alabama","Shelby",3.6211245824
+"01119",31726,"Alabama","Sumter",5.1339093858
+"01121",52457,"Alabama","Talladega",5.0537386599
+"01123",53282,"Alabama","Tallapoosa",4.9181421034
+"01125",61645,"Alabama","Tuscaloosa",4.5073534779
+"01127",52987,"Alabama","Walker",4.978273695
+"01129",51184,"Alabama","Washington",5.1049187455
+"01131",38208,"Alabama","Wilcox",5.7427911826
+"01133",49494,"Alabama","Winston",5.0654702949
+"02013",79961,"Alaska","Aleutians East",4.3545892504
+"02016",100662,"Alaska","Aleutians West",3.9528925378
+"02020",95731,"Alaska","Anchorage",3.8809930126
+"02050",64094,"Alaska","Bethel",6.5368433797
+"02060",94167,"Alaska","Bristol Bay",4.2224104202
+"02063",83068,"Alaska","Chugach",3.9259134565
+"02066",70606,"Alaska","Copper River",4.3580140008
+"02068",87292,"Alaska","Denali",3.8062646763
+"02070",69412,"Alaska","Dillingham",5.8351861281
+"02090",81655,"Alaska","Fairbanks North Star",4.1912660965
+"02100",68276,"Alaska","Haines",3.872201979
+"02105",62344,"Alaska","Hoonah-Angoon",4.7311861397
+"02110",95711,"Alaska","Juneau",3.8565301496
+"02122",76272,"Alaska","Kenai Peninsula",4.6141985117
+"02130",82763,"Alaska","Ketchikan Gateway",4.2331009603
+"02150",91138,"Alaska","Kodiak Island",3.9430030188
+"02158",42663,"Alaska","Kusilvak",7.5323613667
+"02164",61607,"Alaska","Lake and Peninsula",5.4387573329
+"02170",86435,"Alaska","Matanuska-Susitna",4.739693805
+"02180",70121,"Alaska","Nome",5.5332592165
+"02185",83472,"Alaska","North Slope",4.4896010569
+"02188",77647,"Alaska","Northwest Arctic",6.0828032498
+"02195",77826,"Alaska","Petersburg",4.0054764366
+"02198",61779,"Alaska","Prince of Wales-Hyder",4.9053458727
+"02220",95261,"Alaska","Sitka",3.8472522235
+"02230",79583,"Alaska","Skagway",4.0070846904
+"02240",75378,"Alaska","Southeast Fairbanks",4.0939081049
+"02275",61000,"Alaska","Wrangell",4.4745027717
+"02282",76875,"Alaska","Yakutat",4.6648958415
+"02290",47826,"Alaska","Yukon-Koyukuk",5.8092521485
+"04001",37483,"Arizona","Apache",6.5741922947
+"04003",58421,"Arizona","Cochise",4.6354798451
+"04005",67266,"Arizona","Coconino",4.5850692621
+"04007",55242,"Arizona","Gila",5.4308647625
+"04009",64089,"Arizona","Graham",5.1437442873
+"04011",73756,"Arizona","Greenlee",4.5545688761
+"04012",46634,"Arizona","La Paz",5.6291311932
+"04013",80675,"Arizona","Maricopa",4.1252926687
+"04015",53592,"Arizona","Mohave",5.2493275255
+"04017",50335,"Arizona","Navajo",6.0288699749
+"04019",64323,"Arizona","Pima",4.4495582702
+"04021",73313,"Arizona","Pinal",4.9142736242
+"04023",51885,"Arizona","Santa Cruz",5.0223619271
+"04025",62430,"Arizona","Yavapai",4.4219718667
+"04027",56439,"Arizona","Yuma",5.2484196623
+"05001",58695,"Arkansas","Arkansas",5.2203768926
+"05003",44804,"Arkansas","Ashley",5.858225708
+"05005",47403,"Arkansas","Baxter",5.2509373644
+"05007",85269,"Arkansas","Benton",4.4587780348
+"05009",52275,"Arkansas","Boone",5.1685719345
+"05011",43688,"Arkansas","Bradley",5.5457211466
+"05013",60237,"Arkansas","Calhoun",5.1929011764
+"05015",56826,"Arkansas","Carroll",5.0919174255
+"05017",36593,"Arkansas","Chicot",5.7790595024
+"05019",48071,"Arkansas","Clark",5.2002772594
+"05021",44685,"Arkansas","Clay",5.5091876658
+"05023",52780,"Arkansas","Cleburne",5.1774553356
+"05025",48913,"Arkansas","Cleveland",5.4989679913
+"05027",47441,"Arkansas","Columbia",5.0946113922
+"05029",50282,"Arkansas","Conway",5.6176351443
+"05031",55169,"Arkansas","Craighead",5.2376314194
+"05033",56702,"Arkansas","Crawford",5.2580324691
+"05035",51860,"Arkansas","Crittenden",5.3195831771
+"05037",48129,"Arkansas","Cross",5.483468361
+"05039",40085,"Arkansas","Dallas",4.9543390782
+"05041",38067,"Arkansas","Desha",6.1009627507
+"05043",44968,"Arkansas","Drew",5.5282913391
+"05045",61273,"Arkansas","Faulkner",5.0236299898
+"05047",47695,"Arkansas","Franklin",5.7696718395
+"05049",38917,"Arkansas","Fulton",5.7574137668
+"05051",54229,"Arkansas","Garland",4.8198715981
+"05053",68598,"Arkansas","Grant",4.8494021736
+"05055",54879,"Arkansas","Greene",5.4410690466
+"05057",45049,"Arkansas","Hempstead",5.3908799315
+"05059",50260,"Arkansas","Hot Spring",5.4415831787
+"05061",44824,"Arkansas","Howard",5.2590004305
+"05063",52361,"Arkansas","Independence",5.2788253335
+"05065",46159,"Arkansas","Izard",5.585148362
+"05067",41929,"Arkansas","Jackson",5.6877719311
+"05069",46855,"Arkansas","Jefferson",5.2200264295
+"05071",42470,"Arkansas","Johnson",6.0235924564
+"05073",40262,"Arkansas","Lafayette",5.8578559641
+"05075",43606,"Arkansas","Lawrence",5.7696833455
+"05077",33801,"Arkansas","Lee",5.8417219012
+"05079",50526,"Arkansas","Lincoln",5.3989059885
+"05081",58627,"Arkansas","Little River",5.1763111833
+"05083",51131,"Arkansas","Logan",5.379165723
+"05085",68078,"Arkansas","Lonoke",4.8914007141
+"05087",51514,"Arkansas","Madison",5.5807135019
+"05089",42891,"Arkansas","Marion",5.4314460039
+"05091",47613,"Arkansas","Miller",5.4703398332
+"05093",50012,"Arkansas","Mississippi",5.7354937668
+"05095",41786,"Arkansas","Monroe",5.8202360342
+"05097",47103,"Arkansas","Montgomery",5.5491490871
+"05099",43421,"Arkansas","Nevada",5.7134727289
+"05101",50699,"Arkansas","Newton",5.3112648501
+"05103",47348,"Arkansas","Ouachita",5.468508292
+"05105",53980,"Arkansas","Perry",5.2534203468
+"05107",37458,"Arkansas","Phillips",6.0626411715
+"05109",49248,"Arkansas","Pike",5.3342740108
+"05111",43440,"Arkansas","Poinsett",5.9085371532
+"05113",48449,"Arkansas","Polk",5.300143347
+"05115",51678,"Arkansas","Pope",5.2575256047
+"05117",47045,"Arkansas","Prairie",5.2652669186
+"05119",58326,"Arkansas","Pulaski",4.6700011494
+"05121",45993,"Arkansas","Randolph",5.7724270402
+"05123",39822,"Arkansas","St. Francis",5.9714363269
+"05125",73236,"Arkansas","Saline",4.3856713039
+"05127",45340,"Arkansas","Scott",5.4063029798
+"05129",42063,"Arkansas","Searcy",5.8240308262
+"05131",54047,"Arkansas","Sebastian",5.3229835399
+"05133",53567,"Arkansas","Sevier",5.6962558351
+"05135",43332,"Arkansas","Sharp",5.5348886128
+"05137",37664,"Arkansas","Stone",5.9009655858
+"05139",49745,"Arkansas","Union",5.0468985205
+"05141",45768,"Arkansas","Van Buren",5.8431349707
+"05143",61985,"Arkansas","Washington",5.0247127052
+"05145",51144,"Arkansas","White",5.1314437709
+"05147",49608,"Arkansas","Woodruff",5.6223148524
+"05149",55879,"Arkansas","Yell",5.8334840314
+"06001",122488,"California","Alameda",3.8422362146
+"06003",101125,"California","Alpine",4.4077414406
+"06005",74853,"California","Amador",4.3934964947
+"06007",66085,"California","Butte",4.8944546293
+"06009",77526,"California","Calaveras",4.7668852133
+"06011",69619,"California","Colusa",5.2337210228
+"06013",120020,"California","Contra Costa",3.9461303924
+"06015",61149,"California","Del Norte",5.1262329692
+"06017",99246,"California","El Dorado",3.7839470727
+"06019",67756,"California","Fresno",5.0375110591
+"06021",64033,"California","Glenn",5.1646725357
+"06023",57881,"California","Humboldt",4.8996975061
+"06025",53847,"California","Imperial",5.7002900254
+"06027",63417,"California","Inyo",4.5787598072
+"06029",63883,"California","Kern",5.0315084453
+"06031",68540,"California","Kings",5.184848728
+"06033",56259,"California","Lake",5.0091885569
+"06035",59515,"California","Lassen",5.0749773825
+"06037",83411,"California","Los Angeles",4.6108325173
+"06039",73543,"California","Madera",5.5914420532
+"06041",142019,"California","Marin",3.8047724355
+"06043",60021,"California","Mariposa",4.6375876299
+"06045",61335,"California","Mendocino",4.8391460871
+"06047",64772,"California","Merced",5.377656236
+"06049",54962,"California","Modoc",4.9370595823
+"06051",82038,"California","Mono",4.3092847695
+"06053",91043,"California","Monterey",4.8677469588
+"06055",105809,"California","Napa",4.1255434229
+"06057",79395,"California","Nevada",4.1969630966
+"06059",109361,"California","Orange",3.9887161662
+"06061",109375,"California","Placer",4.0292717971
+"06063",67885,"California","Plumas",4.4888151391
+"06065",84505,"California","Riverside",4.7291408701
+"06067",84010,"California","Sacramento",4.3810038219
+"06069",104451,"California","San Benito",4.5562402476
+"06071",77423,"California","San Bernardino",4.7999234243
+"06073",96974,"California","San Diego",4.2125006923
+"06075",136689,"California","San Francisco",3.5653854023
+"06077",82837,"California","San Joaquin",4.7593553809
+"06079",90158,"California","San Luis Obispo",4.158978579
+"06081",149907,"California","San Mateo",3.5587320238
+"06083",92332,"California","Santa Barbara",4.4493582659
+"06085",153792,"California","Santa Clara",3.4196133338
+"06087",104409,"California","Santa Cruz",4.1656520646
+"06089",68347,"California","Shasta",4.5794343765
+"06091",61108,"California","Sierra",4.5433854961
+"06093",53898,"California","Siskiyou",4.9610577697
+"06095",97037,"California","Solano",4.153693374
+"06097",99266,"California","Sonoma",4.2864017166
+"06099",74872,"California","Stanislaus",4.9372258943
+"06101",72654,"California","Sutter",4.8225666666
+"06103",59029,"California","Tehama",5.0064727262
+"06105",47317,"California","Trinity",5.177041343
+"06107",64474,"California","Tulare",5.1482614641
+"06109",70432,"California","Tuolumne",4.5340033433
+"06111",102141,"California","Ventura",4.3904929606
+"06113",85097,"California","Yolo",4.3697577496
+"06115",66693,"California","Yuba",5.1780676205
+"08001",86297,"Colorado","Adams",4.1138821009
+"08003",52271,"Colorado","Alamosa",4.554623145
+"08005",92292,"Colorado","Arapahoe",3.6518642365
+"08007",66813,"Colorado","Archuleta",3.9908482411
+"08009",42115,"Colorado","Baca",5.0306625793
+"08011",45776,"Colorado","Bent",5.211134766
+"08013",99770,"Colorado","Boulder",3.7278539626
+"08014",117541,"Colorado","Broomfield",3.3686107555
+"08015",65703,"Colorado","Chaffee",4.008848566
+"08017",65577,"Colorado","Cheyenne",4.2430235779
+"08019",87169,"Colorado","Clear Creek",3.4467358423
+"08021",44093,"Colorado","Conejos",4.6344077498
+"08023",34578,"Colorado","Costilla",5.0821149065
+"08025",40685,"Colorado","Crowley",5.1481644615
+"08027",66250,"Colorado","Custer",4.0315486968
+"08029",56349,"Colorado","Delta",4.4699124753
+"08031",85853,"Colorado","Denver",3.7703257467
+"08033",64708,"Colorado","Dolores",4.1220715061
+"08035",139010,"Colorado","Douglas",2.9301741747
+"08037",98887,"Colorado","Eagle",3.5095010752
+"08039",124360,"Colorado","Elbert",3.5981647952
+"08041",82748,"Colorado","El Paso",4.1162259606
+"08043",56165,"Colorado","Fremont",4.4316145454
+"08045",82772,"Colorado","Garfield",3.8302267112
+"08047",95902,"Colorado","Gilpin",3.7081741253
+"08049",79367,"Colorado","Grand",3.7603582218
+"08051",76538,"Colorado","Gunnison",3.5098408287
+"08053",58712,"Colorado","Hinsdale",3.530371373
+"08055",49631,"Colorado","Huerfano",4.3293014491
+"08057",38686,"Colorado","Jackson",4.8396726556
+"08059",103167,"Colorado","Jefferson",3.6668816919
+"08061",45250,"Colorado","Kiowa",4.7040312518
+"08063",58992,"Colorado","Kit Carson",4.5775009547
+"08065",78942,"Colorado","Lake",3.7009354208
+"08067",81936,"Colorado","La Plata",4.0461904483
+"08069",87199,"Colorado","Larimer",3.9393868113
+"08071",48965,"Colorado","Las Animas",4.8811168837
+"08073",59167,"Colorado","Lincoln",4.4178506954
+"08075",54864,"Colorado","Logan",4.4747258376
+"08077",68077,"Colorado","Mesa",4.3488268195
+"08079",58929,"Colorado","Mineral",3.4466259805
+"08081",63983,"Colorado","Moffat",4.5443759272
+"08083",61377,"Colorado","Montezuma",4.4698343222
+"08085",62817,"Colorado","Montrose",4.2746044655
+"08087",70471,"Colorado","Morgan",4.6760604479
+"08089",47500,"Colorado","Otero",5.2898930171
+"08091",78750,"Colorado","Ouray",3.4769991164
+"08093",85019,"Colorado","Park",3.6970903949
+"08095",58474,"Colorado","Phillips",4.5666918793
+"08097",96123,"Colorado","Pitkin",3.2111650029
+"08099",49422,"Colorado","Prowers",4.8161155349
+"08101",59436,"Colorado","Pueblo",4.4988856335
+"08103",69882,"Colorado","Rio Blanco",4.3337174697
+"08105",57591,"Colorado","Rio Grande",4.1820497067
+"08107",95144,"Colorado","Routt",3.579998585
+"08109",51946,"Colorado","Saguache",4.8820177381
+"08111",67344,"Colorado","San Juan",4.1054487468
+"08113",72829,"Colorado","San Miguel",3.5212882911
+"08115",45855,"Colorado","Sedgwick",4.4319772057
+"08117",100611,"Colorado","Summit",3.4952544019
+"08119",69655,"Colorado","Teller",3.7910954274
+"08121",59087,"Colorado","Washington",4.272562077
+"08123",89182,"Colorado","Weld",4.009289775
+"08125",60118,"Colorado","Yuma",4.4654311569
+"09110",88190,"Connecticut","Capitol",4.0023164007
+"09120",83147,"Connecticut","Greater Bridgeport",3.9286266111
+"09130",99742,"Connecticut","Lower Connecticut River Valley",3.7110859721
+"09140",82939,"Connecticut","Naugatuck Valley",4.1712934757
+"09150",83119,"Connecticut","Northeastern Connecticut",4.3910418674
+"09160",87971,"Connecticut","Northwest Hills",3.9416351193
+"09170",83617,"Connecticut","South Central Connecticut",4.2131183177
+"09180",80330,"Connecticut","Southeastern Connecticut",4.2792905134
+"09190",118930,"Connecticut","Western Connecticut",3.4430331094
+"10001",69278,"Delaware","Kent",4.0650666578
+"10003",85309,"Delaware","New Castle",3.5959405155
+"10005",75406,"Delaware","Sussex",3.7137367332
+"11001",101722,"District of Columbia","District of Columbia",3.1415423584
+"12001",57566,"Florida","Alachua",4.2825990962
+"12003",67872,"Florida","Baker",4.5471564739
+"12005",65999,"Florida","Bay",4.1634789944
+"12007",54759,"Florida","Bradford",4.9197655218
+"12009",71308,"Florida","Brevard",3.9430305376
+"12011",70331,"Florida","Broward",3.7482898127
+"12013",41526,"Florida","Calhoun",5.3976679843
+"12015",62164,"Florida","Charlotte",4.1588147266
+"12017",52569,"Florida","Citrus",4.3737511105
+"12019",82242,"Florida","Clay",4.1675898388
+"12021",82011,"Florida","Collier",3.7018283889
+"12023",53501,"Florida","Columbia",4.9142932037
+"12027",45000,"Florida","DeSoto",5.3434533624
+"12029",45057,"Florida","Dixie",5.1848128477
+"12031",65579,"Florida","Duval",4.2315173787
+"12033",61642,"Florida","Escambia",4.4943854473
+"12035",69251,"Florida","Flagler",4.1211805727
+"12037",58107,"Florida","Franklin",4.9261354038
+"12039",45721,"Florida","Gadsden",5.1927229088
+"12041",56823,"Florida","Gilchrist",4.8170281142
+"12043",37221,"Florida","Glades",5.4332030099
+"12045",56250,"Florida","Gulf",4.5985015076
+"12047",47668,"Florida","Hamilton",5.5130484948
+"12049",44665,"Florida","Hardee",5.2293047927
+"12051",49259,"Florida","Hendry",5.4688329471
+"12053",59202,"Florida","Hernando",4.6030740903
+"12055",53679,"Florida","Highlands",4.8557729905
+"12057",70612,"Florida","Hillsborough",4.2218716544
+"12059",46063,"Florida","Holmes",5.3669072912
+"12061",67543,"Florida","Indian River",3.7555768942
+"12063",46144,"Florida","Jackson",5.0209036469
+"12065",51573,"Florida","Jefferson",4.3392036165
+"12067",57852,"Florida","Lafayette",5.2490976737
+"12069",66239,"Florida","Lake",3.9589652208
+"12071",69368,"Florida","Lee",3.8774559089
+"12073",61317,"Florida","Leon",4.2132467868
+"12075",49933,"Florida","Levy",5.0512550769
+"12077",51723,"Florida","Liberty",5.1867891101
+"12079",43386,"Florida","Madison",5.3009177192
+"12081",71385,"Florida","Manatee",3.9840726591
+"12083",55265,"Florida","Marion",4.505982388
+"12085",77894,"Florida","Martin",3.9323133739
+"12086",64215,"Florida","Miami-Dade",4.0886822876
+"12087",80111,"Florida","Monroe",3.898333765
+"12089",84085,"Florida","Nassau",3.9303514338
+"12091",73988,"Florida","Okaloosa",4.0875847776
+"12093",50476,"Florida","Okeechobee",5.024355584
+"12095",72629,"Florida","Orange",4.2078859779
+"12097",64312,"Florida","Osceola",4.1323379534
+"12099",76066,"Florida","Palm Beach",3.776425161
+"12101",63187,"Florida","Pasco",4.3104812644
+"12103",66406,"Florida","Pinellas",3.9276596052
+"12105",60901,"Florida","Polk",4.6575073444
+"12107",44852,"Florida","Putnam",5.4750914191
+"12109",100020,"Florida","St. Johns",3.3514419906
+"12111",66154,"Florida","St. Lucie",4.317859013
+"12113",84715,"Florida","Santa Rosa",4.0192960908
+"12115",77213,"Florida","Sarasota",3.3260849769
+"12117",79490,"Florida","Seminole",3.7407972438
+"12119",70105,"Florida","Sumter",3.691613647
+"12121",49729,"Florida","Suwannee",4.8594263122
+"12123",46239,"Florida","Taylor",5.1554229626
+"12125",64043,"Florida","Union",4.9217173712
+"12127",63075,"Florida","Volusia",4.2372722813
+"12129",72035,"Florida","Wakulla",4.0158455359
+"12131",74832,"Florida","Walton",4.0596130107
+"12133",47536,"Florida","Washington",4.9664151399
+"13001",43268,"Georgia","Appling",5.4103424801
+"13003",38007,"Georgia","Atkinson",6.0047523486
+"13005",43938,"Georgia","Bacon",5.1777106973
+"13007",45417,"Georgia","Baker",5.2132858307
+"13009",54699,"Georgia","Baldwin",4.6458574067
+"13011",69096,"Georgia","Banks",4.7494839689
+"13013",75053,"Georgia","Barrow",4.2260360375
+"13015",74812,"Georgia","Bartow",4.4529544726
+"13017",38255,"Georgia","Ben Hill",5.5166355774
+"13019",48670,"Georgia","Berrien",5.2138783682
+"13021",48897,"Georgia","Bibb",4.8953693638
+"13023",56021,"Georgia","Bleckley",4.7773289728
+"13025",40166,"Georgia","Brantley",5.3593266579
+"13027",42263,"Georgia","Brooks",5.4285596721
+"13029",90627,"Georgia","Bryan",3.7657392424
+"13031",53675,"Georgia","Bulloch",4.648454688
+"13033",50321,"Georgia","Burke",4.8704520363
+"13035",60076,"Georgia","Butts",4.7199513639
+"13037",48663,"Georgia","Calhoun",5.3168389294
+"13039",68104,"Georgia","Camden",4.4890879515
+"13043",45519,"Georgia","Candler",5.3820764298
+"13045",66895,"Georgia","Carroll",4.6860673215
+"13047",68896,"Georgia","Catoosa",4.2041486882
+"13049",45770,"Georgia","Charlton",5.1209197598
+"13051",66171,"Georgia","Chatham",3.7588621044
+"13053",52943,"Georgia","Chattahoochee",4.8687680496
+"13055",43556,"Georgia","Chattooga",5.4287703107
+"13057",100824,"Georgia","Cherokee",3.8814818973
+"13059",48692,"Georgia","Clarke",4.722548965
+"13061",43264,"Georgia","Clay",5.1409327612
+"13063",56207,"Georgia","Clayton",4.8331999256
+"13065",53350,"Georgia","Clinch",5.9234813833
+"13067",94244,"Georgia","Cobb",3.5411658694
+"13069",48398,"Georgia","Coffee",5.2371606515
+"13071",47235,"Georgia","Colquitt",5.1592846622
+"13073",92571,"Georgia","Columbia",3.7943299725
+"13075",46706,"Georgia","Cook",5.3359185614
+"13077",90031,"Georgia","Coweta",4.0000022105
+"13079",56948,"Georgia","Crawford",4.7664238153
+"13081",47463,"Georgia","Crisp",5.3268637115
+"13083",59531,"Georgia","Dade",4.4390143989
+"13085",84516,"Georgia","Dawson",4.0295775954
+"13087",47383,"Georgia","Decatur",5.2714117389
+"13089",76044,"Georgia","DeKalb",3.8110407599
+"13091",46091,"Georgia","Dodge",4.92347379
+"13093",54109,"Georgia","Dooly",4.9086400183
+"13095",45640,"Georgia","Dougherty",4.8774452753
+"13097",76930,"Georgia","Douglas",4.0642255264
+"13099",48355,"Georgia","Early",5.1587724478
+"13101",61184,"Georgia","Echols",4.7324230309
+"13103",79474,"Georgia","Effingham",4.1605329803
+"13105",48190,"Georgia","Elbert",4.836168765
+"13107",47905,"Georgia","Emanuel",5.119782677
+"13109",55222,"Georgia","Evans",5.2479597785
+"13111",54857,"Georgia","Fannin",4.6605914529
+"13113",105910,"Georgia","Fayette",3.359415486
+"13115",57868,"Georgia","Floyd",4.5517811644
+"13117",131660,"Georgia","Forsyth",3.2830933721
+"13119",52597,"Georgia","Franklin",4.9927438676
+"13121",86267,"Georgia","Fulton",3.622947122
+"13123",70334,"Georgia","Gilmer",4.2824080414
+"13125",60469,"Georgia","Glascock",4.7927657934
+"13127",65970,"Georgia","Glynn",4.3685661965
+"13129",57555,"Georgia","Gordon",4.9770268279
+"13131",51929,"Georgia","Grady",4.9504635811
+"13133",77527,"Georgia","Greene",4.24939187
+"13135",82296,"Georgia","Gwinnett",3.8825714818
+"13137",61292,"Georgia","Habersham",4.6615089639
+"13139",74153,"Georgia","Hall",4.2520118606
+"13141",31767,"Georgia","Hancock",5.2821115414
+"13143",65940,"Georgia","Haralson",4.4899000898
+"13145",85936,"Georgia","Harris",3.7729977747
+"13147",61765,"Georgia","Hart",4.7195263585
+"13149",62965,"Georgia","Heard",4.7929379696
+"13151",79663,"Georgia","Henry",3.8519640947
+"13153",76968,"Georgia","Houston",4.2305313032
+"13155",46383,"Georgia","Irwin",5.1759682994
+"13157",82056,"Georgia","Jackson",4.4125958907
+"13159",57374,"Georgia","Jasper",4.5642640651
+"13161",41780,"Georgia","Jeff Davis",5.3900320843
+"13163",46865,"Georgia","Jefferson",5.2181318467
+"13165",31463,"Georgia","Jenkins",5.7843076979
+"13167",47796,"Georgia","Johnson",5.4103774494
+"13169",66288,"Georgia","Jones",4.3455417857
+"13171",64966,"Georgia","Lamar",4.5109925787
+"13173",39971,"Georgia","Lanier",5.4155687562
+"13175",46776,"Georgia","Laurens",4.8307126422
+"13177",83632,"Georgia","Lee",3.8556367717
+"13179",55149,"Georgia","Liberty",4.4182934947
+"13181",50754,"Georgia","Lincoln",4.6552002695
+"13183",56819,"Georgia","Long",4.761273266
+"13185",52821,"Georgia","Lowndes",4.5702503111
+"13187",67592,"Georgia","Lumpkin",4.5192279927
+"13189",54752,"Georgia","McDuffie",4.9790483833
+"13191",51262,"Georgia","McIntosh",4.9579959183
+"13193",33960,"Georgia","Macon",5.6140676701
+"13195",53626,"Georgia","Madison",4.8919764336
+"13197",48836,"Georgia","Marion",5.1210527041
+"13199",52392,"Georgia","Meriwether",4.9457671234
+"13201",52132,"Georgia","Miller",5.1178636871
+"13205",45966,"Georgia","Mitchell",5.345835301
+"13207",74867,"Georgia","Monroe",4.2679214154
+"13209",49138,"Georgia","Montgomery",4.9617580447
+"13211",81524,"Georgia","Morgan",3.9884377347
+"13213",60617,"Georgia","Murray",5.0074583827
+"13215",54561,"Georgia","Muscogee",4.7294086976
+"13217",70732,"Georgia","Newton",4.3950652732
+"13219",116221,"Georgia","Oconee",3.21198554
+"13221",66672,"Georgia","Oglethorpe",4.4204927944
+"13223",89237,"Georgia","Paulding",4.0838545909
+"13225",60940,"Georgia","Peach",4.5013788604
+"13227",72558,"Georgia","Pickens",4.5605721638
+"13229",54861,"Georgia","Pierce",4.92908669
+"13231",83866,"Georgia","Pike",4.1766685914
+"13233",51956,"Georgia","Polk",4.8630246948
+"13235",42545,"Georgia","Pulaski",5.1609075713
+"13237",60825,"Georgia","Putnam",4.4566044255
+"13239",38889,"Georgia","Quitman",5.0629246189
+"13241",57261,"Georgia","Rabun",4.4022114481
+"13243",24638,"Georgia","Randolph",6.0257990086
+"13245",50605,"Georgia","Richmond",4.8680185916
+"13247",68999,"Georgia","Rockdale",4.2956048484
+"13249",53274,"Georgia","Schley",4.8250069834
+"13251",49941,"Georgia","Screven",4.77196271
+"13253",46063,"Georgia","Seminole",4.8165373465
+"13255",57367,"Georgia","Spalding",4.8569641426
+"13257",52901,"Georgia","Stephens",4.7816895829
+"13259",43094,"Georgia","Stewart",4.9903147061
+"13261",38899,"Georgia","Sumter",5.0219200923
+"13263",48065,"Georgia","Talbot",4.9995577074
+"13265",45881,"Georgia","Taliaferro",4.8222864037
+"13267",51868,"Georgia","Tattnall",5.0968871228
+"13269",40727,"Georgia","Taylor",5.6257035747
+"13271",41801,"Georgia","Telfair",5.7039525845
+"13273",43507,"Georgia","Terrell",5.476822898
+"13275",55958,"Georgia","Thomas",4.3481840481
+"13277",52561,"Georgia","Tift",5.0864701577
+"13279",47310,"Georgia","Toombs",5.0304395028
+"13281",55574,"Georgia","Towns",4.4187698966
+"13283",38641,"Georgia","Treutlen",5.6855721275
+"13285",53599,"Georgia","Troup",4.8095429322
+"13287",39666,"Georgia","Turner",5.5708241966
+"13289",50446,"Georgia","Twiggs",4.8527023555
+"13291",59783,"Georgia","Union",4.4387650175
+"13293",48740,"Georgia","Upson",5.0859516523
+"13295",52276,"Georgia","Walker",4.8899769169
+"13297",79425,"Georgia","Walton",4.2680674213
+"13299",44138,"Georgia","Ware",5.2374150233
+"13301",45091,"Georgia","Warren",5.1384537743
+"13303",43810,"Georgia","Washington",5.1248289237
+"13305",49847,"Georgia","Wayne",5.2480232945
+"13307",35000,"Georgia","Webster",5.1711831741
+"13309",36354,"Georgia","Wheeler",5.3909079133
+"13311",66256,"Georgia","White",4.3444891571
+"13313",59659,"Georgia","Whitfield",4.6733853206
+"13315",46759,"Georgia","Wilcox",5.1235667492
+"13317",51780,"Georgia","Wilkes",4.8529407774
+"13319",40757,"Georgia","Wilkinson",5.0340637008
+"13321",56496,"Georgia","Worth",4.8866568262
+"15001",74238,"Hawaii","Hawaii",3.8511672972
+"15003",99816,"Hawaii","Honolulu",3.2455065678
+"15005",87813,"Hawaii","Kalawao",3.5623098798
+"15007",88869,"Hawaii","Kauai",3.5931315761
+"15009",95379,"Hawaii","Maui",3.5686843316
+"16001",83881,"Idaho","Ada",3.7935390559
+"16003",55891,"Idaho","Adams",4.3162258404
+"16005",60998,"Idaho","Bannock",4.4586727965
+"16007",63244,"Idaho","Bear Lake",4.3914675609
+"16009",54191,"Idaho","Benewah",4.7675695244
+"16011",69433,"Idaho","Bingham",4.5264047874
+"16013",81794,"Idaho","Blaine",3.5420573225
+"16015",70776,"Idaho","Boise",3.8751549572
+"16017",61816,"Idaho","Bonner",4.340859417
+"16019",73103,"Idaho","Bonneville",4.3832047623
+"16021",58810,"Idaho","Boundary",4.5622457384
+"16023",37358,"Idaho","Butte",5.1179718547
+"16025",63750,"Idaho","Camas",4.131932921
+"16027",68473,"Idaho","Canyon",4.4973874351
+"16029",65380,"Idaho","Caribou",4.174158994
+"16031",63525,"Idaho","Cassia",4.3273001385
+"16033",53500,"Idaho","Clark",5.0132620229
+"16035",55885,"Idaho","Clearwater",4.3715938225
+"16037",60357,"Idaho","Custer",4.1347053207
+"16039",55000,"Idaho","Elmore",4.7524880567
+"16041",61679,"Idaho","Franklin",4.3017321829
+"16043",67015,"Idaho","Fremont",4.2509247338
+"16045",65204,"Idaho","Gem",4.3417225773
+"16047",60938,"Idaho","Gooding",4.8201321792
+"16049",54745,"Idaho","Idaho",4.194891199
+"16051",77491,"Idaho","Jefferson",4.2054154084
+"16053",67347,"Idaho","Jerome",4.9908409702
+"16055",71949,"Idaho","Kootenai",4.3294085265
+"16057",62258,"Idaho","Latah",4.0642772502
+"16059",49216,"Idaho","Lemhi",4.3883349444
+"16061",46484,"Idaho","Lewis",4.9884773331
+"16063",62250,"Idaho","Lincoln",4.7462453742
+"16065",53025,"Idaho","Madison",4.8291743802
+"16067",63594,"Idaho","Minidoka",4.7074885223
+"16069",65023,"Idaho","Nez Perce",4.4851174785
+"16071",67383,"Idaho","Oneida",4.1625709115
+"16073",58440,"Idaho","Owyhee",4.7938850095
+"16075",62721,"Idaho","Payette",4.7912229098
+"16077",56671,"Idaho","Power",4.8325521513
+"16079",44807,"Idaho","Shoshone",5.2179684436
+"16081",88906,"Idaho","Teton",3.700128259
+"16083",61183,"Idaho","Twin Falls",4.7230941382
+"16085",72878,"Idaho","Valley",4.2790207201
+"16087",50046,"Idaho","Washington",4.793205435
+"17001",63767,"Illinois","Adams",4.3043865801
+"17003",40365,"Illinois","Alexander",5.1846210092
+"17005",58617,"Illinois","Bond",4.5186962598
+"17007",80502,"Illinois","Boone",4.2820481668
+"17009",64760,"Illinois","Brown",4.6496257767
+"17011",64165,"Illinois","Bureau",4.3779633591
+"17013",88059,"Illinois","Calhoun",4.0634342302
+"17015",61539,"Illinois","Carroll",4.3534492476
+"17017",64826,"Illinois","Cass",4.5876193983
+"17019",61090,"Illinois","Champaign",4.1490759076
+"17021",56933,"Illinois","Christian",4.4551307539
+"17023",65874,"Illinois","Clark",4.1759878394
+"17025",58028,"Illinois","Clay",4.7490253388
+"17027",78054,"Illinois","Clinton",4.1053052063
+"17029",53732,"Illinois","Coles",4.5906946658
+"17031",78304,"Illinois","Cook",4.0410331407
+"17033",64163,"Illinois","Crawford",4.3087858542
+"17035",71274,"Illinois","Cumberland",4.1848058388
+"17037",68617,"Illinois","DeKalb",4.1732091463
+"17039",61823,"Illinois","De Witt",4.3297167744
+"17041",67177,"Illinois","Douglas",4.5448960793
+"17043",107035,"Illinois","DuPage",3.3061991767
+"17045",56687,"Illinois","Edgar",4.5676444606
+"17047",60784,"Illinois","Edwards",4.5702896206
+"17049",73181,"Illinois","Effingham",4.1300348833
+"17051",51962,"Illinois","Fayette",4.6104351737
+"17053",58930,"Illinois","Ford",4.3962918125
+"17055",51031,"Illinois","Franklin",4.8658985022
+"17057",57223,"Illinois","Fulton",4.5911130246
+"17059",51868,"Illinois","Gallatin",4.9369318898
+"17061",58900,"Illinois","Greene",4.6129043411
+"17063",89993,"Illinois","Grundy",3.8720132521
+"17065",60574,"Illinois","Hamilton",4.6658858139
+"17067",61026,"Illinois","Hancock",4.3395319436
+"17069",53026,"Illinois","Hardin",4.6608547537
+"17071",64946,"Illinois","Henderson",4.2614223686
+"17073",66313,"Illinois","Henry",4.1071290664
+"17075",62866,"Illinois","Iroquois",4.5274114564
+"17077",44847,"Illinois","Jackson",4.6838125162
+"17079",67429,"Illinois","Jasper",4.1378152692
+"17081",58384,"Illinois","Jefferson",4.5815603335
+"17083",77607,"Illinois","Jersey",4.0973609418
+"17085",67729,"Illinois","Jo Daviess",4.0788619493
+"17087",63295,"Illinois","Johnson",4.584252736
+"17089",96400,"Illinois","Kane",3.8638339638
+"17091",65489,"Illinois","Kankakee",4.5458911962
+"17093",106358,"Illinois","Kendall",3.6607468003
+"17095",50263,"Illinois","Knox",4.6013183277
+"17097",104553,"Illinois","Lake",3.5611268308
+"17099",67942,"Illinois","LaSalle",4.3562270815
+"17101",55811,"Illinois","Lawrence",4.7223568444
+"17103",64588,"Illinois","Lee",4.327436407
+"17105",68175,"Illinois","Livingston",4.3327219672
+"17107",62547,"Illinois","Logan",4.2709682963
+"17109",48904,"Illinois","McDonough",4.6195135821
+"17111",100101,"Illinois","McHenry",3.5933112994
+"17113",75356,"Illinois","McLean",3.8076345095
+"17115",59622,"Illinois","Macon",4.4431034273
+"17117",64706,"Illinois","Macoupin",4.4753271548
+"17119",71759,"Illinois","Madison",4.3409418943
+"17121",59099,"Illinois","Marion",4.6589220512
+"17123",64940,"Illinois","Marshall",4.414319254
+"17125",58479,"Illinois","Mason",4.4815271704
+"17127",57365,"Illinois","Massac",4.8408718145
+"17129",84846,"Illinois","Menard",4.0946602654
+"17131",67028,"Illinois","Mercer",4.3815513821
+"17133",100685,"Illinois","Monroe",3.5862109011
+"17135",61796,"Illinois","Montgomery",4.4578602749
+"17137",61188,"Illinois","Morgan",4.5407988367
+"17139",72833,"Illinois","Moultrie",4.4276711318
+"17141",75782,"Illinois","Ogle",4.1733060927
+"17143",63409,"Illinois","Peoria",4.2284637759
+"17145",56338,"Illinois","Perry",4.8033702345
+"17147",81151,"Illinois","Piatt",3.8623633626
+"17149",55514,"Illinois","Pike",4.557266188
+"17151",57582,"Illinois","Pope",4.6603740803
+"17153",41038,"Illinois","Pulaski",5.1166392307
+"17155",75726,"Illinois","Putnam",3.9884650632
+"17157",63860,"Illinois","Randolph",4.5498661632
+"17159",61607,"Illinois","Richland",4.4626895309
+"17161",64435,"Illinois","Rock Island",4.4917014089
+"17163",68915,"Illinois","St. Clair",4.1051635141
+"17165",51710,"Illinois","Saline",4.7990632547
+"17167",71653,"Illinois","Sangamon",4.057796058
+"17169",63737,"Illinois","Schuyler",4.5752895943
+"17171",70500,"Illinois","Scott",4.2722637451
+"17173",65585,"Illinois","Shelby",4.3216334586
+"17175",58125,"Illinois","Stark",4.3567458931
+"17177",57527,"Illinois","Stephenson",4.354817343
+"17179",74606,"Illinois","Tazewell",4.2410789269
+"17181",54090,"Illinois","Union",4.700169214
+"17183",52787,"Illinois","Vermilion",4.6603688033
+"17185",54074,"Illinois","Wabash",4.5161298096
+"17187",62700,"Illinois","Warren",4.5068455754
+"17189",75111,"Illinois","Washington",4.0922031441
+"17191",53522,"Illinois","Wayne",4.7354392141
+"17193",54605,"Illinois","White",4.786443794
+"17195",62828,"Illinois","Whiteside",4.351993078
+"17197",103678,"Illinois","Will",3.6162018421
+"17199",60325,"Illinois","Williamson",4.3278039635
+"17201",61738,"Illinois","Winnebago",4.5549710792
+"17203",80093,"Illinois","Woodford",3.7874572797
+"18001",61731,"Indiana","Adams",4.8849084283
+"18003",66222,"Indiana","Allen",4.2673116249
+"18005",76912,"Indiana","Bartholomew",4.1742210301
+"18007",58620,"Indiana","Benton",4.8989423517
+"18009",51108,"Indiana","Blackford",4.983835691
+"18011",103038,"Indiana","Boone",3.3728517457
+"18013",73933,"Indiana","Brown",4.1315788633
+"18015",61464,"Indiana","Carroll",4.2851300124
+"18017",55862,"Indiana","Cass",4.7527443534
+"18019",69005,"Indiana","Clark",4.149178453
+"18021",68364,"Indiana","Clay",4.4555704293
+"18023",59515,"Indiana","Clinton",4.55967567
+"18025",46706,"Indiana","Crawford",5.211844417
+"18027",64113,"Indiana","Daviess",4.8326440276
+"18029",80352,"Indiana","Dearborn",4.1603521725
+"18031",71566,"Indiana","Decatur",4.3194812263
+"18033",68110,"Indiana","DeKalb",4.4059810313
+"18035",53377,"Indiana","Delaware",4.9737033427
+"18037",68945,"Indiana","Dubois",4.0696795441
+"18039",63978,"Indiana","Elkhart",4.6403357649
+"18041",52219,"Indiana","Fayette",4.8464634584
+"18043",75686,"Indiana","Floyd",4.1494224872
+"18045",60559,"Indiana","Fountain",4.6319624782
+"18047",75985,"Indiana","Franklin",4.3067021011
+"18049",62644,"Indiana","Fulton",4.6194853634
+"18051",64153,"Indiana","Gibson",4.4315714659
+"18053",53033,"Indiana","Grant",4.9037994057
+"18055",57771,"Indiana","Greene",4.8076846048
+"18057",114866,"Indiana","Hamilton",3.053416866
+"18059",85262,"Indiana","Hancock",3.8138610715
+"18061",71302,"Indiana","Harrison",4.226913389
+"18063",95261,"Indiana","Hendricks",3.5522352509
+"18065",57632,"Indiana","Henry",4.6982218325
+"18067",62014,"Indiana","Howard",4.4817639737
+"18069",59894,"Indiana","Huntington",4.4311936917
+"18071",65609,"Indiana","Jackson",4.4490196382
+"18073",77777,"Indiana","Jasper",4.2425290023
+"18075",52231,"Indiana","Jay",4.9491394385
+"18077",57801,"Indiana","Jefferson",4.3540398815
+"18079",66892,"Indiana","Jennings",4.5917407532
+"18081",82730,"Indiana","Johnson",4.0546830246
+"18083",58173,"Indiana","Knox",4.6957238127
+"18085",70945,"Indiana","Kosciusko",4.2024031095
+"18087",81658,"Indiana","LaGrange",4.773006692
+"18089",66375,"Indiana","Lake",4.5346410839
+"18091",66854,"Indiana","LaPorte",4.7409725952
+"18093",64210,"Indiana","Lawrence",4.6411801033
+"18095",60060,"Indiana","Madison",4.3923028923
+"18097",59504,"Indiana","Marion",4.3260993494
+"18099",66016,"Indiana","Marshall",4.3563226983
+"18101",65489,"Indiana","Martin",4.4465134354
+"18103",59551,"Indiana","Miami",4.6075286768
+"18105",60308,"Indiana","Monroe",4.2731964702
+"18107",62937,"Indiana","Montgomery",4.5391436348
+"18109",79134,"Indiana","Morgan",4.4282671079
+"18111",63673,"Indiana","Newton",4.5721474826
+"18113",70286,"Indiana","Noble",4.3205318179
+"18115",66333,"Indiana","Ohio",4.2724978037
+"18117",60775,"Indiana","Orange",4.8054092946
+"18119",57947,"Indiana","Owen",4.6684452584
+"18121",63393,"Indiana","Parke",4.9482695399
+"18123",58936,"Indiana","Perry",4.4730514014
+"18125",64182,"Indiana","Pike",4.405110323
+"18127",82915,"Indiana","Porter",3.9639307062
+"18129",75594,"Indiana","Posey",4.0040396992
+"18131",56823,"Indiana","Pulaski",4.6368013838
+"18133",70609,"Indiana","Putnam",4.2495096259
+"18135",59674,"Indiana","Randolph",4.6800859212
+"18137",70285,"Indiana","Ripley",4.3523472092
+"18139",62386,"Indiana","Rush",4.7230734281
+"18141",61877,"Indiana","St. Joseph",4.3670652657
+"18143",49343,"Indiana","Scott",4.9694070904
+"18145",66449,"Indiana","Shelby",4.5760261722
+"18147",66168,"Indiana","Spencer",4.1845269553
+"18149",59916,"Indiana","Starke",5.0143964368
+"18151",68837,"Indiana","Steuben",4.1932432617
+"18153",54556,"Indiana","Sullivan",4.676808334
+"18155",66525,"Indiana","Switzerland",4.8511997874
+"18157",55728,"Indiana","Tippecanoe",4.5201385883
+"18159",71947,"Indiana","Tipton",4.2307805871
+"18161",68514,"Indiana","Union",4.3134797789
+"18163",58839,"Indiana","Vanderburgh",4.3820353912
+"18165",59567,"Indiana","Vermillion",4.6938650986
+"18167",52789,"Indiana","Vigo",4.6548540317
+"18169",66194,"Indiana","Wabash",4.4854855084
+"18171",72833,"Indiana","Warren",4.2755552646
+"18173",91105,"Indiana","Warrick",3.6770904648
+"18175",60695,"Indiana","Washington",4.8020381236
+"18177",54854,"Indiana","Wayne",4.7412843224
+"18179",68074,"Indiana","Wells",4.1238983423
+"18181",65345,"Indiana","White",4.3673568539
+"18183",73636,"Indiana","Whitley",4.1468950843
+"19001",63172,"Iowa","Adair",3.7833822602
+"19003",64750,"Iowa","Adams",3.6985203618
+"19005",64049,"Iowa","Allamakee",3.6914968257
+"19007",50684,"Iowa","Appanoose",4.4121214853
+"19009",54973,"Iowa","Audubon",3.8739175143
+"19011",79444,"Iowa","Benton",3.7021004792
+"19013",62329,"Iowa","Black Hawk",3.8685758693
+"19015",75759,"Iowa","Boone",3.5168188108
+"19017",84727,"Iowa","Bremer",3.3346775372
+"19019",73493,"Iowa","Buchanan",3.4585319852
+"19021",62662,"Iowa","Buena Vista",3.6588829168
+"19023",65743,"Iowa","Butler",3.7419834604
+"19025",65614,"Iowa","Calhoun",3.6808922936
+"19027",68041,"Iowa","Carroll",3.6691459315
+"19029",60815,"Iowa","Cass",4.083813196
+"19031",76959,"Iowa","Cedar",3.4940485959
+"19033",63149,"Iowa","Cerro Gordo",3.8165155136
+"19035",63638,"Iowa","Cherokee",3.8238272009
+"19037",72734,"Iowa","Chickasaw",3.5442588441
+"19039",63120,"Iowa","Clarke",4.4368169323
+"19041",61756,"Iowa","Clay",3.7765585181
+"19043",60441,"Iowa","Clayton",3.9088898035
+"19045",61080,"Iowa","Clinton",3.9879442801
+"19047",61188,"Iowa","Crawford",4.2998121398
+"19049",99533,"Iowa","Dallas",2.7761264772
+"19051",77176,"Iowa","Davis",4.1066790653
+"19053",56068,"Iowa","Decatur",3.986794314
+"19055",75896,"Iowa","Delaware",3.524549744
+"19057",58084,"Iowa","Des Moines",3.9770187746
+"19059",72446,"Iowa","Dickinson",3.1990175821
+"19061",73495,"Iowa","Dubuque",3.515547062
+"19063",64461,"Iowa","Emmet",3.9722186697
+"19065",56043,"Iowa","Fayette",4.2882765249
+"19067",62356,"Iowa","Floyd",3.5992061195
+"19069",62214,"Iowa","Franklin",3.9961554704
+"19071",69375,"Iowa","Fremont",3.734935882
+"19073",56884,"Iowa","Greene",4.0006315992
+"19075",80701,"Iowa","Grundy",3.3085703253
+"19077",75795,"Iowa","Guthrie",3.5703502168
+"19079",66685,"Iowa","Hamilton",3.5721948759
+"19081",67865,"Iowa","Hancock",3.7484723914
+"19083",64656,"Iowa","Hardin",3.7735690048
+"19085",75830,"Iowa","Harrison",3.6811475156
+"19087",62365,"Iowa","Henry",3.7732898255
+"19089",63947,"Iowa","Howard",3.7659259137
+"19091",66617,"Iowa","Humboldt",4.0236758358
+"19093",63125,"Iowa","Ida",3.7250094203
+"19095",69787,"Iowa","Iowa",3.6299416941
+"19097",69709,"Iowa","Jackson",3.9382464229
+"19099",67784,"Iowa","Jasper",3.7872574817
+"19101",52210,"Iowa","Jefferson",3.6823153753
+"19103",72977,"Iowa","Johnson",3.4783917046
+"19105",68781,"Iowa","Jones",3.6176736521
+"19107",60016,"Iowa","Keokuk",4.012806264
+"19109",62553,"Iowa","Kossuth",3.8682715877
+"19111",58094,"Iowa","Lee",3.8980146283
+"19113",75457,"Iowa","Linn",3.5833508949
+"19115",72500,"Iowa","Louisa",4.3372637661
+"19117",63405,"Iowa","Lucas",4.1838999756
+"19119",73735,"Iowa","Lyon",3.4992888742
+"19121",88110,"Iowa","Madison",3.3079975399
+"19123",65200,"Iowa","Mahaska",3.9364223151
+"19125",74193,"Iowa","Marion",3.5375517968
+"19127",70828,"Iowa","Marshall",3.8714390834
+"19129",81907,"Iowa","Mills",3.6109159418
+"19131",66056,"Iowa","Mitchell",3.7958107953
+"19133",59897,"Iowa","Monona",3.9529790536
+"19135",76324,"Iowa","Monroe",3.7957914463
+"19137",61261,"Iowa","Montgomery",4.1356168786
+"19139",67427,"Iowa","Muscatine",3.8041057652
+"19141",65076,"Iowa","O'Brien",3.8985424184
+"19143",67561,"Iowa","Osceola",3.9591246643
+"19145",58264,"Iowa","Page",4.0378105597
+"19147",67306,"Iowa","Palo Alto",3.6260897011
+"19149",79963,"Iowa","Plymouth",3.51973039
+"19151",61434,"Iowa","Pocahontas",3.7862170727
+"19153",78827,"Iowa","Polk",3.6460917061
+"19155",68718,"Iowa","Pottawattamie",3.9015855591
+"19157",61192,"Iowa","Poweshiek",3.7859706401
+"19159",67898,"Iowa","Ringgold",3.7210196504
+"19161",68778,"Iowa","Sac",3.6630495649
+"19163",72792,"Iowa","Scott",3.9691461746
+"19165",70295,"Iowa","Shelby",3.5139510399
+"19167",81914,"Iowa","Sioux",3.219026787
+"19169",66197,"Iowa","Story",3.5977581547
+"19171",65483,"Iowa","Tama",4.2706181628
+"19173",65926,"Iowa","Taylor",3.8746445999
+"19175",56495,"Iowa","Union",3.9212706548
+"19177",58417,"Iowa","Van Buren",4.2425371433
+"19179",56209,"Iowa","Wapello",4.2386927054
+"19181",89741,"Iowa","Warren",3.5154082216
+"19183",71122,"Iowa","Washington",3.643089316
+"19185",58257,"Iowa","Wayne",3.9336024329
+"19187",65335,"Iowa","Webster",3.6735569729
+"19189",62853,"Iowa","Winnebago",3.5779565646
+"19191",67770,"Iowa","Winneshiek",3.3424353344
+"19193",68399,"Iowa","Woodbury",4.2028455991
+"19195",69897,"Iowa","Worth",3.8081576257
+"19197",58240,"Iowa","Wright",4.087128744
+"20001",55059,"Kansas","Allen",4.2167231917
+"20003",67651,"Kansas","Anderson",4.316564645
+"20005",55281,"Kansas","Atchison",3.90902903
+"20007",53774,"Kansas","Barber",4.1162414933
+"20009",54634,"Kansas","Barton",4.0809518715
+"20011",55826,"Kansas","Bourbon",4.1499091622
+"20013",55876,"Kansas","Brown",4.0271105382
+"20015",77724,"Kansas","Butler",3.4876787964
+"20017",52481,"Kansas","Chase",3.9379006942
+"20019",51210,"Kansas","Chautauqua",4.4174103373
+"20021",53382,"Kansas","Cherokee",4.3292846141
+"20023",52730,"Kansas","Cheyenne",4.0623804521
+"20025",58287,"Kansas","Clark",3.6964369982
+"20027",57765,"Kansas","Clay",3.8334693689
+"20029",51197,"Kansas","Cloud",3.992122377
+"20031",67645,"Kansas","Coffey",3.9768138557
+"20033",49754,"Kansas","Comanche",3.6703793075
+"20035",55726,"Kansas","Cowley",4.1175231661
+"20037",49779,"Kansas","Crawford",4.0029622774
+"20039",49412,"Kansas","Decatur",3.7058380104
+"20041",62971,"Kansas","Dickinson",3.7046047774
+"20043",66358,"Kansas","Doniphan",3.8393285724
+"20045",66153,"Kansas","Douglas",3.6569584297
+"20047",52750,"Kansas","Edwards",4.0841428565
+"20049",50000,"Kansas","Elk",4.4704206034
+"20051",59665,"Kansas","Ellis",3.5699087795
+"20053",59844,"Kansas","Ellsworth",3.9004771467
+"20055",68481,"Kansas","Finney",4.2251472135
+"20057",67997,"Kansas","Ford",4.2143364065
+"20059",68217,"Kansas","Franklin",3.6635485163
+"20061",57992,"Kansas","Geary",4.1939514362
+"20063",59417,"Kansas","Gove",3.6616388772
+"20065",47071,"Kansas","Graham",4.106011204
+"20067",84808,"Kansas","Grant",3.8152810763
+"20069",74500,"Kansas","Gray",3.8990339169
+"20071",69948,"Kansas","Greeley",3.4754510119
+"20073",51812,"Kansas","Greenwood",4.0949543435
+"20075",58750,"Kansas","Hamilton",3.8250329379
+"20077",53032,"Kansas","Harper",4.4137050116
+"20079",70685,"Kansas","Harvey",3.9004694914
+"20081",66458,"Kansas","Haskell",4.2349376813
+"20083",63125,"Kansas","Hodgeman",3.4922884473
+"20085",70385,"Kansas","Jackson",3.9669094976
+"20087",74562,"Kansas","Jefferson",3.4687091731
+"20089",47109,"Kansas","Jewell",4.1221270402
+"20091",103644,"Kansas","Johnson",2.8520444055
+"20093",68750,"Kansas","Kearny",4.4253492905
+"20095",59640,"Kansas","Kingman",3.7265482452
+"20097",70347,"Kansas","Kiowa",3.6088791433
+"20099",56143,"Kansas","Labette",4.2245946381
+"20101",52222,"Kansas","Lane",3.9008579011
+"20103",84307,"Kansas","Leavenworth",3.5363355593
+"20105",52540,"Kansas","Lincoln",3.8809664239
+"20107",56697,"Kansas","Linn",3.9168453065
+"20109",70382,"Kansas","Logan",3.9214352074
+"20111",56415,"Kansas","Lyon",4.0469560986
+"20113",71250,"Kansas","McPherson",3.5385421714
+"20115",60011,"Kansas","Marion",3.7452707823
+"20117",64306,"Kansas","Marshall",3.817696164
+"20119",74063,"Kansas","Meade",3.845863203
+"20121",85564,"Kansas","Miami",3.2192235673
+"20123",63008,"Kansas","Mitchell",3.7328101389
+"20125",51513,"Kansas","Montgomery",4.2967734996
+"20127",52866,"Kansas","Morris",3.7372407983
+"20129",57943,"Kansas","Morton",3.8881179766
+"20131",72788,"Kansas","Nemaha",3.5268009897
+"20133",54894,"Kansas","Neosho",3.9538707906
+"20135",64907,"Kansas","Ness",3.9104961698
+"20137",52710,"Kansas","Norton",3.8391257622
+"20139",66155,"Kansas","Osage",3.7738509533
+"20141",58750,"Kansas","Osborne",3.7917849104
+"20143",74551,"Kansas","Ottawa",3.5639993116
+"20145",54141,"Kansas","Pawnee",4.0441240131
+"20147",57611,"Kansas","Phillips",3.9648900512
+"20149",85241,"Kansas","Pottawatomie",3.416781879
+"20151",61685,"Kansas","Pratt",3.7818493248
+"20153",61827,"Kansas","Rawlins",4.1275561585
+"20155",57390,"Kansas","Reno",3.8252719509
+"20157",54531,"Kansas","Republic",3.8739128977
+"20159",58523,"Kansas","Rice",3.8086274585
+"20161",56327,"Kansas","Riley",3.9496825169
+"20163",60821,"Kansas","Rooks",3.5400132496
+"20165",53523,"Kansas","Rush",3.8923980457
+"20167",49929,"Kansas","Russell",4.3714407785
+"20169",59887,"Kansas","Saline",3.9751295547
+"20171",53365,"Kansas","Scott",3.9785209601
+"20173",65372,"Kansas","Sedgwick",3.956753492
+"20175",57131,"Kansas","Seward",4.6663452041
+"20177",63463,"Kansas","Shawnee",3.7028197789
+"20179",66719,"Kansas","Sheridan",3.5683970776
+"20181",61404,"Kansas","Sherman",4.089806641
+"20183",50943,"Kansas","Smith",3.590386151
+"20185",60000,"Kansas","Stafford",3.8600323078
+"20187",66000,"Kansas","Stanton",4.3158440256
+"20189",67950,"Kansas","Stevens",4.4381356231
+"20191",59397,"Kansas","Sumner",3.982425825
+"20193",72417,"Kansas","Thomas",3.5701956108
+"20195",77500,"Kansas","Trego",3.6145677542
+"20197",70000,"Kansas","Wabaunsee",3.4256337842
+"20199",57708,"Kansas","Wallace",3.9344219618
+"20201",59432,"Kansas","Washington",3.6760029185
+"20203",69551,"Kansas","Wichita",3.9497845558
+"20205",55439,"Kansas","Wilson",4.1959067354
+"20207",50670,"Kansas","Woodson",4.078942184
+"20209",57771,"Kansas","Wyandotte",4.4776904837
+"21001",49690,"Kentucky","Adair",5.1116461576
+"21003",57159,"Kentucky","Allen",4.7742750246
+"21005",69885,"Kentucky","Anderson",4.4472124977
+"21007",57111,"Kentucky","Ballard",4.8109332244
+"21009",48141,"Kentucky","Barren",5.2981451047
+"21011",51471,"Kentucky","Bath",5.4190414559
+"21013",33658,"Kentucky","Bell",5.9184824686
+"21015",91697,"Kentucky","Boone",4.0246429358
+"21017",54580,"Kentucky","Bourbon",4.9242848709
+"21019",58327,"Kentucky","Boyd",4.8842168
+"21021",56568,"Kentucky","Boyle",4.6731863604
+"21023",59911,"Kentucky","Bracken",5.025048097
+"21025",38209,"Kentucky","Breathitt",5.6163332851
+"21027",51756,"Kentucky","Breckinridge",5.4612290042
+"21029",73900,"Kentucky","Bullitt",4.6124464577
+"21031",47589,"Kentucky","Butler",5.4064409514
+"21033",52488,"Kentucky","Caldwell",4.9787313426
+"21035",48276,"Kentucky","Calloway",4.9878337331
+"21037",71979,"Kentucky","Campbell",4.1053225902
+"21039",53065,"Kentucky","Carlisle",5.2458593503
+"21041",50625,"Kentucky","Carroll",5.3287756261
+"21043",47004,"Kentucky","Carter",5.6029287311
+"21045",42190,"Kentucky","Casey",5.8395122911
+"21047",48920,"Kentucky","Christian",5.1971809048
+"21049",61878,"Kentucky","Clark",4.6755121858
+"21051",37888,"Kentucky","Clay",5.9798136964
+"21053",41180,"Kentucky","Clinton",5.561712563
+"21055",45810,"Kentucky","Crittenden",5.1739976125
+"21057",40515,"Kentucky","Cumberland",5.5781150073
+"21059",64021,"Kentucky","Daviess",4.5023271731
+"21061",53029,"Kentucky","Edmonson",5.0663162695
+"21063",39469,"Kentucky","Elliott",5.6817612378
+"21065",39980,"Kentucky","Estill",5.6937739826
+"21067",66087,"Kentucky","Fayette",3.9837417624
+"21069",46885,"Kentucky","Fleming",5.3298822503
+"21071",38723,"Kentucky","Floyd",5.9445349122
+"21073",62929,"Kentucky","Franklin",4.3555525845
+"21075",35449,"Kentucky","Fulton",5.6311302022
+"21077",58641,"Kentucky","Gallatin",5.2181941549
+"21079",58263,"Kentucky","Garrard",5.1117461504
+"21081",65461,"Kentucky","Grant",4.7442159938
+"21083",52526,"Kentucky","Graves",5.0942309609
+"21085",47024,"Kentucky","Grayson",5.2891668119
+"21087",38595,"Kentucky","Green",5.5606094035
+"21089",58562,"Kentucky","Greenup",4.865989322
+"21091",68102,"Kentucky","Hancock",4.8883878399
+"21093",64136,"Kentucky","Hardin",4.7469911882
+"21095",35128,"Kentucky","Harlan",6.1891270747
+"21097",58840,"Kentucky","Harrison",4.8565328987
+"21099",45561,"Kentucky","Hart",5.6877069555
+"21101",56912,"Kentucky","Henderson",4.872889172
+"21103",58294,"Kentucky","Henry",5.0024042649
+"21105",68589,"Kentucky","Hickman",4.7736961115
+"21107",54466,"Kentucky","Hopkins",4.8327704165
+"21109",38516,"Kentucky","Jackson",5.7728799614
+"21111",66296,"Kentucky","Jefferson",4.3639045816
+"21113",69905,"Kentucky","Jessamine",4.3545710198
+"21115",44231,"Kentucky","Johnson",5.6554739542
+"21117",76016,"Kentucky","Kenton",4.0220615095
+"21119",38336,"Kentucky","Knott",6.0669805664
+"21121",34254,"Kentucky","Knox",6.0758718416
+"21123",57867,"Kentucky","Larue",5.1691615257
+"21125",53693,"Kentucky","Laurel",5.0948776417
+"21127",42488,"Kentucky","Lawrence",5.808082602
+"21129",31682,"Kentucky","Lee",6.4458308761
+"21131",37019,"Kentucky","Leslie",5.9763652068
+"21133",38466,"Kentucky","Letcher",5.9276377817
+"21135",36662,"Kentucky","Lewis",6.0578729735
+"21137",49487,"Kentucky","Lincoln",5.2111787303
+"21139",56125,"Kentucky","Livingston",5.0896904608
+"21141",58869,"Kentucky","Logan",4.8127365935
+"21143",64081,"Kentucky","Lyon",4.6402933965
+"21145",58490,"Kentucky","McCracken",4.5893064055
+"21147",35000,"Kentucky","McCreary",6.2878004309
+"21149",64020,"Kentucky","McLean",4.5934380615
+"21151",59797,"Kentucky","Madison",4.5168614083
+"21153",31927,"Kentucky","Magoffin",6.4059084455
+"21155",49627,"Kentucky","Marion",5.3200828283
+"21157",64597,"Kentucky","Marshall",4.61341616
+"21159",45265,"Kentucky","Martin",5.8425146948
+"21161",48460,"Kentucky","Mason",4.8452860791
+"21163",68518,"Kentucky","Meade",4.3694358645
+"21165",43797,"Kentucky","Menifee",5.7144344659
+"21167",60728,"Kentucky","Mercer",4.5863976986
+"21169",46932,"Kentucky","Metcalfe",5.2759814646
+"21171",47252,"Kentucky","Monroe",5.3506998911
+"21173",53436,"Kentucky","Montgomery",5.0896975507
+"21175",46018,"Kentucky","Morgan",5.4740289723
+"21177",50935,"Kentucky","Muhlenberg",5.2944033151
+"21179",66212,"Kentucky","Nelson",4.1837733849
+"21181",57539,"Kentucky","Nicholas",5.2928048957
+"21183",52474,"Kentucky","Ohio",5.0039825502
+"21185",117334,"Kentucky","Oldham",3.7127289433
+"21187",56485,"Kentucky","Owen",5.0105467887
+"21189",32844,"Kentucky","Owsley",5.8719972781
+"21191",58723,"Kentucky","Pendleton",4.9048989643
+"21193",45330,"Kentucky","Perry",5.5164100197
+"21195",41271,"Kentucky","Pike",5.7001046308
+"21197",38415,"Kentucky","Powell",5.4019657719
+"21199",48768,"Kentucky","Pulaski",5.2270285983
+"21201",53798,"Kentucky","Robertson",5.472809606
+"21203",45693,"Kentucky","Rockcastle",5.4764251531
+"21205",50038,"Kentucky","Rowan",5.3558378481
+"21207",48220,"Kentucky","Russell",5.2810146372
+"21209",80782,"Kentucky","Scott",4.1765123237
+"21211",81012,"Kentucky","Shelby",4.3234328798
+"21213",55907,"Kentucky","Simpson",4.6459922135
+"21215",101118,"Kentucky","Spencer",4.3213127807
+"21217",63211,"Kentucky","Taylor",4.6049579153
+"21219",57891,"Kentucky","Todd",5.2766783859
+"21221",55864,"Kentucky","Trigg",4.9634332123
+"21223",66492,"Kentucky","Trimble",4.7689244528
+"21225",58260,"Kentucky","Union",4.8866052768
+"21227",63074,"Kentucky","Warren",4.4919547432
+"21229",65456,"Kentucky","Washington",4.6674253938
+"21231",41583,"Kentucky","Wayne",5.8435628914
+"21233",55451,"Kentucky","Webster",5.1122268394
+"21235",44332,"Kentucky","Whitley",5.6531532538
+"21237",28666,"Kentucky","Wolfe",6.9288519294
+"21239",78295,"Kentucky","Woodford",4.0584870807
+"22001",44977,"Louisiana","Acadia",5.1581686416
+"22003",52755,"Louisiana","Allen",5.0236824714
+"22005",93800,"Louisiana","Ascension",3.8348915091
+"22007",47023,"Louisiana","Assumption",4.9582309712
+"22009",38696,"Louisiana","Avoyelles",5.6406117803
+"22011",68525,"Louisiana","Beauregard",4.4725398828
+"22013",34268,"Louisiana","Bienville",5.5785035839
+"22015",64598,"Louisiana","Bossier",4.3221502815
+"22017",47572,"Louisiana","Caddo",4.8944850951
+"22019",64370,"Louisiana","Calcasieu",4.5296551017
+"22021",45707,"Louisiana","Caldwell",5.438959325
+"22023",69847,"Louisiana","Cameron",4.8485266076
+"22025",48259,"Louisiana","Catahoula",5.1432383624
+"22027",32034,"Louisiana","Claiborne",5.7777066108
+"22029",38929,"Louisiana","Concordia",5.5861793021
+"22031",49807,"Louisiana","De Soto",4.9578125226
+"22033",62083,"Louisiana","East Baton Rouge",4.4300507793
+"22035",30856,"Louisiana","East Carroll",6.3964035357
+"22037",64709,"Louisiana","East Feliciana",4.4983273326
+"22039",34526,"Louisiana","Evangeline",5.640699252
+"22041",41129,"Louisiana","Franklin",5.5422929874
+"22043",57362,"Louisiana","Grant",5.2006432125
+"22045",55190,"Louisiana","Iberia",5.0715906503
+"22047",59410,"Louisiana","Iberville",4.8102146208
+"22049",40406,"Louisiana","Jackson",5.2724174778
+"22051",63257,"Louisiana","Jefferson",4.5449822858
+"22053",52470,"Louisiana","Jefferson Davis",4.9179993851
+"22055",66617,"Louisiana","Lafayette",4.3137977877
+"22057",61381,"Louisiana","Lafourche",4.8591597014
+"22059",59926,"Louisiana","LaSalle",4.6501014943
+"22061",37001,"Louisiana","Lincoln",4.8369014366
+"22063",77978,"Louisiana","Livingston",4.2487686303
+"22065",34508,"Louisiana","Madison",5.9410969019
+"22067",37875,"Louisiana","Morehouse",5.471351891
+"22069",41310,"Louisiana","Natchitoches",4.9867519415
+"22071",51116,"Louisiana","Orleans",4.3555588019
+"22073",49261,"Louisiana","Ouachita",4.904619188
+"22075",77996,"Louisiana","Plaquemines",4.3739341333
+"22077",53045,"Louisiana","Pointe Coupee",5.0394605634
+"22079",55407,"Louisiana","Rapides",4.489031092
+"22081",43821,"Louisiana","Red River",5.4419577068
+"22083",48125,"Louisiana","Richland",5.4575122986
+"22085",40777,"Louisiana","Sabine",5.3947434115
+"22087",55857,"Louisiana","St. Bernard",5.147838569
+"22089",79191,"Louisiana","St. Charles",4.283601637
+"22091",46402,"Louisiana","St. Helena",5.2307245106
+"22093",62946,"Louisiana","St. James",4.374669101
+"22095",65114,"Louisiana","St. John the Baptist",4.5925537727
+"22097",44478,"Louisiana","St. Landry",5.5672360882
+"22099",50806,"Louisiana","St. Martin",4.6711553475
+"22101",47322,"Louisiana","St. Mary",5.1847748873
+"22103",76914,"Louisiana","St. Tammany",4.6007319204
+"22105",55274,"Louisiana","Tangipahoa",4.7282900396
+"22107",35653,"Louisiana","Tensas",5.7437036072
+"22109",63088,"Louisiana","Terrebonne",5.0386045143
+"22111",47068,"Louisiana","Union",5.1777560056
+"22113",56194,"Louisiana","Vermilion",4.9464491978
+"22115",56547,"Louisiana","Vernon",4.7066228258
+"22117",41803,"Louisiana","Washington",5.624538819
+"22119",34263,"Louisiana","Webster",5.4934751677
+"22121",80510,"Louisiana","West Baton Rouge",4.3882181094
+"22123",45035,"Louisiana","West Carroll",5.298902416
+"22125",71985,"Louisiana","West Feliciana",4.1130851719
+"22127",44922,"Louisiana","Winn",4.9523934274
+"23001",64500,"Maine","Androscoggin",3.8398476938
+"23003",50843,"Maine","Aroostook",4.5430346748
+"23005",87710,"Maine","Cumberland",3.4016307132
+"23007",56890,"Maine","Franklin",4.0047663554
+"23009",64149,"Maine","Hancock",3.5733365853
+"23011",62118,"Maine","Kennebec",3.8697117107
+"23013",68904,"Maine","Knox",3.6485985876
+"23015",69638,"Maine","Lincoln",3.8159079457
+"23017",54780,"Maine","Oxford",4.1862838168
+"23019",59438,"Maine","Penobscot",4.353302054
+"23021",51805,"Maine","Piscataquis",4.1502425589
+"23023",77591,"Maine","Sagadahoc",3.7871711284
+"23025",53527,"Maine","Somerset",4.4878048624
+"23027",62694,"Maine","Waldo",3.7378764044
+"23029",51669,"Maine","Washington",4.4754327771
+"23031",79743,"Maine","York",3.5411222746
+"24001",55248,"Maryland","Allegany",4.6556076859
+"24003",116009,"Maryland","Anne Arundel",3.5334430645
+"24005",88157,"Maryland","Baltimore",3.5983291841
+"24009",128078,"Maryland","Calvert",3.5557117101
+"24011",65326,"Maryland","Caroline",4.9211224792
+"24013",111672,"Maryland","Carroll",3.7793336336
+"24015",86869,"Maryland","Cecil",3.9863641856
+"24017",116882,"Maryland","Charles",3.5007433879
+"24019",57490,"Maryland","Dorchester",4.6639084588
+"24021",115724,"Maryland","Frederick",3.6753797365
+"24023",64447,"Maryland","Garrett",4.28642181
+"24025",106417,"Maryland","Harford",3.5797863951
+"24027",140971,"Maryland","Howard",2.9919667463
+"24029",71635,"Maryland","Kent",3.8984696501
+"24031",125583,"Maryland","Montgomery",3.0662537304
+"24033",97935,"Maryland","Prince George's",3.583813571
+"24035",108332,"Maryland","Queen Anne's",3.7460830001
+"24037",113668,"Maryland","St. Mary's",3.7154196752
+"24039",52149,"Maryland","Somerset",4.5744356786
+"24041",81667,"Maryland","Talbot",3.7431163602
+"24043",73017,"Maryland","Washington",4.3535063855
+"24045",69421,"Maryland","Wicomico",4.2762923516
+"24047",76689,"Maryland","Worcester",3.6405000812
+"24510",58349,"Maryland","Baltimore City",4.5230661747
+"25001",90447,"Massachusetts","Barnstable",3.4146592057
+"25003",69744,"Massachusetts","Berkshire",4.0091522411
+"25005",80628,"Massachusetts","Bristol",4.1927211762
+"25007",93225,"Massachusetts","Dukes",3.7385625939
+"25009",94378,"Massachusetts","Essex",4.1629007452
+"25011",70383,"Massachusetts","Franklin",4.1063910355
+"25013",66619,"Massachusetts","Hampden",4.5509032119
+"25015",84025,"Massachusetts","Hampshire",3.8858405434
+"25017",121304,"Massachusetts","Middlesex",3.2749696436
+"25019",135590,"Massachusetts","Nantucket",3.3769853412
+"25021",120621,"Massachusetts","Norfolk",3.2039015587
+"25023",105387,"Massachusetts","Plymouth",3.7260877657
+"25025",87669,"Massachusetts","Suffolk",3.787202638
+"25027",88524,"Massachusetts","Worcester",3.8885521852
+"26001",50295,"Michigan","Alcona",4.3794492828
+"26003",55528,"Michigan","Alger",4.0959884106
+"26005",75543,"Michigan","Allegan",4.0208132882
+"26007",49133,"Michigan","Alpena",4.6080740106
+"26009",68850,"Michigan","Antrim",3.8332105991
+"26011",53487,"Michigan","Arenac",4.527440423
+"26013",51911,"Michigan","Baraga",4.5302095259
+"26015",75182,"Michigan","Barry",3.9215529708
+"26017",57887,"Michigan","Bay",4.2108312298
+"26019",71327,"Michigan","Benzie",3.8318683621
+"26021",60379,"Michigan","Berrien",4.2968709002
+"26023",60600,"Michigan","Branch",4.7026549867
+"26025",58191,"Michigan","Calhoun",4.3207486439
+"26027",65183,"Michigan","Cass",4.1451656394
+"26029",69764,"Michigan","Charlevoix",3.8782247972
+"26031",59557,"Michigan","Cheboygan",4.4383067433
+"26033",58408,"Michigan","Chippewa",4.7079556992
+"26035",47816,"Michigan","Clare",5.0030882487
+"26037",82594,"Michigan","Clinton",3.7541496034
+"26039",57998,"Michigan","Crawford",4.4289928056
+"26041",53852,"Michigan","Delta",4.1864810444
+"26043",59651,"Michigan","Dickinson",4.0056218257
+"26045",77158,"Michigan","Eaton",3.5360150474
+"26047",69690,"Michigan","Emmet",3.6852911135
+"26049",58594,"Michigan","Genesee",4.6579428771
+"26051",53717,"Michigan","Gladwin",4.534365956
+"26053",47913,"Michigan","Gogebic",4.3951697987
+"26055",75553,"Michigan","Grand Traverse",3.6719497967
+"26057",57934,"Michigan","Gratiot",4.2731052582
+"26059",59425,"Michigan","Hillsdale",4.622925997
+"26061",52736,"Michigan","Houghton",4.2208305531
+"26063",54475,"Michigan","Huron",4.3356939748
+"26065",62548,"Michigan","Ingham",3.9465161041
+"26067",71720,"Michigan","Ionia",4.0690767548
+"26069",46224,"Michigan","Iosco",4.5328311286
+"26071",52241,"Michigan","Iron",4.3392583782
+"26073",52638,"Michigan","Isabella",4.6209096139
+"26075",62581,"Michigan","Jackson",4.3534069866
+"26077",67905,"Michigan","Kalamazoo",3.8715888884
+"26079",56380,"Michigan","Kalkaska",4.4049536044
+"26081",76247,"Michigan","Kent",3.8230734459
+"26083",55560,"Michigan","Keweenaw",3.645092171
+"26085",45946,"Michigan","Lake",5.0125533053
+"26087",75402,"Michigan","Lapeer",4.2184326202
+"26089",82345,"Michigan","Leelanau",3.4184838092
+"26091",65484,"Michigan","Lenawee",4.2611069741
+"26093",96135,"Michigan","Livingston",3.4927419117
+"26095",51015,"Michigan","Luce",4.6158758537
+"26097",60620,"Michigan","Mackinac",4.6268340467
+"26099",73876,"Michigan","Macomb",4.0259358182
+"26101",59467,"Michigan","Manistee",4.1612712069
+"26103",63115,"Michigan","Marquette",4.2726132287
+"26105",60744,"Michigan","Mason",4.0484791829
+"26107",54132,"Michigan","Mecosta",4.4411971313
+"26109",54074,"Michigan","Menominee",4.2145645439
+"26111",73643,"Michigan","Midland",3.7287351184
+"26113",57667,"Michigan","Missaukee",4.3461806548
+"26115",72573,"Michigan","Monroe",4.2286163432
+"26117",61250,"Michigan","Montcalm",4.4353882512
+"26119",46345,"Michigan","Montmorency",4.6652500907
+"26121",61347,"Michigan","Muskegon",4.5036052638
+"26123",59065,"Michigan","Newaygo",4.4811285766
+"26125",92620,"Michigan","Oakland",3.4070078846
+"26127",60691,"Michigan","Oceana",4.456958948
+"26129",50377,"Michigan","Ogemaw",4.6915310137
+"26131",48316,"Michigan","Ontonagon",4.4338404819
+"26133",54875,"Michigan","Osceola",4.612591365
+"26135",48692,"Michigan","Oscoda",4.7548814383
+"26137",62865,"Michigan","Otsego",4.079795152
+"26139",83932,"Michigan","Ottawa",3.6292533161
+"26141",55986,"Michigan","Presque Isle",4.2636853053
+"26143",49898,"Michigan","Roscommon",4.4851414725
+"26145",56579,"Michigan","Saginaw",4.5040058123
+"26147",66887,"Michigan","St. Clair",4.4200666533
+"26149",62281,"Michigan","St. Joseph",4.5028131788
+"26151",55740,"Michigan","Sanilac",4.4228036582
+"26153",55071,"Michigan","Schoolcraft",4.87435833
+"26155",62498,"Michigan","Shiawassee",4.3099754322
+"26157",59815,"Michigan","Tuscola",4.4354769781
+"26159",65531,"Michigan","Van Buren",4.3979535519
+"26161",84245,"Michigan","Washtenaw",3.2738921308
+"26163",57223,"Michigan","Wayne",4.5173390774
+"26165",58652,"Michigan","Wexford",4.3783172595
+"27001",56406,"Minnesota","Aitkin",3.9541779353
+"27003",95782,"Minnesota","Anoka",3.6717514302
+"27005",68683,"Minnesota","Becker",3.793679148
+"27007",62173,"Minnesota","Beltrami",4.3370767196
+"27009",70346,"Minnesota","Benton",3.8350828034
+"27011",63024,"Minnesota","Big Stone",3.7921265704
+"27013",70906,"Minnesota","Blue Earth",3.9688077953
+"27015",67038,"Minnesota","Brown",3.6062429995
+"27017",74660,"Minnesota","Carlton",3.8032167971
+"27019",116308,"Minnesota","Carver",2.9334296486
+"27021",61970,"Minnesota","Cass",3.9710224409
+"27023",62112,"Minnesota","Chippewa",3.9431795703
+"27025",97446,"Minnesota","Chisago",3.5436515163
+"27027",75006,"Minnesota","Clay",3.8364119461
+"27029",62723,"Minnesota","Clearwater",4.2734491077
+"27031",71937,"Minnesota","Cook",3.3450991117
+"27033",63586,"Minnesota","Cottonwood",3.9665733463
+"27035",65975,"Minnesota","Crow Wing",3.7095599453
+"27037",101360,"Minnesota","Dakota",3.3764892199
+"27039",92890,"Minnesota","Dodge",3.3312761407
+"27041",72472,"Minnesota","Douglas",3.3338471338
+"27043",64000,"Minnesota","Faribault",3.9282897242
+"27045",73234,"Minnesota","Fillmore",3.6594937894
+"27047",65679,"Minnesota","Freeborn",4.1763003294
+"27049",78338,"Minnesota","Goodhue",3.324134272
+"27051",67600,"Minnesota","Grant",3.8195296965
+"27053",92595,"Minnesota","Hennepin",3.450068434
+"27055",71580,"Minnesota","Houston",3.4422234151
+"27057",67197,"Minnesota","Hubbard",3.7570031513
+"27059",84063,"Minnesota","Isanti",3.6669356436
+"27061",63962,"Minnesota","Itasca",3.678816518
+"27063",68368,"Minnesota","Jackson",3.7508502709
+"27065",68995,"Minnesota","Kanabec",4.0968398829
+"27067",73285,"Minnesota","Kandiyohi",3.7348486738
+"27069",66000,"Minnesota","Kittson",3.594820863
+"27071",59779,"Minnesota","Koochiching",3.9419189898
+"27073",66967,"Minnesota","Lac qui Parle",3.5215370878
+"27075",73860,"Minnesota","Lake",3.7475459717
+"27077",61667,"Minnesota","Lake of the Woods",3.7806936685
+"27079",87180,"Minnesota","Le Sueur",3.4786180419
+"27081",64750,"Minnesota","Lincoln",3.7155255226
+"27083",68919,"Minnesota","Lyon",3.6909123798
+"27085",73296,"Minnesota","McLeod",3.9202865815
+"27087",52739,"Minnesota","Mahnomen",5.2049796963
+"27089",69396,"Minnesota","Marshall",3.6791598534
+"27091",61674,"Minnesota","Martin",3.8996572258
+"27093",75926,"Minnesota","Meeker",3.7045806491
+"27095",68088,"Minnesota","Mille Lacs",4.0957216196
+"27097",66264,"Minnesota","Morrison",3.9886780422
+"27099",66972,"Minnesota","Mower",4.0233257775
+"27101",71500,"Minnesota","Murray",3.7494925311
+"27103",79113,"Minnesota","Nicollet",3.6761685375
+"27105",62973,"Minnesota","Nobles",4.0696359302
+"27107",65278,"Minnesota","Norman",3.81604298
+"27109",90420,"Minnesota","Olmsted",3.1069768106
+"27111",67990,"Minnesota","Otter Tail",3.4601969985
+"27113",71504,"Minnesota","Pennington",3.9083358607
+"27115",65059,"Minnesota","Pine",4.2139434716
+"27117",68341,"Minnesota","Pipestone",3.7916880915
+"27119",69540,"Minnesota","Polk",3.7603562097
+"27121",71212,"Minnesota","Pope",3.7846300946
+"27123",78108,"Minnesota","Ramsey",3.9365379315
+"27125",73889,"Minnesota","Red Lake",3.8122973783
+"27127",65617,"Minnesota","Redwood",3.9688631748
+"27129",66313,"Minnesota","Renville",3.9938071354
+"27131",78214,"Minnesota","Rice",3.6626742749
+"27133",75060,"Minnesota","Rock",3.6887930489
+"27135",70122,"Minnesota","Roseau",3.7614538487
+"27137",66491,"Minnesota","St. Louis",3.8754280428
+"27139",118268,"Minnesota","Scott",3.239780176
+"27141",99431,"Minnesota","Sherburne",3.3556528932
+"27143",74781,"Minnesota","Sibley",3.6357478399
+"27145",73105,"Minnesota","Stearns",3.7296228964
+"27147",79722,"Minnesota","Steele",3.6640820935
+"27149",69737,"Minnesota","Stevens",3.8063389229
+"27151",58362,"Minnesota","Swift",3.9864788239
+"27153",63216,"Minnesota","Todd",4.1106600645
+"27155",63456,"Minnesota","Traverse",3.9964728711
+"27157",75063,"Minnesota","Wabasha",3.4624979095
+"27159",54747,"Minnesota","Wadena",3.8894848905
+"27161",71856,"Minnesota","Waseca",3.8034480402
+"27163",110828,"Minnesota","Washington",2.9140819975
+"27165",65197,"Minnesota","Watonwan",3.9174004895
+"27167",67114,"Minnesota","Wilkin",3.8299783398
+"27169",66162,"Minnesota","Winona",3.6945094035
+"27171",102980,"Minnesota","Wright",3.2273760683
+"27173",70605,"Minnesota","Yellow Medicine",3.8774222251
+"28001",37271,"Mississippi","Adams",4.6059943669
+"28003",47716,"Mississippi","Alcorn",4.5445698709
+"28005",34866,"Mississippi","Amite",4.6275100807
+"28007",42680,"Mississippi","Attala",4.4587859147
+"28009",38750,"Mississippi","Benton",4.5768040276
+"28011",37845,"Mississippi","Bolivar",4.6186169483
+"28013",44505,"Mississippi","Calhoun",4.6708082271
+"28015",42285,"Mississippi","Carroll",4.692172972
+"28017",40224,"Mississippi","Chickasaw",4.6907627047
+"28019",41887,"Mississippi","Choctaw",4.3657820754
+"28021",34282,"Mississippi","Claiborne",4.9173484665
+"28023",46329,"Mississippi","Clarke",4.4323911703
+"28025",37412,"Mississippi","Clay",4.5545765841
+"28027",36075,"Mississippi","Coahoma",4.972576412
+"28029",46889,"Mississippi","Copiah",4.382343372
+"28031",40164,"Mississippi","Covington",4.5294437632
+"28033",79666,"Mississippi","DeSoto",3.6895229898
+"28035",49340,"Mississippi","Forrest",4.2008929585
+"28037",43942,"Mississippi","Franklin",4.4551834575
+"28039",51349,"Mississippi","George",4.4586082033
+"28041",50000,"Mississippi","Greene",4.2954283058
+"28043",45745,"Mississippi","Grenada",4.5257223945
+"28045",63623,"Mississippi","Hancock",3.8871157096
+"28047",55211,"Mississippi","Harrison",4.4976647305
+"28049",48596,"Mississippi","Hinds",3.9495306673
+"28051",28818,"Mississippi","Holmes",5.003933051
+"28053",31907,"Mississippi","Humphreys",5.5625725307
+"28055",17900,"Mississippi","Issaquena",4.8543844927
+"28057",57252,"Mississippi","Itawamba",4.0873535965
+"28059",60045,"Mississippi","Jackson",4.0459413889
+"28061",43914,"Mississippi","Jasper",4.2271015752
+"28063",31544,"Mississippi","Jefferson",5.0048224182
+"28065",36473,"Mississippi","Jefferson Davis",4.5758930524
+"28067",49451,"Mississippi","Jones",4.3956631548
+"28069",42947,"Mississippi","Kemper",4.3671025704
+"28071",59748,"Mississippi","Lafayette",3.7142980181
+"28073",67972,"Mississippi","Lamar",3.5783391264
+"28075",45649,"Mississippi","Lauderdale",4.4514743847
+"28077",41096,"Mississippi","Lawrence",4.7047905857
+"28079",46669,"Mississippi","Leake",4.4022508716
+"28081",64479,"Mississippi","Lee",3.7688137256
+"28083",33115,"Mississippi","Leflore",5.0053519108
+"28085",47069,"Mississippi","Lincoln",4.287060406
+"28087",53687,"Mississippi","Lowndes",4.1287581745
+"28089",79105,"Mississippi","Madison",3.1573027896
+"28091",38399,"Mississippi","Marion",4.69614097
+"28093",51431,"Mississippi","Marshall",4.3465925533
+"28095",51190,"Mississippi","Monroe",4.4228020744
+"28097",36845,"Mississippi","Montgomery",4.9972294904
+"28099",47400,"Mississippi","Neshoba",5.144321967
+"28101",49160,"Mississippi","Newton",4.4024955514
+"28103",42298,"Mississippi","Noxubee",4.6302049117
+"28105",42953,"Mississippi","Oktibbeha",4.0788029245
+"28107",47894,"Mississippi","Panola",4.8243187038
+"28109",54220,"Mississippi","Pearl River",4.2499665369
+"28111",48333,"Mississippi","Perry",4.5962448304
+"28113",40131,"Mississippi","Pike",4.8209512298
+"28115",54414,"Mississippi","Pontotoc",4.365379001
+"28117",51578,"Mississippi","Prentiss",4.3532712299
+"28119",31192,"Mississippi","Quitman",5.0285947811
+"28121",76460,"Mississippi","Rankin",3.4640791648
+"28123",44968,"Mississippi","Scott",4.7802668039
+"28125",41000,"Mississippi","Sharkey",5.0349383532
+"28127",50867,"Mississippi","Simpson",4.3764217562
+"28129",51983,"Mississippi","Smith",4.5112034518
+"28131",55894,"Mississippi","Stone",4.4901836205
+"28133",37403,"Mississippi","Sunflower",4.5546250342
+"28135",35428,"Mississippi","Tallahatchie",4.641498305
+"28137",61286,"Mississippi","Tate",4.2390019404
+"28139",47968,"Mississippi","Tippah",4.6150459698
+"28141",45545,"Mississippi","Tishomingo",4.5814932927
+"28143",41676,"Mississippi","Tunica",5.0409852542
+"28145",55970,"Mississippi","Union",4.2983085781
+"28147",37145,"Mississippi","Walthall",4.3586391741
+"28149",54117,"Mississippi","Warren",3.8438925425
+"28151",38394,"Mississippi","Washington",4.6827100982
+"28153",34875,"Mississippi","Wayne",4.6722402739
+"28155",55657,"Mississippi","Webster",4.1770346211
+"28157",34928,"Mississippi","Wilkinson",4.7602180709
+"28159",45516,"Mississippi","Winston",4.5967792896
+"28161",47006,"Mississippi","Yalobusha",4.5290625334
+"28163",41867,"Mississippi","Yazoo",4.8838755796
+"29001",51020,"Missouri","Adair",4.9337782555
+"29003",68774,"Missouri","Andrew",4.2744863557
+"29005",58521,"Missouri","Atchison",4.7526400757
+"29007",51745,"Missouri","Audrain",5.1587916936
+"29009",55592,"Missouri","Barry",5.1041936363
+"29011",48105,"Missouri","Barton",5.4647852771
+"29013",54122,"Missouri","Bates",5.066243143
+"29015",50229,"Missouri","Benton",5.0894741945
+"29017",52306,"Missouri","Bollinger",5.3317483582
+"29019",66564,"Missouri","Boone",4.2437697768
+"29021",58303,"Missouri","Buchanan",4.7824871206
+"29023",47245,"Missouri","Butler",5.6116217027
+"29025",58269,"Missouri","Caldwell",5.0249164178
+"29027",70599,"Missouri","Callaway",4.557682023
+"29029",59834,"Missouri","Camden",4.5479126956
+"29031",65070,"Missouri","Cape Girardeau",4.3652023498
+"29033",59101,"Missouri","Carroll",4.728408282
+"29035",45737,"Missouri","Carter",5.3334511192
+"29037",82473,"Missouri","Cass",3.9407548884
+"29039",43589,"Missouri","Cedar",5.349742346
+"29041",61910,"Missouri","Chariton",4.6582340886
+"29043",75787,"Missouri","Christian",4.2824241322
+"29045",53362,"Missouri","Clark",5.052590743
+"29047",82264,"Missouri","Clay",4.2058899053
+"29049",66494,"Missouri","Clinton",4.5325290752
+"29051",70667,"Missouri","Cole",4.0566410318
+"29053",62239,"Missouri","Cooper",4.6459877431
+"29055",52367,"Missouri","Crawford",5.207148577
+"29057",46806,"Missouri","Dade",5.4439203178
+"29059",46547,"Missouri","Dallas",5.2706594919
+"29061",59706,"Missouri","Daviess",5.1228346131
+"29063",67910,"Missouri","DeKalb",4.4852531809
+"29065",51410,"Missouri","Dent",5.2205916803
+"29067",47848,"Missouri","Douglas",5.2332062541
+"29069",44868,"Missouri","Dunklin",5.6177535233
+"29071",70111,"Missouri","Franklin",4.5903520138
+"29073",62638,"Missouri","Gasconade",4.6075445591
+"29075",53799,"Missouri","Gentry",4.898893394
+"29077",54968,"Missouri","Greene",4.5101075648
+"29079",51045,"Missouri","Grundy",4.9036166227
+"29081",51809,"Missouri","Harrison",5.3006680781
+"29083",54903,"Missouri","Henry",4.901537067
+"29085",33302,"Missouri","Hickory",5.5547961865
+"29087",55153,"Missouri","Holt",4.6930729479
+"29089",59023,"Missouri","Howard",4.5679413219
+"29091",46401,"Missouri","Howell",5.66705631
+"29093",53401,"Missouri","Iron",5.0170639718
+"29095",65169,"Missouri","Jackson",4.4240882296
+"29097",54963,"Missouri","Jasper",4.763591925
+"29099",77217,"Missouri","Jefferson",4.2795198967
+"29101",62503,"Missouri","Johnson",4.5305545757
+"29103",49167,"Missouri","Knox",5.3197908384
+"29105",49202,"Missouri","Laclede",5.0201043651
+"29107",78397,"Missouri","Lafayette",4.472067321
+"29109",52225,"Missouri","Lawrence",5.2210913306
+"29111",49779,"Missouri","Lewis",5.1457054895
+"29113",82543,"Missouri","Lincoln",4.512249462
+"29115",58435,"Missouri","Linn",4.8713665075
+"29117",58772,"Missouri","Livingston",4.9599582433
+"29119",46494,"Missouri","McDonald",5.7386747184
+"29121",54113,"Missouri","Macon",4.4696759487
+"29123",54042,"Missouri","Madison",4.7667878974
+"29125",56491,"Missouri","Maries",4.9244258152
+"29127",62492,"Missouri","Marion",4.793929401
+"29129",55592,"Missouri","Mercer",4.9649553702
+"29131",53490,"Missouri","Miller",4.8251627734
+"29133",40833,"Missouri","Mississippi",6.0630772304
+"29135",66792,"Missouri","Moniteau",4.7247832227
+"29137",50245,"Missouri","Monroe",5.0300225695
+"29139",58660,"Missouri","Montgomery",4.9527918591
+"29141",48841,"Missouri","Morgan",5.2038452568
+"29143",44092,"Missouri","New Madrid",5.4510590278
+"29145",60313,"Missouri","Newton",4.9360844324
+"29147",53917,"Missouri","Nodaway",4.5063996877
+"29149",41365,"Missouri","Oregon",5.5552973066
+"29151",70313,"Missouri","Osage",4.2413880965
+"29153",39125,"Missouri","Ozark",5.6855203782
+"29155",37426,"Missouri","Pemiscot",5.9139685538
+"29157",61486,"Missouri","Perry",4.7368959949
+"29159",57581,"Missouri","Pettis",5.0394384452
+"29161",53242,"Missouri","Phelps",4.7910521076
+"29163",53363,"Missouri","Pike",4.8198522954
+"29165",92543,"Missouri","Platte",3.7597183797
+"29167",54487,"Missouri","Polk",4.8957598582
+"29169",62541,"Missouri","Pulaski",4.6099716061
+"29171",50950,"Missouri","Putnam",4.5053619143
+"29173",62615,"Missouri","Ralls",4.5956150818
+"29175",51480,"Missouri","Randolph",5.1610229242
+"29177",69779,"Missouri","Ray",4.981039319
+"29179",43856,"Missouri","Reynolds",5.2628471525
+"29181",42541,"Missouri","Ripley",5.4796469599
+"29183",99596,"Missouri","St. Charles",3.8214790279
+"29185",43483,"Missouri","St. Clair",5.2213195654
+"29186",61215,"Missouri","Ste. Genevieve",4.5756867526
+"29187",53083,"Missouri","St. Francois",5.0190219413
+"29189",78067,"Missouri","St. Louis",3.9874160307
+"29195",55396,"Missouri","Saline",4.7551506567
+"29197",53728,"Missouri","Schuyler",4.5734037075
+"29199",58656,"Missouri","Scotland",4.8389406609
+"29201",54621,"Missouri","Scott",5.080827072
+"29203",46767,"Missouri","Shannon",5.1035678946
+"29205",50387,"Missouri","Shelby",5.2175920866
+"29207",51703,"Missouri","Stoddard",5.3930012835
+"29209",58392,"Missouri","Stone",4.904882542
+"29211",53438,"Missouri","Sullivan",5.051680078
+"29213",54467,"Missouri","Taney",4.8684784346
+"29215",42870,"Missouri","Texas",5.4160549204
+"29217",53318,"Missouri","Vernon",5.1093724498
+"29219",75531,"Missouri","Warren",4.4897359272
+"29221",49364,"Missouri","Washington",5.4715751451
+"29223",42758,"Missouri","Wayne",5.841915142
+"29225",65103,"Missouri","Webster",4.8427948591
+"29227",43536,"Missouri","Worth",5.0028203107
+"29229",43573,"Missouri","Wright",5.638817949
+"29510",52941,"Missouri","St. Louis City",4.5816858193
+"30001",55867,"Montana","Beaverhead",3.9878066543
+"30003",52463,"Montana","Big Horn",5.6387431061
+"30005",58507,"Montana","Blaine",5.070065937
+"30007",61679,"Montana","Broadwater",3.9143023229
+"30009",66780,"Montana","Carbon",3.6959370668
+"30011",46486,"Montana","Carter",4.2044340327
+"30013",61351,"Montana","Cascade",4.3375022455
+"30015",51791,"Montana","Chouteau",4.5880814088
+"30017",61114,"Montana","Custer",3.9414201767
+"30019",47378,"Montana","Daniels",4.0904133978
+"30021",68168,"Montana","Dawson",3.7156845104
+"30023",46436,"Montana","Deer Lodge",4.591815717
+"30025",79750,"Montana","Fallon",3.8497948443
+"30027",58321,"Montana","Fergus",3.9799512498
+"30029",68025,"Montana","Flathead",3.9962038211
+"30031",83434,"Montana","Gallatin",3.4340767925
+"30033",61786,"Montana","Garfield",4.0206588995
+"30035",41078,"Montana","Glacier",5.9185515663
+"30037",54792,"Montana","Golden Valley",4.207808952
+"30039",53917,"Montana","Granite",4.2305284676
+"30041",58427,"Montana","Hill",4.6903243916
+"30043",73875,"Montana","Jefferson",3.441707414
+"30045",58750,"Montana","Judith Basin",3.9808637242
+"30047",58009,"Montana","Lake",4.5840422893
+"30049",71967,"Montana","Lewis and Clark",3.6625656102
+"30051",48047,"Montana","Liberty",5.0574439252
+"30053",44593,"Montana","Lincoln",4.484084302
+"30055",79022,"Montana","McCone",3.5580459779
+"30057",61226,"Montana","Madison",3.5544914816
+"30059",55753,"Montana","Meagher",3.9039107473
+"30061",56098,"Montana","Mineral",4.0429367136
+"30063",66840,"Montana","Missoula",3.9421875416
+"30065",54875,"Montana","Musselshell",4.3549996145
+"30067",67602,"Montana","Park",3.5725189584
+"30069",57981,"Montana","Petroleum",3.9030651853
+"30071",61250,"Montana","Phillips",4.0275814563
+"30073",59861,"Montana","Pondera",4.62512683
+"30075",60313,"Montana","Powder River",4.0319557824
+"30077",60994,"Montana","Powell",4.0285144594
+"30079",44107,"Montana","Prairie",4.9055844508
+"30081",67424,"Montana","Ravalli",3.7282481308
+"30083",67515,"Montana","Richland",3.9600546445
+"30085",51038,"Montana","Roosevelt",5.5551460193
+"30087",57656,"Montana","Rosebud",5.1626613407
+"30089",47110,"Montana","Sanders",4.8618736981
+"30091",67457,"Montana","Sheridan",3.9376210619
+"30093",56297,"Montana","Silver Bow",4.1809505745
+"30095",78380,"Montana","Stillwater",3.6660049646
+"30097",64872,"Montana","Sweet Grass",3.8710820936
+"30099",65224,"Montana","Teton",4.1336186517
+"30101",54040,"Montana","Toole",4.3892359194
+"30103",70096,"Montana","Treasure",3.9947116763
+"30105",59725,"Montana","Valley",4.162445615
+"30107",48272,"Montana","Wheatland",4.4934514729
+"30109",58750,"Montana","Wibaux",4.2386613399
+"30111",72300,"Montana","Yellowstone",4.0125373372
+"31001",61502,"Nebraska","Adams",3.8305062656
+"31003",61924,"Nebraska","Antelope",3.7115176869
+"31005",66667,"Nebraska","Arthur",3.6128986831
+"31007",62375,"Nebraska","Banner",3.3900004204
+"31009",52083,"Nebraska","Blaine",3.887890346
+"31011",66800,"Nebraska","Boone",3.7169151788
+"31013",67893,"Nebraska","Box Butte",3.9582498333
+"31015",57120,"Nebraska","Boyd",3.7453925916
+"31017",44267,"Nebraska","Brown",3.8247677462
+"31019",70093,"Nebraska","Buffalo",3.785706336
+"31021",54950,"Nebraska","Burt",3.7776770546
+"31023",75690,"Nebraska","Butler",3.5598189366
+"31025",87673,"Nebraska","Cass",3.3989847244
+"31027",72035,"Nebraska","Cedar",3.3822915126
+"31029",57313,"Nebraska","Chase",3.83925208
+"31031",62373,"Nebraska","Cherry",3.8212823592
+"31033",54038,"Nebraska","Cheyenne",3.8417887866
+"31035",73933,"Nebraska","Clay",3.6898647844
+"31037",71205,"Nebraska","Colfax",4.1393388742
+"31039",68917,"Nebraska","Cuming",3.4738060427
+"31041",62288,"Nebraska","Custer",3.6989517455
+"31043",66112,"Nebraska","Dakota",3.8401610705
+"31045",53760,"Nebraska","Dawes",3.7088139106
+"31047",67462,"Nebraska","Dawson",4.0814935109
+"31049",58875,"Nebraska","Deuel",3.6882734257
+"31051",60568,"Nebraska","Dixon",3.8974684732
+"31053",66793,"Nebraska","Dodge",3.6121670847
+"31055",76083,"Nebraska","Douglas",3.5700991794
+"31057",58977,"Nebraska","Dundy",3.6106463569
+"31059",72335,"Nebraska","Fillmore",3.5286376502
+"31061",55625,"Nebraska","Franklin",3.9365502513
+"31063",62928,"Nebraska","Frontier",3.7221339011
+"31065",58895,"Nebraska","Furnas",3.8000632574
+"31067",60035,"Nebraska","Gage",3.9051026118
+"31069",47139,"Nebraska","Garden",4.184598698
+"31071",64957,"Nebraska","Garfield",3.4078442911
+"31073",76583,"Nebraska","Gosper",3.4935323213
+"31075",65139,"Nebraska","Grant",3.6668288294
+"31077",52813,"Nebraska","Greeley",3.7705617407
+"31079",63553,"Nebraska","Hall",3.9112865575
+"31081",73254,"Nebraska","Hamilton",3.5334389595
+"31083",64583,"Nebraska","Harlan",3.5314499957
+"31085",59405,"Nebraska","Hayes",3.9193948334
+"31087",49456,"Nebraska","Hitchcock",3.8852387862
+"31089",66325,"Nebraska","Holt",3.5792701138
+"31091",43333,"Nebraska","Hooker",3.701071695
+"31093",70766,"Nebraska","Howard",3.5800648706
+"31095",54494,"Nebraska","Jefferson",3.8033535544
+"31097",64352,"Nebraska","Johnson",3.5664935994
+"31099",74276,"Nebraska","Kearney",3.5757925645
+"31101",59511,"Nebraska","Keith",3.8197390184
+"31103",63977,"Nebraska","Keya Paha",4.0493500045
+"31105",53151,"Nebraska","Kimball",4.2581724956
+"31107",61250,"Nebraska","Knox",4.0806524778
+"31109",70387,"Nebraska","Lancaster",3.6778782233
+"31111",63019,"Nebraska","Lincoln",4.0680151393
+"31113",69250,"Nebraska","Logan",3.3846462579
+"31115",50000,"Nebraska","Loup",3.6685673172
+"31117",58250,"Nebraska","McPherson",3.7990978522
+"31119",61139,"Nebraska","Madison",3.866058625
+"31121",57873,"Nebraska","Merrick",3.7906081086
+"31123",57325,"Nebraska","Morrill",3.8833477746
+"31125",60054,"Nebraska","Nance",3.935100286
+"31127",57196,"Nebraska","Nemaha",3.9547929266
+"31129",66000,"Nebraska","Nuckolls",3.5566142299
+"31131",73031,"Nebraska","Otoe",3.6073437964
+"31133",55833,"Nebraska","Pawnee",4.1346577408
+"31135",61786,"Nebraska","Perkins",3.6485624768
+"31137",65114,"Nebraska","Phelps",3.6617624451
+"31139",65603,"Nebraska","Pierce",3.6133475118
+"31141",69943,"Nebraska","Platte",3.8961441587
+"31143",67695,"Nebraska","Polk",3.6408906034
+"31145",58344,"Nebraska","Red Willow",3.6976834723
+"31147",50321,"Nebraska","Richardson",4.1440364041
+"31149",57566,"Nebraska","Rock",3.5902878972
+"31151",71104,"Nebraska","Saline",3.9593395953
+"31153",95911,"Nebraska","Sarpy",3.2412275884
+"31155",84474,"Nebraska","Saunders",3.3366918343
+"31157",60137,"Nebraska","Scotts Bluff",4.0969038057
+"31159",79677,"Nebraska","Seward",3.4131320627
+"31161",53609,"Nebraska","Sheridan",4.0004834742
+"31163",60194,"Nebraska","Sherman",3.8793531764
+"31165",50833,"Nebraska","Sioux",4.1769301766
+"31167",76035,"Nebraska","Stanton",3.5388199345
+"31169",60305,"Nebraska","Thayer",3.8352176165
+"31171",70069,"Nebraska","Thomas",3.4295273084
+"31173",63459,"Nebraska","Thurston",4.9250150167
+"31175",62321,"Nebraska","Valley",3.7652088023
+"31177",89671,"Nebraska","Washington",3.2957370674
+"31179",64951,"Nebraska","Wayne",3.7882337237
+"31181",62571,"Nebraska","Webster",3.6636049359
+"31183",59167,"Nebraska","Wheeler",3.6107667103
+"31185",72914,"Nebraska","York",3.3501709762
+"32001",69922,"Nevada","Churchill",4.5110887014
+"32003",69911,"Nevada","Clark",4.9615146495
+"32005",84262,"Nevada","Douglas",4.1556369808
+"32007",87755,"Nevada","Elko",4.4211771095
+"32009",40694,"Nevada","Esmeralda",5.2532084398
+"32011",73929,"Nevada","Eureka",4.8407592978
+"32013",75574,"Nevada","Humboldt",4.6242379151
+"32015",92388,"Nevada","Lander",4.7409376236
+"32017",67412,"Nevada","Lincoln",4.3911904377
+"32019",70026,"Nevada","Lyon",4.7562656271
+"32021",46625,"Nevada","Mineral",5.4665992093
+"32023",53602,"Nevada","Nye",5.0310184402
+"32027",66304,"Nevada","Pershing",4.6282986155
+"32029",86932,"Nevada","Storey",4.1962452526
+"32031",81531,"Nevada","Washoe",4.3295192639
+"32033",71297,"Nevada","White Pine",4.8054094249
+"32510",67465,"Nevada","Carson City",4.6211538763
+"33001",80719,"New Hampshire","Belknap",3.8981918176
+"33003",77049,"New Hampshire","Carroll",3.5014588745
+"33005",76551,"New Hampshire","Cheshire",3.8826219051
+"33007",55247,"New Hampshire","Coos",4.4400595399
+"33009",79949,"New Hampshire","Grafton",3.4283239498
+"33011",95112,"New Hampshire","Hillsborough",3.4868986164
+"33013",88806,"New Hampshire","Merrimack",3.7429594764
+"33015",110225,"New Hampshire","Rockingham",3.6067619729
+"33017",83212,"New Hampshire","Strafford",3.7793220104
+"33019",70788,"New Hampshire","Sullivan",4.0331042092
+"34001",73113,"New Jersey","Atlantic",4.0530038812
+"34003",118714,"New Jersey","Bergen",3.4230991575
+"34005",102615,"New Jersey","Burlington",3.5494273388
+"34007",82005,"New Jersey","Camden",4.0535185675
+"34009",83870,"New Jersey","Cape May",3.8750535716
+"34011",62310,"New Jersey","Cumberland",4.4829061944
+"34013",73785,"New Jersey","Essex",3.9981957653
+"34015",99668,"New Jersey","Gloucester",3.605807
+"34017",86854,"New Jersey","Hudson",3.839750237
+"34019",133534,"New Jersey","Hunterdon",3.1056057709
+"34021",92697,"New Jersey","Mercer",3.7996567068
+"34023",105206,"New Jersey","Middlesex",3.3973924977
+"34025",118527,"New Jersey","Monmouth",3.3461407802
+"34027",130808,"New Jersey","Morris",3.0803797159
+"34029",82379,"New Jersey","Ocean",3.9186173632
+"34031",84465,"New Jersey","Passaic",4.3049840312
+"34033",73378,"New Jersey","Salem",4.2325059875
+"34035",131948,"New Jersey","Somerset",2.892996505
+"34037",111094,"New Jersey","Sussex",3.4335656114
+"34039",95000,"New Jersey","Union",3.6531379995
+"34041",92620,"New Jersey","Warren",3.5243449348
+"35001",62220,"New Mexico","Bernalillo",4.3128328007
+"35003",44777,"New Mexico","Catron",5.1002332298
+"35005",49673,"New Mexico","Chaves",4.882402032
+"35006",49866,"New Mexico","Cibola",5.4930712624
+"35007",46286,"New Mexico","Colfax",4.6171900766
+"35009",55427,"New Mexico","Curry",4.7963836471
+"35011",34702,"New Mexico","De Baca",4.9194807615
+"35013",51232,"New Mexico","Dona Ana",4.5880311586
+"35015",77458,"New Mexico","Eddy",4.5558908824
+"35017",44895,"New Mexico","Grant",4.8671537509
+"35019",38713,"New Mexico","Guadalupe",4.9606056275
+"35021",39489,"New Mexico","Harding",4.6732227657
+"35023",53651,"New Mexico","Hidalgo",5.0871263075
+"35025",65855,"New Mexico","Lea",4.7990382399
+"35027",47919,"New Mexico","Lincoln",4.643447382
+"35028",135801,"New Mexico","Los Alamos",2.9075849605
+"35029",38241,"New Mexico","Luna",5.6908675342
+"35031",44029,"New Mexico","McKinley",6.2938913082
+"35033",40231,"New Mexico","Mora",4.7856343963
+"35035",50833,"New Mexico","Otero",4.6047593824
+"35037",38998,"New Mexico","Quay",4.9887738195
+"35039",52031,"New Mexico","Rio Arriba",5.0273286848
+"35041",52644,"New Mexico","Roosevelt",4.7518779328
+"35043",76424,"New Mexico","Sandoval",4.377108857
+"35045",50734,"New Mexico","San Juan",5.4398286698
+"35047",43490,"New Mexico","San Miguel",5.2112599147
+"35049",70522,"New Mexico","Santa Fe",4.2077820334
+"35051",35256,"New Mexico","Sierra",4.8322620907
+"35053",40699,"New Mexico","Socorro",5.4076757047
+"35055",55145,"New Mexico","Taos",4.4561577552
+"35057",50727,"New Mexico","Torrance",5.1621173745
+"35059",41714,"New Mexico","Union",4.9117477887
+"35061",56246,"New Mexico","Valencia",4.6098676949
+"36001",78829,"New York","Albany",3.6569290261
+"36003",58725,"New York","Allegany",4.4234105208
+"36005",47036,"New York","Bronx",5.139964828
+"36007",58317,"New York","Broome",4.1610765418
+"36009",56889,"New York","Cattaraugus",4.5320813555
+"36011",63227,"New York","Cayuga",4.4481191882
+"36013",54625,"New York","Chautauqua",4.4129328632
+"36015",61358,"New York","Chemung",4.2616451177
+"36017",61741,"New York","Chenango",4.3754668629
+"36019",67097,"New York","Clinton",4.0268932384
+"36021",81741,"New York","Columbia",3.8397520041
+"36023",65029,"New York","Cortland",4.1399701225
+"36025",58338,"New York","Delaware",4.4911108671
+"36027",94578,"New York","Dutchess",3.9453868121
+"36029",68014,"New York","Erie",4.081943502
+"36031",68090,"New York","Essex",4.0886844148
+"36033",60270,"New York","Franklin",4.6124542095
+"36035",60557,"New York","Fulton",4.1638855566
+"36037",68178,"New York","Genesee",4.0621412454
+"36039",70294,"New York","Greene",4.0581157396
+"36041",66891,"New York","Hamilton",4.2453996422
+"36043",68104,"New York","Herkimer",4.1423039256
+"36045",62782,"New York","Jefferson",4.0191951279
+"36047",74692,"New York","Kings",4.1681079602
+"36049",64401,"New York","Lewis",4.1647594126
+"36051",70443,"New York","Livingston",4.0865648355
+"36053",68869,"New York","Madison",3.9602296043
+"36055",71450,"New York","Monroe",3.52543581
+"36057",58033,"New York","Montgomery",4.6227102195
+"36059",137709,"New York","Nassau",3.5747737949
+"36061",99880,"New York","New York",3.7957380503
+"36063",65882,"New York","Niagara",4.0080942539
+"36065",66402,"New York","Oneida",4.0009182708
+"36067",71479,"New York","Onondaga",3.9925686994
+"36069",76603,"New York","Ontario",3.7450281234
+"36071",91806,"New York","Orange",3.8928762462
+"36073",61069,"New York","Orleans",4.411601573
+"36075",65054,"New York","Oswego",4.1133011569
+"36077",65778,"New York","Otsego",4.2296271203
+"36079",120970,"New York","Putnam",3.339250487
+"36081",82431,"New York","Queens",4.0322776141
+"36083",83734,"New York","Rensselaer",4.0011810863
+"36085",96185,"New York","Richmond",3.831365291
+"36087",106173,"New York","Rockland",3.8609441725
+"36089",58339,"New York","St. Lawrence",4.1475075743
+"36091",97038,"New York","Saratoga",3.4119877693
+"36093",75056,"New York","Schenectady",3.7449084433
+"36095",71479,"New York","Schoharie",3.9773002137
+"36097",61316,"New York","Schuyler",4.3078209969
+"36099",64050,"New York","Seneca",4.291352647
+"36101",62506,"New York","Steuben",4.090271169
+"36103",122498,"New York","Suffolk",3.7009486936
+"36105",67841,"New York","Sullivan",4.1797439653
+"36107",70427,"New York","Tioga",3.9446070875
+"36109",69995,"New York","Tompkins",3.8854440176
+"36111",77197,"New York","Ulster",3.9691282518
+"36113",74531,"New York","Warren",3.7851414466
+"36115",68703,"New York","Washington",4.0361116366
+"36117",71007,"New York","Wayne",4.0869053744
+"36119",114651,"New York","Westchester",3.2781061106
+"36121",65066,"New York","Wyoming",4.1644077536
+"36123",63974,"New York","Yates",4.4431208285
+"37001",60866,"North Carolina","Alamance",4.1248293062
+"37003",62764,"North Carolina","Alexander",4.1850326423
+"37005",42115,"North Carolina","Alleghany",4.6375572096
+"37007",42000,"North Carolina","Anson",4.6579656971
+"37009",49176,"North Carolina","Ashe",4.2034356846
+"37011",53513,"North Carolina","Avery",4.2230197161
+"37013",56081,"North Carolina","Beaufort",4.2996660822
+"37015",41652,"North Carolina","Bertie",4.7022071395
+"37017",40476,"North Carolina","Bladen",4.6256598671
+"37019",71193,"North Carolina","Brunswick",3.6548657864
+"37021",66531,"North Carolina","Buncombe",3.7721168527
+"37023",53732,"North Carolina","Burke",4.4646320141
+"37025",83828,"North Carolina","Cabarrus",3.5183309357
+"37027",52362,"North Carolina","Caldwell",4.479213936
+"37029",79120,"North Carolina","Camden",3.6568466655
+"37031",66965,"North Carolina","Carteret",3.8276417875
+"37033",56999,"North Carolina","Caswell",4.2058362907
+"37035",62070,"North Carolina","Catawba",3.9262983502
+"37037",84222,"North Carolina","Chatham",3.5994132676
+"37039",49254,"North Carolina","Cherokee",4.3677050603
+"37041",51188,"North Carolina","Chowan",4.4692715896
+"37043",57065,"North Carolina","Clay",4.0885809585
+"37045",50723,"North Carolina","Cleveland",4.4385782591
+"37047",43206,"North Carolina","Columbus",4.83449378
+"37049",61676,"North Carolina","Craven",4.0534352557
+"37051",55551,"North Carolina","Cumberland",4.3404621578
+"37053",82793,"North Carolina","Currituck",3.6068887937
+"37055",79742,"North Carolina","Dare",3.386757166
+"37057",58473,"North Carolina","Davidson",4.0610346507
+"37059",69105,"North Carolina","Davie",3.8715793246
+"37061",49376,"North Carolina","Duplin",4.5717100412
+"37063",74927,"North Carolina","Durham",3.5182218252
+"37065",46370,"North Carolina","Edgecombe",4.6834687958
+"37067",61229,"North Carolina","Forsyth",3.9458900298
+"37069",70493,"North Carolina","Franklin",4.0049350118
+"37071",62628,"North Carolina","Gaston",4.1908309069
+"37073",55750,"North Carolina","Gates",4.3008615234
+"37075",46010,"North Carolina","Graham",4.4059461473
+"37077",68079,"North Carolina","Granville",4.1424861588
+"37079",50320,"North Carolina","Greene",4.7869265967
+"37081",62880,"North Carolina","Guilford",3.7609998042
+"37083",41629,"North Carolina","Halifax",4.8565297368
+"37085",64992,"North Carolina","Harnett",4.3974022196
+"37087",56596,"North Carolina","Haywood",4.0635400452
+"37089",65508,"North Carolina","Henderson",3.9044068106
+"37091",46196,"North Carolina","Hertford",4.5300842273
+"37093",57141,"North Carolina","Hoke",4.3764168538
+"37095",43724,"North Carolina","Hyde",4.7634030365
+"37097",73103,"North Carolina","Iredell",3.7497344122
+"37099",51482,"North Carolina","Jackson",4.3351527753
+"37101",75288,"North Carolina","Johnston",3.9349884461
+"37103",53053,"North Carolina","Jones",4.4440245371
+"37105",60941,"North Carolina","Lee",4.4108930378
+"37107",43063,"North Carolina","Lenoir",4.6943527426
+"37109",75672,"North Carolina","Lincoln",3.8901342285
+"37111",53532,"North Carolina","McDowell",4.3817193439
+"37113",51042,"North Carolina","Macon",4.1787866278
+"37115",56664,"North Carolina","Madison",4.0421219579
+"37117",44799,"North Carolina","Martin",4.5972693121
+"37119",79265,"North Carolina","Mecklenburg",3.3295980692
+"37121",55534,"North Carolina","Mitchell",4.0953115923
+"37123",55523,"North Carolina","Montgomery",4.3323053393
+"37125",77981,"North Carolina","Moore",3.633042993
+"37127",56770,"North Carolina","Nash",4.1170280471
+"37129",67515,"North Carolina","New Hanover",3.6857546616
+"37131",45698,"North Carolina","Northampton",4.5960558327
+"37133",59976,"North Carolina","Onslow",3.9771588956
+"37135",85785,"North Carolina","Orange",3.3315529238
+"37137",55867,"North Carolina","Pamlico",4.1782728662
+"37139",61411,"North Carolina","Pasquotank",3.8713079732
+"37141",74538,"North Carolina","Pender",3.8853630935
+"37143",59401,"North Carolina","Perquimans",4.1807747707
+"37145",60688,"North Carolina","Person",4.1910962273
+"37147",54915,"North Carolina","Pitt",4.0353154152
+"37149",60465,"North Carolina","Polk",3.8412881003
+"37151",56423,"North Carolina","Randolph",4.3981811984
+"37153",42354,"North Carolina","Richmond",4.7341476449
+"37155",39393,"North Carolina","Robeson",5.1796599667
+"37157",50737,"North Carolina","Rockingham",4.4762142004
+"37159",59717,"North Carolina","Rowan",4.2191665744
+"37161",50512,"North Carolina","Rutherford",4.6010181747
+"37163",49963,"North Carolina","Sampson",4.6271690789
+"37165",41948,"North Carolina","Scotland",5.0550554403
+"37167",60634,"North Carolina","Stanly",4.2420112456
+"37169",57539,"North Carolina","Stokes",4.2086913226
+"37171",52743,"North Carolina","Surry",4.571655499
+"37173",52818,"North Carolina","Swain",4.9689753278
+"37175",62056,"North Carolina","Transylvania",3.8295906735
+"37177",55341,"North Carolina","Tyrrell",4.4588096581
+"37179",95533,"North Carolina","Union",3.3681604393
+"37181",48340,"North Carolina","Vance",4.4220466716
+"37183",96734,"North Carolina","Wake",3.2049734415
+"37185",42282,"North Carolina","Warren",4.8465571949
+"37187",38927,"North Carolina","Washington",4.6677258748
+"37189",50034,"North Carolina","Watauga",4.1666405482
+"37191",54323,"North Carolina","Wayne",4.3156920842
+"37193",49119,"North Carolina","Wilkes",4.5910339168
+"37195",49827,"North Carolina","Wilson",4.5585481956
+"37197",57486,"North Carolina","Yadkin",4.3654830701
+"37199",53103,"North Carolina","Yancey",4.2955170825
+"38001",57950,"North Dakota","Adams",3.7622043842
+"38003",64447,"North Dakota","Barnes",3.4962726295
+"38005",63220,"North Dakota","Benson",5.1077266715
+"38007",74000,"North Dakota","Billings",3.2870418713
+"38009",80113,"North Dakota","Bottineau",3.5269411997
+"38011",79709,"North Dakota","Bowman",3.7498600319
+"38013",94583,"North Dakota","Burke",3.3269147871
+"38015",82141,"North Dakota","Burleigh",3.3818312294
+"38017",73249,"North Dakota","Cass",3.4115589372
+"38019",61174,"North Dakota","Cavalier",3.4893290833
+"38021",60250,"North Dakota","Dickey",3.64816119
+"38023",95938,"North Dakota","Divide",3.6370659367
+"38025",91758,"North Dakota","Dunn",3.4853412012
+"38027",50375,"North Dakota","Eddy",4.0082300862
+"38029",63750,"North Dakota","Emmons",3.6217369283
+"38031",78426,"North Dakota","Foster",3.4999855777
+"38033",84750,"North Dakota","Golden Valley",3.6997964513
+"38035",64698,"North Dakota","Grand Forks",3.694657929
+"38037",57069,"North Dakota","Grant",3.811209756
+"38039",66688,"North Dakota","Griggs",3.4528957056
+"38041",66797,"North Dakota","Hettinger",3.8268826102
+"38043",57240,"North Dakota","Kidder",3.8020765991
+"38045",70227,"North Dakota","LaMoure",3.5703261361
+"38047",59750,"North Dakota","Logan",3.7365700659
+"38049",78071,"North Dakota","McHenry",3.6808982005
+"38051",64375,"North Dakota","McIntosh",3.8568844932
+"38053",83813,"North Dakota","McKenzie",3.8110111289
+"38055",80556,"North Dakota","McLean",3.5011929396
+"38057",82155,"North Dakota","Mercer",3.7367656002
+"38059",79555,"North Dakota","Morton",3.438947989
+"38061",81886,"North Dakota","Mountrail",4.0847269551
+"38063",62219,"North Dakota","Nelson",3.4321290241
+"38065",69722,"North Dakota","Oliver",3.5270933777
+"38067",64243,"North Dakota","Pembina",3.8150082745
+"38069",59583,"North Dakota","Pierce",3.4232618602
+"38071",61490,"North Dakota","Ramsey",3.6222115192
+"38073",71462,"North Dakota","Ransom",3.5663116085
+"38075",77067,"North Dakota","Renville",3.3803804543
+"38077",67089,"North Dakota","Richland",3.660573903
+"38079",53806,"North Dakota","Rolette",5.4311497865
+"38081",75648,"North Dakota","Sargent",3.2573597547
+"38083",68684,"North Dakota","Sheridan",3.6924169551
+"38085",41201,"North Dakota","Sioux",6.328362121
+"38087",70625,"North Dakota","Slope",3.5564376834
+"38089",78734,"North Dakota","Stark",3.4069789557
+"38091",85750,"North Dakota","Steele",3.5063826946
+"38093",59167,"North Dakota","Stutsman",3.7171734973
+"38095",61250,"North Dakota","Towner",4.0124579263
+"38097",81157,"North Dakota","Traill",3.3366125342
+"38099",68082,"North Dakota","Walsh",3.7465364924
+"38101",78143,"North Dakota","Ward",3.5697068733
+"38103",59732,"North Dakota","Wells",3.7855568157
+"38105",86139,"North Dakota","Williams",3.3895416817
+"39001",46234,"Ohio","Adams",5.3312822457
+"39003",58976,"Ohio","Allen",4.6233398069
+"39005",62254,"Ohio","Ashland",4.5977363156
+"39007",53663,"Ohio","Ashtabula",4.9821149182
+"39009",48750,"Ohio","Athens",5.0295405902
+"39011",75231,"Ohio","Auglaize",4.1860298595
+"39013",56943,"Ohio","Belmont",4.7878664212
+"39015",66677,"Ohio","Brown",4.581198214
+"39017",77062,"Ohio","Butler",4.3013964535
+"39019",59872,"Ohio","Carroll",4.8425786518
+"39021",70486,"Ohio","Champaign",4.5597517669
+"39023",58954,"Ohio","Clark",5.0667189779
+"39025",79573,"Ohio","Clermont",4.3041897184
+"39027",64210,"Ohio","Clinton",4.7879829131
+"39029",55473,"Ohio","Columbiana",4.6759635752
+"39031",52048,"Ohio","Coshocton",4.9990278089
+"39033",52486,"Ohio","Crawford",4.9678307051
+"39035",60074,"Ohio","Cuyahoga",4.37842211
+"39037",60237,"Ohio","Darke",4.6604714169
+"39039",69302,"Ohio","Defiance",4.3976205153
+"39041",123995,"Ohio","Delaware",3.3286861833
+"39043",65171,"Ohio","Erie",4.4298533765
+"39045",82969,"Ohio","Fairfield",4.306654047
+"39047",56773,"Ohio","Fayette",5.0251592651
+"39049",71070,"Ohio","Franklin",4.2892344491
+"39051",71453,"Ohio","Fulton",4.4024395433
+"39053",55533,"Ohio","Gallia",4.7456722708
+"39055",97162,"Ohio","Geauga",3.819888653
+"39057",81243,"Ohio","Greene",3.9945415784
+"39059",53901,"Ohio","Guernsey",5.1403267086
+"39061",68249,"Ohio","Hamilton",4.4304807588
+"39063",67006,"Ohio","Hancock",4.3666322022
+"39065",55876,"Ohio","Hardin",5.1484899603
+"39067",54056,"Ohio","Harrison",4.9223183419
+"39069",71616,"Ohio","Henry",4.3641147305
+"39071",60522,"Ohio","Highland",4.9253913251
+"39073",59007,"Ohio","Hocking",4.8814403928
+"39075",72987,"Ohio","Holmes",5.1450384667
+"39077",64144,"Ohio","Huron",4.6489740738
+"39079",56549,"Ohio","Jackson",5.2509312939
+"39081",53124,"Ohio","Jefferson",5.0827451995
+"39083",71246,"Ohio","Knox",4.480242442
+"39085",76835,"Ohio","Lake",4.1009360098
+"39087",51846,"Ohio","Lawrence",5.2298808109
+"39089",78505,"Ohio","Licking",4.2672239999
+"39091",69125,"Ohio","Logan",4.3582445548
+"39093",67272,"Ohio","Lorain",4.3486252401
+"39095",57265,"Ohio","Lucas",4.7220687395
+"39097",77062,"Ohio","Madison",4.3927671665
+"39099",54279,"Ohio","Mahoning",4.512104617
+"39101",55106,"Ohio","Marion",4.937130726
+"39103",89968,"Ohio","Medina",3.8100529323
+"39105",46255,"Ohio","Meigs",5.6382679
+"39107",73278,"Ohio","Mercer",4.2266175849
+"39109",71440,"Ohio","Miami",4.1143696392
+"39111",55381,"Ohio","Monroe",5.1942647563
+"39113",61942,"Ohio","Montgomery",4.6854851179
+"39115",51056,"Ohio","Morgan",5.2234594055
+"39117",70412,"Ohio","Morrow",4.5912984486
+"39119",56810,"Ohio","Muskingum",4.8165875057
+"39121",51547,"Ohio","Noble",4.8937121514
+"39123",69515,"Ohio","Ottawa",4.2645437689
+"39125",65331,"Ohio","Paulding",4.6451682274
+"39127",62899,"Ohio","Perry",4.9324580687
+"39129",67600,"Ohio","Pickaway",4.5218280191
+"39131",50832,"Ohio","Pike",5.4550553388
+"39133",69796,"Ohio","Portage",4.2303533584
+"39135",66355,"Ohio","Preble",4.4148215773
+"39137",79453,"Ohio","Putnam",3.8115148047
+"39139",56557,"Ohio","Richland",4.8760624417
+"39141",58048,"Ohio","Ross",4.8914961966
+"39143",60814,"Ohio","Sandusky",4.6716647642
+"39145",46360,"Ohio","Scioto",5.3431994001
+"39147",62476,"Ohio","Seneca",4.8032673728
+"39149",73502,"Ohio","Shelby",4.3307484853
+"39151",63130,"Ohio","Stark",4.1122738225
+"39153",68360,"Ohio","Summit",4.5310118024
+"39155",53537,"Ohio","Trumbull",4.9115342052
+"39157",61953,"Ohio","Tuscarawas",4.6284594137
+"39159",104496,"Ohio","Union",3.8765409778
+"39161",64841,"Ohio","Van Wert",4.4991130464
+"39163",50967,"Ohio","Vinton",5.1970178304
+"39165",103128,"Ohio","Warren",3.5961767748
+"39167",59053,"Ohio","Washington",4.6884345481
+"39169",70320,"Ohio","Wayne",4.4464790007
+"39171",60632,"Ohio","Williams",4.4860157874
+"39173",70537,"Ohio","Wood",3.9498135504
+"39175",68552,"Ohio","Wyandot",4.288655413
+"40001",44955,"Oklahoma","Adair",6.1266736993
+"40003",75028,"Oklahoma","Alfalfa",4.2384968236
+"40005",49181,"Oklahoma","Atoka",5.0154142723
+"40007",62981,"Oklahoma","Beaver",4.3748799491
+"40009",51499,"Oklahoma","Beckham",4.8241778415
+"40011",56843,"Oklahoma","Blaine",4.9547959496
+"40013",54289,"Oklahoma","Bryan",4.8877073894
+"40015",52443,"Oklahoma","Caddo",5.4762801765
+"40017",82364,"Oklahoma","Canadian",4.0291491765
+"40019",56390,"Oklahoma","Carter",4.8935284439
+"40021",52410,"Oklahoma","Cherokee",5.3736076749
+"40023",43252,"Oklahoma","Choctaw",5.4519465884
+"40025",57100,"Oklahoma","Cimarron",4.0710413536
+"40027",71757,"Oklahoma","Cleveland",4.1575396275
+"40029",47117,"Oklahoma","Coal",5.6969219133
+"40031",57150,"Oklahoma","Comanche",4.5675759508
+"40033",60208,"Oklahoma","Cotton",5.0627345949
+"40035",48018,"Oklahoma","Craig",5.4833654031
+"40037",61657,"Oklahoma","Creek",4.8810988941
+"40039",58669,"Oklahoma","Custer",4.6744102837
+"40041",53290,"Oklahoma","Delaware",5.3086942097
+"40043",61310,"Oklahoma","Dewey",4.6354174531
+"40045",57768,"Oklahoma","Ellis",4.6205720505
+"40047",64165,"Oklahoma","Garfield",4.388446735
+"40049",53600,"Oklahoma","Garvin",4.8238620653
+"40051",74349,"Oklahoma","Grady",4.1569598444
+"40053",58980,"Oklahoma","Grant",4.6234772622
+"40055",55204,"Oklahoma","Greer",4.9094544
+"40057",55729,"Oklahoma","Harmon",5.1217840024
+"40059",59934,"Oklahoma","Harper",4.6342423707
+"40061",46239,"Oklahoma","Haskell",5.3095096322
+"40063",44799,"Oklahoma","Hughes",5.2285506547
+"40065",60954,"Oklahoma","Jackson",4.5127881353
+"40067",48346,"Oklahoma","Jefferson",5.2149193922
+"40069",48476,"Oklahoma","Johnston",5.3872419865
+"40071",53746,"Oklahoma","Kay",4.9553773393
+"40073",65167,"Oklahoma","Kingfisher",4.2708506242
+"40075",42679,"Oklahoma","Kiowa",5.3607012154
+"40077",42735,"Oklahoma","Latimer",5.4243722686
+"40079",46750,"Oklahoma","Le Flore",5.1879051648
+"40081",57656,"Oklahoma","Lincoln",4.7500105764
+"40083",80565,"Oklahoma","Logan",4.13213504
+"40085",60758,"Oklahoma","Love",4.9535017269
+"40087",80150,"Oklahoma","McClain",4.3074751425
+"40089",47046,"Oklahoma","McCurtain",5.5360231987
+"40091",43467,"Oklahoma","McIntosh",5.3308850993
+"40093",67621,"Oklahoma","Major",4.47320732
+"40095",53734,"Oklahoma","Marshall",5.2930604329
+"40097",56552,"Oklahoma","Mayes",5.4476207907
+"40099",60213,"Oklahoma","Murray",4.8856653027
+"40101",50289,"Oklahoma","Muskogee",5.2117315786
+"40103",66813,"Oklahoma","Noble",4.46743028
+"40105",50960,"Oklahoma","Nowata",5.0196972599
+"40107",45429,"Oklahoma","Okfuskee",5.6255523314
+"40109",62505,"Oklahoma","Oklahoma",4.0306434487
+"40111",50819,"Oklahoma","Okmulgee",5.0234880624
+"40113",58189,"Oklahoma","Osage",4.8125329556
+"40115",46186,"Oklahoma","Ottawa",5.3870359355
+"40117",56279,"Oklahoma","Pawnee",4.7790124857
+"40119",46658,"Oklahoma","Payne",4.6000685186
+"40121",53054,"Oklahoma","Pittsburg",4.9305081475
+"40123",59457,"Oklahoma","Pontotoc",4.7602400577
+"40125",58270,"Oklahoma","Pottawatomie",4.8950900739
+"40127",42274,"Oklahoma","Pushmataha",5.4783112772
+"40129",57574,"Oklahoma","Roger Mills",4.6604471648
+"40131",75312,"Oklahoma","Rogers",4.2652052986
+"40133",43239,"Oklahoma","Seminole",5.5831258436
+"40135",47494,"Oklahoma","Sequoyah",5.4830601811
+"40137",57065,"Oklahoma","Stephens",4.8515684494
+"40139",55682,"Oklahoma","Texas",4.8748574156
+"40141",46306,"Oklahoma","Tillman",5.0699906555
+"40143",65229,"Oklahoma","Tulsa",4.6076952319
+"40145",75082,"Oklahoma","Wagoner",4.5187424079
+"40147",59426,"Oklahoma","Washington",4.5943673651
+"40149",60600,"Oklahoma","Washita",4.694882137
+"40151",50724,"Oklahoma","Woods",4.4010799825
+"40153",61207,"Oklahoma","Woodward",4.8534196789
+"41001",51657,"Oregon","Baker",4.3958671851
+"41003",72882,"Oregon","Benton",4.1105171942
+"41005",95740,"Oregon","Clackamas",3.8441442993
+"41007",68025,"Oregon","Clatsop",4.2454033052
+"41009",83265,"Oregon","Columbia",4.236294795
+"41011",57563,"Oregon","Coos",4.6418751456
+"41013",74969,"Oregon","Crook",4.315346293
+"41015",64300,"Oregon","Curry",4.454229593
+"41017",82042,"Oregon","Deschutes",3.7486100336
+"41019",56440,"Oregon","Douglas",4.670887555
+"41021",58409,"Oregon","Gilliam",4.6222830653
+"41023",56045,"Oregon","Grant",4.5546416564
+"41025",45462,"Oregon","Harney",4.9385288556
+"41027",80254,"Oregon","Hood River",4.0587728554
+"41029",67690,"Oregon","Jackson",4.5188560554
+"41031",69345,"Oregon","Jefferson",4.6621686979
+"41033",56068,"Oregon","Josephine",4.624189829
+"41035",57219,"Oregon","Klamath",4.9053716531
+"41037",54663,"Oregon","Lake",4.8168070885
+"41039",65157,"Oregon","Lane",4.5995087496
+"41041",57794,"Oregon","Lincoln",4.3820698677
+"41043",69523,"Oregon","Linn",4.4039539306
+"41045",48371,"Oregon","Malheur",5.2263372942
+"41047",70926,"Oregon","Marion",4.8087848154
+"41049",64975,"Oregon","Morrow",5.2399604257
+"41051",83668,"Oregon","Multnomah",4.212799812
+"41053",77353,"Oregon","Polk",4.1424884428
+"41055",57171,"Oregon","Sherman",4.6894912684
+"41057",63098,"Oregon","Tillamook",4.5013088906
+"41059",70322,"Oregon","Umatilla",4.6707524741
+"41061",61946,"Oregon","Union",4.5621268677
+"41063",62238,"Oregon","Wallowa",4.0330308553
+"41065",61316,"Oregon","Wasco",4.7320579561
+"41067",100121,"Oregon","Washington",3.6824034309
+"41069",50774,"Oregon","Wheeler",4.6608629512
+"41071",80125,"Oregon","Yamhill",4.2922314474
+"42001",78975,"Pennsylvania","Adams",4.2742869935
+"42003",72537,"Pennsylvania","Allegheny",3.9487163096
+"42005",61011,"Pennsylvania","Armstrong",4.3702274255
+"42007",67194,"Pennsylvania","Beaver",3.9381652062
+"42009",58337,"Pennsylvania","Bedford",4.6447041525
+"42011",74617,"Pennsylvania","Berks",4.0584954099
+"42013",59386,"Pennsylvania","Blair",4.3460288597
+"42015",60650,"Pennsylvania","Bradford",4.3712599282
+"42017",107826,"Pennsylvania","Bucks",3.6936673057
+"42019",82932,"Pennsylvania","Butler",3.7673393157
+"42021",54221,"Pennsylvania","Cambria",4.2653516704
+"42023",46186,"Pennsylvania","Cameron",4.9308861008
+"42025",64538,"Pennsylvania","Carbon",4.4084339658
+"42027",70087,"Pennsylvania","Centre",4.1069454382
+"42029",118574,"Pennsylvania","Chester",3.2516901642
+"42031",58690,"Pennsylvania","Clarion",4.5056156188
+"42033",56982,"Pennsylvania","Clearfield",4.5505550226
+"42035",59011,"Pennsylvania","Clinton",4.5780492999
+"42037",59457,"Pennsylvania","Columbia",4.5039801481
+"42039",58734,"Pennsylvania","Crawford",4.553428414
+"42041",82849,"Pennsylvania","Cumberland",3.6671629266
+"42043",71046,"Pennsylvania","Dauphin",4.0903538628
+"42045",86390,"Pennsylvania","Delaware",3.7587237052
+"42047",61672,"Pennsylvania","Elk",4.3351442376
+"42049",59396,"Pennsylvania","Erie",4.2447752735
+"42051",55579,"Pennsylvania","Fayette",4.5987031199
+"42053",46188,"Pennsylvania","Forest",4.756592684
+"42055",71808,"Pennsylvania","Franklin",4.2330710016
+"42057",63153,"Pennsylvania","Fulton",4.3962449639
+"42059",66283,"Pennsylvania","Greene",4.3436956515
+"42061",61300,"Pennsylvania","Huntingdon",4.4409078763
+"42063",57170,"Pennsylvania","Indiana",4.3670351627
+"42065",56607,"Pennsylvania","Jefferson",4.5227528497
+"42067",61915,"Pennsylvania","Juniata",4.5710627007
+"42069",63739,"Pennsylvania","Lackawanna",4.1957267227
+"42071",81458,"Pennsylvania","Lancaster",4.2293898912
+"42073",57585,"Pennsylvania","Lawrence",4.4750785652
+"42075",72532,"Pennsylvania","Lebanon",4.3395690254
+"42077",74973,"Pennsylvania","Lehigh",4.1723233741
+"42079",60836,"Pennsylvania","Luzerne",4.4812337948
+"42081",63437,"Pennsylvania","Lycoming",4.3171269615
+"42083",57861,"Pennsylvania","McKean",4.5748323824
+"42085",57353,"Pennsylvania","Mercer",4.4846725865
+"42087",58012,"Pennsylvania","Mifflin",4.8775296569
+"42089",80656,"Pennsylvania","Monroe",4.2149652639
+"42091",107441,"Pennsylvania","Montgomery",3.4457595852
+"42093",72626,"Pennsylvania","Montour",3.9705757227
+"42095",82201,"Pennsylvania","Northampton",3.974953837
+"42097",55952,"Pennsylvania","Northumberland",4.6367482108
+"42099",76103,"Pennsylvania","Perry",4.2872524689
+"42101",57537,"Pennsylvania","Philadelphia",4.588609676
+"42103",76416,"Pennsylvania","Pike",4.0801384473
+"42105",56491,"Pennsylvania","Potter",4.5637822127
+"42107",63574,"Pennsylvania","Schuylkill",4.5549810747
+"42109",65914,"Pennsylvania","Snyder",4.4775887172
+"42111",57357,"Pennsylvania","Somerset",4.6230570785
+"42113",62910,"Pennsylvania","Sullivan",4.3595868372
+"42115",63968,"Pennsylvania","Susquehanna",4.2086070994
+"42117",59707,"Pennsylvania","Tioga",4.509304835
+"42119",64914,"Pennsylvania","Union",4.3249563209
+"42121",59278,"Pennsylvania","Venango",4.5936480971
+"42123",57925,"Pennsylvania","Warren",4.4814148787
+"42125",74403,"Pennsylvania","Washington",4.020955855
+"42127",59240,"Pennsylvania","Wayne",4.4111051404
+"42129",69454,"Pennsylvania","Westmoreland",3.908337315
+"42131",67968,"Pennsylvania","Wyoming",4.2714455298
+"42133",79183,"Pennsylvania","York",4.1499678332
+"44001",105875,"Rhode Island","Bristol",3.562180066
+"44003",85732,"Rhode Island","Kent",3.96579474
+"44005",96319,"Rhode Island","Newport",3.3749781001
+"44007",72579,"Rhode Island","Providence",4.2895868346
+"44009",99510,"Rhode Island","Washington",3.6301101617
+"45001",49759,"South Carolina","Abbeville",4.4769563646
+"45003",63212,"South Carolina","Aiken",4.0462144234
+"45005",37096,"South Carolina","Allendale",4.940457765
+"45007",62347,"South Carolina","Anderson",4.1915505401
+"45009",43920,"South Carolina","Bamberg",4.572218281
+"45011",42470,"South Carolina","Barnwell",4.8287002681
+"45013",81260,"South Carolina","Beaufort",3.4036859034
+"45015",77874,"South Carolina","Berkeley",3.9104247041
+"45017",55550,"South Carolina","Calhoun",4.3465659491
+"45019",78795,"South Carolina","Charleston",3.1907857023
+"45021",47011,"South Carolina","Cherokee",4.4340543628
+"45023",50022,"South Carolina","Chester",4.5512097898
+"45025",46326,"South Carolina","Chesterfield",4.8036296915
+"45027",48677,"South Carolina","Clarendon",4.5356036911
+"45029",46795,"South Carolina","Colleton",4.5695705909
+"45031",44317,"South Carolina","Darlington",4.3911878607
+"45033",42454,"South Carolina","Dillon",5.3695404043
+"45035",73686,"South Carolina","Dorchester",3.7990712826
+"45037",60033,"South Carolina","Edgefield",4.3675480867
+"45039",44521,"South Carolina","Fairfield",4.6873161699
+"45041",56088,"South Carolina","Florence",4.302477543
+"45043",59782,"South Carolina","Georgetown",3.9030154134
+"45045",71328,"South Carolina","Greenville",3.5915484795
+"45047",47553,"South Carolina","Greenwood",4.2160235698
+"45049",40157,"South Carolina","Hampton",4.9131276305
+"45051",59880,"South Carolina","Horry",4.2090685359
+"45053",60452,"South Carolina","Jasper",4.1708721733
+"45055",61343,"South Carolina","Kershaw",4.306687785
+"45057",72186,"South Carolina","Lancaster",3.9189341559
+"45059",52077,"South Carolina","Laurens",4.5312488417
+"45061",39099,"South Carolina","Lee",5.102272643
+"45063",71280,"South Carolina","Lexington",3.7755649591
+"45065",55569,"South Carolina","McCormick",4.0983524875
+"45067",35972,"South Carolina","Marion",4.8690893727
+"45069",34275,"South Carolina","Marlboro",5.1466121975
+"45071",56706,"South Carolina","Newberry",4.4602650936
+"45073",56710,"South Carolina","Oconee",4.19358254
+"45075",41020,"South Carolina","Orangeburg",4.7742677217
+"45077",57628,"South Carolina","Pickens",4.1674777291
+"45079",59850,"South Carolina","Richland",3.9286227756
+"45081",51041,"South Carolina","Saluda",4.4998230466
+"45083",61955,"South Carolina","Spartanburg",4.0896246678
+"45085",53970,"South Carolina","Sumter",4.4116451747
+"45087",42305,"South Carolina","Union",5.0105020595
+"45089",40848,"South Carolina","Williamsburg",4.7505295103
+"45091",80158,"South Carolina","York",3.4835917905
+"46003",71490,"South Dakota","Aurora",3.3404880568
+"46005",63813,"South Dakota","Beadle",3.6794481021
+"46007",44821,"South Dakota","Bennett",4.921864045
+"46009",57554,"South Dakota","Bon Homme",3.9341442332
+"46011",64438,"South Dakota","Brookings",3.3572461305
+"46013",70379,"South Dakota","Brown",3.4616320748
+"46015",64821,"South Dakota","Brule",3.8489659748
+"46017",42917,"South Dakota","Buffalo",5.5790108996
+"46019",58106,"South Dakota","Butte",3.6690838868
+"46021",66932,"South Dakota","Campbell",3.2852963041
+"46023",60729,"South Dakota","Charles Mix",4.1970914527
+"46025",59340,"South Dakota","Clark",3.3532035322
+"46027",55963,"South Dakota","Clay",3.6957761068
+"46029",65747,"South Dakota","Codington",3.4448753932
+"46031",48125,"South Dakota","Corson",5.6387095221
+"46033",75943,"South Dakota","Custer",3.2468881167
+"46035",55606,"South Dakota","Davison",3.5963645196
+"46037",57558,"South Dakota","Day",3.618645809
+"46039",76997,"South Dakota","Deuel",3.4106925976
+"46041",55077,"South Dakota","Dewey",5.0999528756
+"46043",75048,"South Dakota","Douglas",3.6102619877
+"46045",76806,"South Dakota","Edmunds",3.2499859368
+"46047",54886,"South Dakota","Fall River",3.9312970798
+"46049",56734,"South Dakota","Faulk",3.7801305335
+"46051",70851,"South Dakota","Grant",3.3352522092
+"46053",48272,"South Dakota","Gregory",3.7394981392
+"46055",53109,"South Dakota","Haakon",3.6138406054
+"46057",76995,"South Dakota","Hamlin",3.2408903273
+"46059",72857,"South Dakota","Hand",3.3198239612
+"46061",86827,"South Dakota","Hanson",3.1836523316
+"46063",71484,"South Dakota","Harding",3.0876948376
+"46065",83750,"South Dakota","Hughes",3.1719383107
+"46067",69139,"South Dakota","Hutchinson",3.293623347
+"46069",69712,"South Dakota","Hyde",3.3325952945
+"46071",26078,"South Dakota","Jackson",4.9401323799
+"46073",66607,"South Dakota","Jerauld",3.3461706178
+"46075",61250,"South Dakota","Jones",3.3433646997
+"46077",65964,"South Dakota","Kingsbury",3.3552881691
+"46079",74884,"South Dakota","Lake",3.2089887424
+"46081",62977,"South Dakota","Lawrence",3.2856615195
+"46083",92317,"South Dakota","Lincoln",2.7859459375
+"46085",60284,"South Dakota","Lyman",4.5337246603
+"46087",74873,"South Dakota","McCook",3.1961509671
+"46089",58529,"South Dakota","McPherson",3.7586992348
+"46091",74018,"South Dakota","Marshall",3.2260449044
+"46093",70256,"South Dakota","Meade",3.1354549029
+"46095",41397,"South Dakota","Mellette",5.6071092639
+"46097",62037,"South Dakota","Miner",3.4570771447
+"46099",73110,"South Dakota","Minnehaha",3.3302864367
+"46101",71469,"South Dakota","Moody",3.3770465691
+"46102",32279,"South Dakota","Oglala Lakota",6.6604360794
+"46103",67823,"South Dakota","Pennington",3.5510200125
+"46105",64410,"South Dakota","Perkins",3.4788716854
+"46107",71786,"South Dakota","Potter",3.2220084261
+"46109",59022,"South Dakota","Roberts",4.4181426229
+"46111",65806,"South Dakota","Sanborn",3.4292073187
+"46115",65795,"South Dakota","Spink",3.3333881418
+"46117",82298,"South Dakota","Stanley",2.9860622449
+"46119",66875,"South Dakota","Sully",3.1239157785
+"46121",33792,"South Dakota","Todd",6.6255957737
+"46123",56758,"South Dakota","Tripp",4.1386035803
+"46125",72312,"South Dakota","Turner",3.3806626995
+"46127",82036,"South Dakota","Union",3.0765184568
+"46129",57697,"South Dakota","Walworth",3.580997437
+"46135",68847,"South Dakota","Yankton",3.1998685994
+"46137",46023,"South Dakota","Ziebach",5.5597290674
+"47001",60633,"Tennessee","Anderson",5.0831860613
+"47003",59955,"Tennessee","Bedford",4.918302891
+"47005",47737,"Tennessee","Benton",5.5789683119
+"47007",51783,"Tennessee","Bledsoe",5.9268933072
+"47009",70935,"Tennessee","Blount",4.5636709603
+"47011",60692,"Tennessee","Bradley",4.7299088106
+"47013",48258,"Tennessee","Campbell",5.8173844705
+"47015",57651,"Tennessee","Cannon",5.1898675157
+"47017",49700,"Tennessee","Carroll",5.1781701269
+"47019",47994,"Tennessee","Carter",5.4840604181
+"47021",77014,"Tennessee","Cheatham",4.6861003825
+"47023",57471,"Tennessee","Chester",5.2809454909
+"47025",42406,"Tennessee","Claiborne",5.5099459943
+"47027",39572,"Tennessee","Clay",5.7904936325
+"47029",45110,"Tennessee","Cocke",5.8450700961
+"47031",57424,"Tennessee","Coffee",5.1967844348
+"47033",59136,"Tennessee","Crockett",5.1776502484
+"47035",56002,"Tennessee","Cumberland",5.2543922257
+"47037",71863,"Tennessee","Davidson",4.2331634637
+"47039",48466,"Tennessee","Decatur",5.4588232913
+"47041",46907,"Tennessee","DeKalb",5.6022122088
+"47043",68492,"Tennessee","Dickson",4.8020214493
+"47045",53150,"Tennessee","Dyer",5.1305335661
+"47047",81074,"Tennessee","Fayette",4.5915597257
+"47049",47884,"Tennessee","Fentress",5.6690168633
+"47051",57933,"Tennessee","Franklin",5.0773208767
+"47053",55455,"Tennessee","Gibson",5.3233103514
+"47055",56877,"Tennessee","Giles",5.1142510971
+"47057",47098,"Tennessee","Grainger",5.4853455142
+"47059",51975,"Tennessee","Greene",5.5172941477
+"47061",47948,"Tennessee","Grundy",5.5431859715
+"47063",49656,"Tennessee","Hamblen",5.5869320159
+"47065",69069,"Tennessee","Hamilton",4.2515075989
+"47067",31809,"Tennessee","Hancock",6.4748138805
+"47069",43566,"Tennessee","Hardeman",5.5216919126
+"47071",46902,"Tennessee","Hardin",5.7470110006
+"47073",53647,"Tennessee","Hawkins",5.3551733579
+"47075",44890,"Tennessee","Haywood",5.6992787308
+"47077",51576,"Tennessee","Henderson",5.5654730718
+"47079",48025,"Tennessee","Henry",5.3523821831
+"47081",54669,"Tennessee","Hickman",5.2637179871
+"47083",51544,"Tennessee","Houston",5.2331522331
+"47085",54185,"Tennessee","Humphreys",5.1726859472
+"47087",42357,"Tennessee","Jackson",5.7874087197
+"47089",60393,"Tennessee","Jefferson",4.9944989685
+"47091",47571,"Tennessee","Johnson",5.6084988713
+"47093",68580,"Tennessee","Knox",4.5270809926
+"47095",32064,"Tennessee","Lake",6.1703773349
+"47097",46702,"Tennessee","Lauderdale",5.4781927994
+"47099",51038,"Tennessee","Lawrence",5.5308851985
+"47101",44613,"Tennessee","Lewis",5.5790750998
+"47103",61374,"Tennessee","Lincoln",4.868512083
+"47105",75008,"Tennessee","Loudon",4.5847075047
+"47107",57982,"Tennessee","McMinn",5.0718566092
+"47109",46920,"Tennessee","McNairy",5.6222491226
+"47111",51215,"Tennessee","Macon",5.5919453785
+"47113",55280,"Tennessee","Madison",4.9564729002
+"47115",58139,"Tennessee","Marion",5.6283201223
+"47117",65325,"Tennessee","Marshall",5.1187944347
+"47119",71500,"Tennessee","Maury",4.6701457303
+"47121",59434,"Tennessee","Meigs",5.2787946801
+"47123",52123,"Tennessee","Monroe",5.3294716567
+"47125",67890,"Tennessee","Montgomery",4.5254492451
+"47127",69250,"Tennessee","Moore",5.2233159708
+"47129",51971,"Tennessee","Morgan",5.7073571015
+"47131",50638,"Tennessee","Obion",5.3184245931
+"47133",46580,"Tennessee","Overton",5.4995726345
+"47135",55978,"Tennessee","Perry",5.7448514901
+"47137",44317,"Tennessee","Pickett",5.6004015607
+"47139",53775,"Tennessee","Polk",5.2922512325
+"47141",54371,"Tennessee","Putnam",5.0813393561
+"47143",55568,"Tennessee","Rhea",5.4463067982
+"47145",66460,"Tennessee","Roane",4.927987588
+"47147",74440,"Tennessee","Robertson",4.8061318746
+"47149",78291,"Tennessee","Rutherford",4.4332491695
+"47151",39744,"Tennessee","Scott",6.1207938938
+"47153",53038,"Tennessee","Sequatchie",5.5572788732
+"47155",60103,"Tennessee","Sevier",5.0848293523
+"47157",59621,"Tennessee","Shelby",4.8211829977
+"47159",57677,"Tennessee","Smith",5.2001022911
+"47161",57257,"Tennessee","Stewart",4.9761939961
+"47163",54357,"Tennessee","Sullivan",5.1939609665
+"47165",81883,"Tennessee","Sumner",4.2014783516
+"47167",70674,"Tennessee","Tipton",5.0782913278
+"47169",62018,"Tennessee","Trousdale",5.0069484944
+"47171",49855,"Tennessee","Unicoi",5.4469437444
+"47173",57094,"Tennessee","Union",5.3658242571
+"47175",44730,"Tennessee","Van Buren",5.6394806479
+"47177",52948,"Tennessee","Warren",5.6269337159
+"47179",58507,"Tennessee","Washington",4.9099395829
+"47181",49360,"Tennessee","Wayne",5.5924026359
+"47183",47769,"Tennessee","Weakley",5.308780371
+"47185",48220,"Tennessee","White",5.7242562845
+"47187",125943,"Tennessee","Williamson",3.4120381474
+"47189",89462,"Tennessee","Wilson",4.1258043198
+"48001",57445,"Texas","Anderson",4.5169683509
+"48003",86458,"Texas","Andrews",4.695795699
+"48005",57055,"Texas","Angelina",4.9821339159
+"48007",58168,"Texas","Aransas",4.5025955565
+"48009",69954,"Texas","Archer",4.2349095668
+"48011",70417,"Texas","Armstrong",3.9775605883
+"48013",67442,"Texas","Atascosa",4.674633281
+"48015",73556,"Texas","Austin",4.2201902779
+"48017",69830,"Texas","Bailey",4.6348712227
+"48019",70965,"Texas","Bandera",4.2930962343
+"48021",80151,"Texas","Bastrop",4.3387155867
+"48023",52716,"Texas","Baylor",4.2427015514
+"48025",50283,"Texas","Bee",4.8767093202
+"48027",62858,"Texas","Bell",4.4049055458
+"48029",67275,"Texas","Bexar",4.5164568757
+"48031",79717,"Texas","Blanco",4.0094478187
+"48033",80625,"Texas","Borden",3.2927405914
+"48035",63868,"Texas","Bosque",4.4456555494
+"48037",56628,"Texas","Bowie",4.5674854417
+"48039",91972,"Texas","Brazoria",3.8891190829
+"48041",57562,"Texas","Brazos",4.1848098652
+"48043",47747,"Texas","Brewster",4.0172538091
+"48045",35446,"Texas","Briscoe",5.5880523891
+"48047",30566,"Texas","Brooks",5.4864927016
+"48049",53792,"Texas","Brown",4.5056917331
+"48051",71745,"Texas","Burleson",4.2660462842
+"48053",71482,"Texas","Burnet",4.2206483832
+"48055",66779,"Texas","Caldwell",4.7220518989
+"48057",62267,"Texas","Calhoun",4.364638584
+"48059",63906,"Texas","Callahan",4.2427862062
+"48061",47435,"Texas","Cameron",5.3224232858
+"48063",53968,"Texas","Camp",4.9241433914
+"48065",83199,"Texas","Carson",4.0127125803
+"48067",54303,"Texas","Cass",4.7345915208
+"48069",59886,"Texas","Castro",4.7632208189
+"48071",106103,"Texas","Chambers",4.1059973256
+"48073",56971,"Texas","Cherokee",4.941141751
+"48075",56063,"Texas","Childress",5.0105766439
+"48077",75227,"Texas","Clay",4.0966857482
+"48079",41597,"Texas","Cochran",5.8226568174
+"48081",40230,"Texas","Coke",4.7447080561
+"48083",51034,"Texas","Coleman",4.5214402137
+"48085",113255,"Texas","Collin",3.3396859865
+"48087",52045,"Texas","Collingsworth",4.8893614915
+"48089",63352,"Texas","Colorado",4.4573107979
+"48091",93744,"Texas","Comal",3.5433242712
+"48093",57383,"Texas","Comanche",4.448141545
+"48095",55750,"Texas","Concho",4.9812361513
+"48097",66374,"Texas","Cooke",4.3496559171
+"48099",63281,"Texas","Coryell",4.4760899145
+"48101",47625,"Texas","Cottle",5.2692385217
+"48103",71364,"Texas","Crane",4.5375727875
+"48105",64103,"Texas","Crockett",4.465696943
+"48107",50268,"Texas","Crosby",5.0412970773
+"48109",35924,"Texas","Culberson",5.0237501553
+"48111",71969,"Texas","Dallam",4.9923442374
+"48113",70732,"Texas","Dallas",4.1307265617
+"48115",45268,"Texas","Dawson",5.4968889967
+"48117",51942,"Texas","Deaf Smith",5.2723892399
+"48119",68491,"Texas","Delta",4.4571854776
+"48121",104180,"Texas","Denton",3.3666437447
+"48123",61100,"Texas","DeWitt",4.7153118966
+"48125",46638,"Texas","Dickens",4.6909370294
+"48127",27374,"Texas","Dimmit",6.2642106304
+"48129",51711,"Texas","Donley",4.5216490902
+"48131",50697,"Texas","Duval",5.2299319577
+"48133",52902,"Texas","Eastland",4.6626846911
+"48135",70566,"Texas","Ector",4.7603702054
+"48137",40809,"Texas","Edwards",5.5899420137
+"48139",93248,"Texas","Ellis",4.0645820222
+"48141",55417,"Texas","El Paso",4.6458483165
+"48143",59654,"Texas","Erath",4.5096607339
+"48145",45172,"Texas","Falls",5.1573515683
+"48147",65835,"Texas","Fannin",4.4881504676
+"48149",72881,"Texas","Fayette",4.1855663442
+"48151",60461,"Texas","Fisher",4.3436965627
+"48153",49321,"Texas","Floyd",5.0081512572
+"48155",41944,"Texas","Foard",5.1626118568
+"48157",109987,"Texas","Fort Bend",3.4174551464
+"48159",67915,"Texas","Franklin",3.8124012156
+"48161",55902,"Texas","Freestone",4.6464320573
+"48163",56042,"Texas","Frio",5.1649441975
+"48165",73299,"Texas","Gaines",5.111180064
+"48167",83913,"Texas","Galveston",3.8541682048
+"48169",56215,"Texas","Garza",4.7776605806
+"48171",70162,"Texas","Gillespie",3.9236916481
+"48173",112188,"Texas","Glasscock",3.6943495829
+"48175",58125,"Texas","Goliad",4.5163699638
+"48177",64255,"Texas","Gonzales",4.8501566181
+"48179",54563,"Texas","Gray",4.8178723493
+"48181",66608,"Texas","Grayson",4.303329064
+"48183",63811,"Texas","Gregg",4.5239970697
+"48185",63484,"Texas","Grimes",4.5824166568
+"48187",88111,"Texas","Guadalupe",3.9669141989
+"48189",50721,"Texas","Hale",5.0437565365
+"48191",43873,"Texas","Hall",4.9317290565
+"48193",54890,"Texas","Hamilton",4.6020137212
+"48195",62350,"Texas","Hansford",4.5153276983
+"48197",60455,"Texas","Hardeman",4.5003590068
+"48199",70164,"Texas","Hardin",4.4992892817
+"48201",70789,"Texas","Harris",4.2952738076
+"48203",63427,"Texas","Harrison",4.4369743985
+"48205",78065,"Texas","Hartley",3.9212839891
+"48207",52786,"Texas","Haskell",4.8817021558
+"48209",79990,"Texas","Hays",3.953314764
+"48211",67798,"Texas","Hemphill",3.9393404819
+"48213",59778,"Texas","Henderson",4.710486784
+"48215",49371,"Texas","Hidalgo",5.7383164815
+"48217",60669,"Texas","Hill",4.6156174057
+"48219",53283,"Texas","Hockley",4.8297765012
+"48221",80013,"Texas","Hood",3.8189986795
+"48223",63766,"Texas","Hopkins",4.5156917506
+"48225",51043,"Texas","Houston",4.981172538
+"48227",67243,"Texas","Howard",4.6282519764
+"48229",35163,"Texas","Hudspeth",5.864210205
+"48231",66885,"Texas","Hunt",4.399847298
+"48233",62211,"Texas","Hutchinson",4.3622511142
+"48235",54708,"Texas","Irion",4.0112805277
+"48237",58861,"Texas","Jack",4.88961406
+"48239",67176,"Texas","Jackson",4.6537947079
+"48241",48818,"Texas","Jasper",4.9549900428
+"48243",38125,"Texas","Jeff Davis",4.7049799701
+"48245",57294,"Texas","Jefferson",4.5650142086
+"48247",42292,"Texas","Jim Hogg",5.8836155614
+"48249",46626,"Texas","Jim Wells",5.0774344633
+"48251",77058,"Texas","Johnson",4.1592387849
+"48253",59361,"Texas","Jones",4.8238234103
+"48255",57798,"Texas","Karnes",4.8611038289
+"48257",84075,"Texas","Kaufman",4.2805816335
+"48259",104196,"Texas","Kendall",3.6332118044
+"48261",45455,"Texas","Kenedy",7.1430821904
+"48263",68553,"Texas","Kent",3.8568499457
+"48265",66713,"Texas","Kerr",4.3545148388
+"48267",62386,"Texas","Kimble",4.54328622
+"48269",59375,"Texas","King",5.2515336409
+"48271",52386,"Texas","Kinney",4.8487028583
+"48273",52487,"Texas","Kleberg",4.9546155364
+"48275",48750,"Texas","Knox",4.909164775
+"48277",58246,"Texas","Lamar",4.6359116198
+"48279",54519,"Texas","Lamb",5.1508520301
+"48281",73269,"Texas","Lampasas",4.3879289505
+"48283",62798,"Texas","La Salle",5.5230392762
+"48285",58530,"Texas","Lavaca",4.4469703012
+"48287",66448,"Texas","Lee",4.6751892256
+"48289",57363,"Texas","Leon",4.5637109246
+"48291",59605,"Texas","Liberty",5.0502481867
+"48293",53102,"Texas","Limestone",4.9704319345
+"48295",71625,"Texas","Lipscomb",4.4264711021
+"48297",55949,"Texas","Live Oak",5.0318440125
+"48299",64241,"Texas","Llano",4.1543053469
+"48301",NA,"Texas","Loving",3.2546112778
+"48303",61911,"Texas","Lubbock",4.4930128382
+"48305",52996,"Texas","Lynn",5.0770755243
+"48307",53214,"Texas","McCulloch",4.6740127672
+"48309",59781,"Texas","McLennan",4.4006214887
+"48311",60313,"Texas","McMullen",5.1946198831
+"48313",65768,"Texas","Madison",4.6192401021
+"48315",48040,"Texas","Marion",4.7628255857
+"48317",70217,"Texas","Martin",4.4053450632
+"48319",77583,"Texas","Mason",3.911775801
+"48321",56412,"Texas","Matagorda",4.8229814499
+"48323",48497,"Texas","Maverick",5.5596236433
+"48325",73060,"Texas","Medina",4.3114227567
+"48327",40945,"Texas","Menard",4.7702246227
+"48329",90123,"Texas","Midland",4.0451300606
+"48331",56985,"Texas","Milam",4.5217472865
+"48333",59315,"Texas","Mills",4.1066205535
+"48335",49869,"Texas","Mitchell",4.8116316784
+"48337",63336,"Texas","Montague",4.5131686657
+"48339",95946,"Texas","Montgomery",3.7093590085
+"48341",59041,"Texas","Moore",4.9869981659
+"48343",51532,"Texas","Morris",4.6865437943
+"48345",66528,"Texas","Motley",4.2140028817
+"48347",51153,"Texas","Nacogdoches",4.7447405463
+"48349",56261,"Texas","Navarro",4.9758174296
+"48351",38871,"Texas","Newton",5.5211240695
+"48353",47437,"Texas","Nolan",5.0656760737
+"48355",64027,"Texas","Nueces",4.6502298566
+"48357",62240,"Texas","Ochiltree",4.8303891296
+"48359",71103,"Texas","Oldham",4.6716975902
+"48361",71910,"Texas","Orange",4.4921440974
+"48363",65242,"Texas","Palo Pinto",4.6879505924
+"48365",58205,"Texas","Panola",4.5365277994
+"48367",95721,"Texas","Parker",3.9656879321
+"48369",65575,"Texas","Parmer",4.7868554985
+"48371",59325,"Texas","Pecos",5.0236915291
+"48373",57315,"Texas","Polk",5.0023438147
+"48375",47974,"Texas","Potter",5.1338672305
+"48377",29012,"Texas","Presidio",5.811046868
+"48379",60291,"Texas","Rains",4.3874700132
+"48381",78038,"Texas","Randall",3.8797900514
+"48383",70319,"Texas","Reagan",4.2702405012
+"48385",46842,"Texas","Real",5.0478048435
+"48387",44583,"Texas","Red River",5.0144343262
+"48389",57487,"Texas","Reeves",5.1982885308
+"48391",54304,"Texas","Refugio",4.8509526097
+"48393",62667,"Texas","Roberts",4.1530023385
+"48395",59410,"Texas","Robertson",4.4264348337
+"48397",121303,"Texas","Rockwall",3.4132517361
+"48399",55424,"Texas","Runnels",4.6037654319
+"48401",61661,"Texas","Rusk",4.6040228925
+"48403",47061,"Texas","Sabine",4.8559488328
+"48405",45888,"Texas","San Augustine",5.4374565933
+"48407",54839,"Texas","San Jacinto",4.9282414812
+"48409",63842,"Texas","San Patricio",4.8141774244
+"48411",54087,"Texas","San Saba",4.7304201542
+"48413",53774,"Texas","Schleicher",4.5565894388
+"48415",58932,"Texas","Scurry",4.7352310679
+"48417",60924,"Texas","Shackelford",4.0307412794
+"48419",49231,"Texas","Shelby",5.0854489442
+"48421",66169,"Texas","Sherman",4.4419933669
+"48423",69053,"Texas","Smith",4.2572469941
+"48425",87899,"Texas","Somervell",3.9040252316
+"48427",35979,"Texas","Starr",5.9844121051
+"48429",44712,"Texas","Stephens",4.7088004798
+"48431",63558,"Texas","Sterling",3.9020233485
+"48433",66591,"Texas","Stonewall",4.6752142635
+"48435",56778,"Texas","Sutton",4.9350017943
+"48437",40290,"Texas","Swisher",5.2911087949
+"48439",78872,"Texas","Tarrant",4.0803017906
+"48441",61806,"Texas","Taylor",4.3888781874
+"48443",52813,"Texas","Terrell",3.5990560103
+"48445",42694,"Texas","Terry",5.3095327586
+"48447",55221,"Texas","Throckmorton",4.6597993674
+"48449",57634,"Texas","Titus",5.1166125884
+"48451",67215,"Texas","Tom Green",4.2774516595
+"48453",92731,"Texas","Travis",3.5462913645
+"48455",51165,"Texas","Trinity",4.7855539847
+"48457",50898,"Texas","Tyler",5.0313822513
+"48459",60456,"Texas","Upshur",4.7410493542
+"48461",55284,"Texas","Upton",5.017548575
+"48463",55000,"Texas","Uvalde",5.1058530293
+"48465",57250,"Texas","Val Verde",4.89022737
+"48467",62334,"Texas","Van Zandt",4.6030802235
+"48469",66308,"Texas","Victoria",4.5721712092
+"48471",47193,"Texas","Walker",4.7535158623
+"48473",71643,"Texas","Waller",4.1913410908
+"48475",70771,"Texas","Ward",4.7378322313
+"48477",70043,"Texas","Washington",4.0718182802
+"48479",59984,"Texas","Webb",5.0284324619
+"48481",59712,"Texas","Wharton",4.6825555113
+"48483",58158,"Texas","Wheeler",4.9054571396
+"48485",58862,"Texas","Wichita",4.5206398352
+"48487",50769,"Texas","Wilbarger",5.3320041228
+"48489",42839,"Texas","Willacy",5.7863037636
+"48491",102851,"Texas","Williamson",3.522288892
+"48493",89708,"Texas","Wilson",4.0825633124
+"48495",89155,"Texas","Winkler",4.5620151329
+"48497",85385,"Texas","Wise",4.3484088689
+"48499",61748,"Texas","Wood",4.4418575397
+"48501",80317,"Texas","Yoakum",4.9812888289
+"48503",65565,"Texas","Young",4.4444949215
+"48505",35061,"Texas","Zapata",6.0346365604
+"48507",49243,"Texas","Zavala",5.8770760758
+"49001",80268,"Utah","Beaver",3.9902219172
+"49003",72769,"Utah","Box Elder",4.2103108497
+"49005",72719,"Utah","Cache",4.3733218022
+"49007",53734,"Utah","Carbon",4.9075526888
+"49009",61250,"Utah","Daggett",4.2788643065
+"49011",101285,"Utah","Davis",4.3534007127
+"49013",70821,"Utah","Duchesne",4.9134749647
+"49015",67056,"Utah","Emery",4.5144716979
+"49017",56481,"Utah","Garfield",4.3291887783
+"49019",59171,"Utah","Grand",4.5236310263
+"49021",63005,"Utah","Iron",4.4750067527
+"49023",88048,"Utah","Juab",4.3961615539
+"49025",70327,"Utah","Kane",4.2895683229
+"49027",69403,"Utah","Millard",4.6171545336
+"49029",120854,"Utah","Morgan",3.6694390606
+"49031",33359,"Utah","Piute",5.5583514418
+"49033",69250,"Utah","Rich",4.3429556678
+"49035",90011,"Utah","Salt Lake",4.1105517035
+"49037",52108,"Utah","San Juan",5.7331758266
+"49039",64356,"Utah","Sanpete",4.6988660786
+"49041",66972,"Utah","Sevier",4.5598962091
+"49043",126392,"Utah","Summit",3.324813996
+"49045",95545,"Utah","Tooele",4.2276109314
+"49047",67983,"Utah","Uintah",4.6791023714
+"49049",91263,"Utah","Utah",3.9876666134
+"49051",104855,"Utah","Wasatch",3.3156570418
+"49053",71976,"Utah","Washington",4.1004572176
+"49055",64870,"Utah","Wayne",4.5181300752
+"49057",82291,"Utah","Weber",4.3913014135
+"50001",85870,"Vermont","Addison",3.4692902064
+"50003",68558,"Vermont","Bennington",3.9800639555
+"50005",62964,"Vermont","Caledonia",3.9400652528
+"50007",89494,"Vermont","Chittenden",3.4264226467
+"50009",55247,"Vermont","Essex",4.6318641555
+"50011",73633,"Vermont","Franklin",3.8970455228
+"50013",86639,"Vermont","Grand Isle",3.4136459764
+"50015",69886,"Vermont","Lamoille",3.6017292004
+"50017",74534,"Vermont","Orange",3.6701417887
+"50019",63981,"Vermont","Orleans",4.1105642047
+"50021",62641,"Vermont","Rutland",4.011403107
+"50023",77278,"Vermont","Washington",3.7447573688
+"50025",65473,"Vermont","Windham",3.8669317574
+"50027",69492,"Vermont","Windsor",3.5548435107
+"51001",52694,"Virginia","Accomack",4.5687477989
+"51003",97708,"Virginia","Albemarle",3.5088100424
+"51005",52546,"Virginia","Alleghany",4.6298551269
+"51007",63438,"Virginia","Amelia",4.6234464162
+"51009",64454,"Virginia","Amherst",4.431371241
+"51011",60041,"Virginia","Appomattox",4.5530611974
+"51013",137387,"Virginia","Arlington",3.0421452939
+"51015",76124,"Virginia","Augusta",4.349474814
+"51017",55699,"Virginia","Bath",5.2097948609
+"51019",74773,"Virginia","Bedford",4.1791037182
+"51021",59901,"Virginia","Bland",4.2186834581
+"51023",77680,"Virginia","Botetourt",3.9621097018
+"51025",52678,"Virginia","Brunswick",4.9430518663
+"51027",39591,"Virginia","Buchanan",5.7020649232
+"51029",59894,"Virginia","Buckingham",4.7764015293
+"51031",59022,"Virginia","Campbell",4.3761232016
+"51033",83562,"Virginia","Caroline",4.4290250795
+"51035",49113,"Virginia","Carroll",4.9474356117
+"51036",65573,"Virginia","Charles City",4.5610264789
+"51037",51548,"Virginia","Charlotte",4.9248732107
+"51041",95757,"Virginia","Chesterfield",3.7492635965
+"51043",107475,"Virginia","Clarke",3.6815306417
+"51045",66286,"Virginia","Craig",4.3417396188
+"51047",92359,"Virginia","Culpeper",4.0235069418
+"51049",56497,"Virginia","Cumberland",4.315366053
+"51051",40143,"Virginia","Dickenson",5.5447210704
+"51053",77225,"Virginia","Dinwiddie",4.2060535242
+"51057",52335,"Virginia","Essex",4.949886314
+"51059",145165,"Virginia","Fairfax",3.3215444077
+"51061",122785,"Virginia","Fauquier",3.6107564089
+"51063",57146,"Virginia","Floyd",4.2515844871
+"51065",90766,"Virginia","Fluvanna",3.8652395234
+"51067",66275,"Virginia","Franklin",4.3371746605
+"51069",92443,"Virginia","Frederick",3.9903098492
+"51071",61987,"Virginia","Giles",4.5662747793
+"51073",83750,"Virginia","Gloucester",4.1549333836
+"51075",105600,"Virginia","Goochland",3.5655265505
+"51077",43348,"Virginia","Grayson",5.1659656701
+"51079",81338,"Virginia","Greene",4.1116391356
+"51081",51823,"Virginia","Greensville",4.8462389092
+"51083",49145,"Virginia","Halifax",4.8542596132
+"51085",104678,"Virginia","Hanover",3.5238346823
+"51087",82424,"Virginia","Henrico",3.837977118
+"51089",43694,"Virginia","Henry",5.1336542126
+"51091",57070,"Virginia","Highland",4.2765924536
+"51093",91680,"Virginia","Isle of Wight",4.0173506134
+"51095",100711,"Virginia","James City",3.3197292913
+"51097",70147,"Virginia","King and Queen",4.7267825728
+"51099",103264,"Virginia","King George",3.8392895587
+"51101",79398,"Virginia","King William",4.174516721
+"51103",62674,"Virginia","Lancaster",4.3347823866
+"51105",41619,"Virginia","Lee",5.5635817889
+"51107",170463,"Virginia","Loudoun",3.0413145937
+"51109",76594,"Virginia","Louisa",4.2431676224
+"51111",54438,"Virginia","Lunenburg",4.8340507048
+"51113",74586,"Virginia","Madison",4.4646962639
+"51115",79054,"Virginia","Mathews",3.8685002325
+"51117",51265,"Virginia","Mecklenburg",4.7392750125
+"51119",69389,"Virginia","Middlesex",4.4404314842
+"51121",65270,"Virginia","Montgomery",4.2457879022
+"51125",64028,"Virginia","Nelson",4.3910425238
+"51127",113120,"Virginia","New Kent",3.7717754295
+"51131",54693,"Virginia","Northampton",4.4627173788
+"51133",64655,"Virginia","Northumberland",4.1021310449
+"51135",62366,"Virginia","Nottoway",4.8750384326
+"51137",87309,"Virginia","Orange",4.2809026027
+"51139",56760,"Virginia","Page",4.6611766317
+"51141",49180,"Virginia","Patrick",4.7819128483
+"51143",52619,"Virginia","Pittsylvania",4.7286141009
+"51145",108089,"Virginia","Powhatan",3.7310514192
+"51147",57304,"Virginia","Prince Edward",4.6173370141
+"51149",80318,"Virginia","Prince George",4.1826095151
+"51153",123193,"Virginia","Prince William",3.8275091688
+"51155",59740,"Virginia","Pulaski",4.2850155301
+"51157",98663,"Virginia","Rappahannock",4.0942184182
+"51159",62708,"Virginia","Richmond",4.5067259996
+"51161",80872,"Virginia","Roanoke",4.1274590472
+"51163",61903,"Virginia","Rockbridge",4.1372400166
+"51165",73232,"Virginia","Rockingham",4.055398819
+"51167",44088,"Virginia","Russell",5.272434327
+"51169",44535,"Virginia","Scott",5.1139785121
+"51171",62149,"Virginia","Shenandoah",4.4892764977
+"51173",45061,"Virginia","Smyth",5.0617854678
+"51175",67813,"Virginia","Southampton",4.2752188703
+"51177",105068,"Virginia","Spotsylvania",3.8169133734
+"51179",128036,"Virginia","Stafford",3.6069124473
+"51181",68655,"Virginia","Surry",4.4958849807
+"51183",59195,"Virginia","Sussex",4.7088895706
+"51185",46508,"Virginia","Tazewell",5.115786753
+"51187",79313,"Virginia","Warren",4.2196894349
+"51191",59116,"Virginia","Washington",4.4927510848
+"51193",56647,"Virginia","Westmoreland",5.0944135544
+"51195",47541,"Virginia","Wise",5.1493396835
+"51197",53921,"Virginia","Wythe",4.7125059567
+"51199",105154,"Virginia","York",3.4754471597
+"51510",113179,"Virginia","Alexandria City",3.4091947014
+"51520",45250,"Virginia","Bristol City",4.9675338845
+"51530",48783,"Virginia","Buena Vista City",4.9857023445
+"51540",67177,"Virginia","Charlottesville City",4.1538308876
+"51550",92703,"Virginia","Chesapeake City",3.743547127
+"51570",72216,"Virginia","Colonial Heights City",4.1006978255
+"51580",45737,"Virginia","Covington City",4.8300311727
+"51590",41484,"Virginia","Danville City",5.1742978372
+"51595",41442,"Virginia","Emporia City",5.2469510477
+"51600",128708,"Virginia","Fairfax City",3.4128810199
+"51610",164536,"Virginia","Falls Church City",2.8134756459
+"51620",57537,"Virginia","Franklin City",4.877505415
+"51630",83445,"Virginia","Fredericksburg City",4.0774991252
+"51640",44612,"Virginia","Galax City",5.38450523
+"51650",64430,"Virginia","Hampton City",4.34903065
+"51660",56050,"Virginia","Harrisonburg City",4.9518480656
+"51670",50661,"Virginia","Hopewell City",5.3894980833
+"51678",93651,"Virginia","Lexington City",4.0404719585
+"51680",56243,"Virginia","Lynchburg City",4.5283144981
+"51683",110559,"Virginia","Manassas City",3.9292771387
+"51685",91673,"Virginia","Manassas Park City",4.2774227561
+"51690",39127,"Virginia","Martinsville City",5.1067951704
+"51700",63355,"Virginia","Newport News City",4.3054870349
+"51710",60998,"Virginia","Norfolk City",4.4557564638
+"51720",36974,"Virginia","Norton City",5.2436404889
+"51730",46930,"Virginia","Petersburg City",4.9759197784
+"51735",114503,"Virginia","Poquoson City",3.5856375391
+"51740",57154,"Virginia","Portsmouth City",4.5938594805
+"51750",51039,"Virginia","Radford City",5.083174944
+"51760",59606,"Virginia","Richmond City",4.3409991578
+"51770",51523,"Virginia","Roanoke City",4.7921196843
+"51775",68402,"Virginia","Salem City",4.1381471246
+"51790",59731,"Virginia","Staunton City",4.2502288961
+"51800",87758,"Virginia","Suffolk City",3.9503615832
+"51810",87544,"Virginia","Virginia Beach City",3.9280971599
+"51820",52519,"Virginia","Waynesboro City",4.6430453499
+"51830",66815,"Virginia","Williamsburg City",4.0719452405
+"51840",62495,"Virginia","Winchester City",4.609685389
+"53001",63105,"Washington","Adams",4.8644797196
+"53003",63724,"Washington","Asotin",4.6067788694
+"53005",83778,"Washington","Benton",4.373435132
+"53007",71876,"Washington","Chelan",4.1192956443
+"53009",66108,"Washington","Clallam",4.2041312385
+"53011",90115,"Washington","Clark",3.937811266
+"53013",68825,"Washington","Columbia",4.3207487907
+"53015",70912,"Washington","Cowlitz",4.7978456268
+"53017",79422,"Washington","Douglas",4.2592484751
+"53019",50424,"Washington","Ferry",5.2789219112
+"53021",77877,"Washington","Franklin",4.7227507503
+"53023",57958,"Washington","Garfield",3.927034473
+"53025",66387,"Washington","Grant",4.6340452249
+"53027",59105,"Washington","Grays Harbor",4.7083497016
+"53029",82850,"Washington","Island",4.0269559031
+"53031",64796,"Washington","Jefferson",4.1168717314
+"53033",116340,"Washington","King",3.4472362106
+"53035",93675,"Washington","Kitsap",3.8677425435
+"53037",66800,"Washington","Kittitas",4.3147524603
+"53039",66581,"Washington","Klickitat",4.1848721248
+"53041",67247,"Washington","Lewis",4.8561326208
+"53043",68172,"Washington","Lincoln",4.5354979966
+"53045",74388,"Washington","Mason",4.3932232555
+"53047",58218,"Washington","Okanogan",4.9712974309
+"53049",58889,"Washington","Pacific",4.7829664037
+"53051",59353,"Washington","Pend Oreille",4.5993102324
+"53053",91486,"Washington","Pierce",4.4499792682
+"53055",76745,"Washington","San Juan",3.5690131708
+"53057",82029,"Washington","Skagit",4.2089556394
+"53059",84500,"Washington","Skamania",4.6660481816
+"53061",104083,"Washington","Snohomish",3.911671945
+"53063",70394,"Washington","Spokane",4.4836048062
+"53065",62381,"Washington","Stevens",4.6616246135
+"53067",88895,"Washington","Thurston",4.3768223208
+"53069",59167,"Washington","Wahkiakum",4.5908275181
+"53071",66635,"Washington","Walla Walla",4.2410867051
+"53073",77581,"Washington","Whatcom",4.1964831193
+"53075",49345,"Washington","Whitman",4.6803906782
+"53077",64910,"Washington","Yakima",4.9160159441
+"54001",44341,"West Virginia","Barbour",5.9525598948
+"54003",73619,"West Virginia","Berkeley",4.5094063944
+"54005",56182,"West Virginia","Boone",5.8627094582
+"54007",42245,"West Virginia","Braxton",6.061577256
+"54009",51963,"West Virginia","Brooke",5.1981001618
+"54011",48944,"West Virginia","Cabell",5.5822187709
+"54013",39031,"West Virginia","Calhoun",6.2744527509
+"54015",41530,"West Virginia","Clay",5.905393101
+"54017",56587,"West Virginia","Doddridge",5.6553192881
+"54019",50090,"West Virginia","Fayette",5.8021262103
+"54021",51552,"West Virginia","Gilmer",5.2629514281
+"54023",52877,"West Virginia","Grant",5.4041339929
+"54025",45519,"West Virginia","Greenbrier",5.5527846751
+"54027",55222,"West Virginia","Hampshire",5.4236314827
+"54029",57515,"West Virginia","Hancock",5.0917206322
+"54031",49205,"West Virginia","Hardy",5.8654726631
+"54033",56184,"West Virginia","Harrison",5.2257814455
+"54035",55173,"West Virginia","Jackson",5.6173939974
+"54037",93744,"West Virginia","Jefferson",4.7841529701
+"54039",55226,"West Virginia","Kanawha",5.0830729915
+"54041",50552,"West Virginia","Lewis",5.6139137369
+"54043",50985,"West Virginia","Lincoln",6.6163160263
+"54045",42194,"West Virginia","Logan",6.530278162
+"54047",28235,"West Virginia","McDowell",6.7761890811
+"54049",59974,"West Virginia","Marion",5.0793431898
+"54051",58129,"West Virginia","Marshall",5.1604788338
+"54053",53058,"West Virginia","Mason",5.7554672127
+"54055",46409,"West Virginia","Mercer",5.9702416459
+"54057",64728,"West Virginia","Mineral",5.0418657127
+"54059",38305,"West Virginia","Mingo",6.7859616989
+"54061",60893,"West Virginia","Monongalia",4.7036863337
+"54063",52392,"West Virginia","Monroe",5.3779006591
+"54065",61021,"West Virginia","Morgan",5.3427671692
+"54067",48826,"West Virginia","Nicholas",5.4114972747
+"54069",55521,"West Virginia","Ohio",4.8299632471
+"54071",52458,"West Virginia","Pendleton",5.5208073505
+"54073",59666,"West Virginia","Pleasants",5.1384874047
+"54075",41680,"West Virginia","Pocahontas",5.9894264269
+"54077",60136,"West Virginia","Preston",5.2100596429
+"54079",75725,"West Virginia","Putnam",4.6318121632
+"54081",47975,"West Virginia","Raleigh",5.7330907758
+"54083",51186,"West Virginia","Randolph",5.5970059033
+"54085",48973,"West Virginia","Ritchie",5.829711822
+"54087",41299,"West Virginia","Roane",6.1147437372
+"54089",42991,"West Virginia","Summers",5.908471894
+"54091",52946,"West Virginia","Taylor",5.6424695538
+"54093",54053,"West Virginia","Tucker",5.1020732786
+"54095",59167,"West Virginia","Tyler",5.1142408468
+"54097",49663,"West Virginia","Upshur",5.5548255181
+"54099",52694,"West Virginia","Wayne",5.7828259365
+"54101",43409,"West Virginia","Webster",6.0362211927
+"54103",50715,"West Virginia","Wetzel",5.4387599708
+"54105",52776,"West Virginia","Wirt",5.7758649372
+"54107",54350,"West Virginia","Wood",5.3128907566
+"54109",44510,"West Virginia","Wyoming",6.3874935495
+"55001",55223,"Wisconsin","Adams",4.4850628387
+"55003",57000,"Wisconsin","Ashland",4.604436922
+"55005",59379,"Wisconsin","Barron",4.2467832333
+"55007",67266,"Wisconsin","Bayfield",3.9478171018
+"55009",74066,"Wisconsin","Brown",3.9214878244
+"55011",64238,"Wisconsin","Buffalo",3.9033681568
+"55013",60466,"Wisconsin","Burnett",4.2798169932
+"55015",84151,"Wisconsin","Calumet",3.5486435628
+"55017",69815,"Wisconsin","Chippewa",4.0423482791
+"55019",63187,"Wisconsin","Clark",4.5142153003
+"55021",79271,"Wisconsin","Columbia",3.9196037132
+"55023",60823,"Wisconsin","Crawford",4.3054756545
+"55025",84297,"Wisconsin","Dane",3.423777021
+"55027",71747,"Wisconsin","Dodge",4.1922831503
+"55029",68257,"Wisconsin","Door",3.6835044156
+"55031",64682,"Wisconsin","Douglas",3.9911926209
+"55033",69721,"Wisconsin","Dunn",4.2141116567
+"55035",70127,"Wisconsin","Eau Claire",4.1323298176
+"55037",58049,"Wisconsin","Florence",4.2051220019
+"55039",70368,"Wisconsin","Fond du Lac",4.1052990159
+"55041",55552,"Wisconsin","Forest",4.7836975742
+"55043",63497,"Wisconsin","Grant",4.2675669025
+"55045",76080,"Wisconsin","Green",3.7165025858
+"55047",66395,"Wisconsin","Green Lake",4.204036514
+"55049",79226,"Wisconsin","Iowa",3.8305978133
+"55051",55777,"Wisconsin","Iron",4.0550236359
+"55053",64630,"Wisconsin","Jackson",4.4153287487
+"55055",77018,"Wisconsin","Jefferson",3.8986146101
+"55057",63455,"Wisconsin","Juneau",4.4219882274
+"55059",76583,"Wisconsin","Kenosha",4.104103697
+"55061",77610,"Wisconsin","Kewaunee",3.721179036
+"55063",68731,"Wisconsin","La Crosse",3.7615649197
+"55065",69293,"Wisconsin","Lafayette",4.1565437387
+"55067",55091,"Wisconsin","Langlade",4.3237845338
+"55069",64314,"Wisconsin","Lincoln",4.1283124335
+"55071",66412,"Wisconsin","Manitowoc",3.9283448526
+"55073",73248,"Wisconsin","Marathon",3.9356007796
+"55075",60347,"Wisconsin","Marinette",4.1141069238
+"55077",59748,"Wisconsin","Marquette",4.2508608496
+"55078",62194,"Wisconsin","Menominee",5.4962892939
+"55079",59319,"Wisconsin","Milwaukee",4.415979582
+"55081",66451,"Wisconsin","Monroe",4.1956871452
+"55083",73611,"Wisconsin","Oconto",4.0768351195
+"55085",66111,"Wisconsin","Oneida",3.9525860868
+"55087",78705,"Wisconsin","Outagamie",3.7249945266
+"55089",92258,"Wisconsin","Ozaukee",3.4527123298
+"55091",70833,"Wisconsin","Pepin",3.8617619087
+"55093",82996,"Wisconsin","Pierce",3.9124920974
+"55095",74142,"Wisconsin","Polk",3.8131136828
+"55097",71301,"Wisconsin","Portage",3.7481539185
+"55099",55822,"Wisconsin","Price",4.1986221028
+"55101",72658,"Wisconsin","Racine",3.8537334882
+"55103",61985,"Wisconsin","Richland",4.3757678881
+"55105",70630,"Wisconsin","Rock",4.000489594
+"55107",57473,"Wisconsin","Rusk",4.4382782583
+"55109",97950,"Wisconsin","St. Croix",3.5578385092
+"55111",72930,"Wisconsin","Sauk",4.077082232
+"55113",57519,"Wisconsin","Sawyer",4.365942511
+"55115",65493,"Wisconsin","Shawano",4.489015566
+"55117",68969,"Wisconsin","Sheboygan",3.991574332
+"55119",61360,"Wisconsin","Taylor",4.2857183222
+"55121",68474,"Wisconsin","Trempealeau",4.0160370737
+"55123",65177,"Wisconsin","Vernon",4.0700343316
+"55125",63726,"Wisconsin","Vilas",3.8402369583
+"55127",75172,"Wisconsin","Walworth",3.708481328
+"55129",58504,"Wisconsin","Washburn",4.1246285572
+"55131",91915,"Wisconsin","Washington",3.4256806874
+"55133",101639,"Wisconsin","Waukesha",3.203810979
+"55135",69198,"Wisconsin","Waupaca",3.8995875423
+"55137",61033,"Wisconsin","Waushara",4.506953623
+"55139",70041,"Wisconsin","Winnebago",3.8849504293
+"55141",63273,"Wisconsin","Wood",3.9925569666
+"56001",55887,"Wyoming","Albany",3.8717218754
+"56003",61262,"Wyoming","Big Horn",3.8914761975
+"56005",93315,"Wyoming","Campbell",3.7094692799
+"56007",65196,"Wyoming","Carbon",4.1351579574
+"56009",79235,"Wyoming","Converse",4.0411877818
+"56011",68876,"Wyoming","Crook",3.5309170441
+"56013",60030,"Wyoming","Fremont",4.1263403149
+"56015",62356,"Wyoming","Goshen",3.6588705264
+"56017",64031,"Wyoming","Hot Springs",4.036075232
+"56019",60667,"Wyoming","Johnson",3.9782869797
+"56021",76282,"Wyoming","Laramie",3.7600802974
+"56023",83033,"Wyoming","Lincoln",3.7092256831
+"56025",69104,"Wyoming","Natrona",3.8629956446
+"56027",54375,"Wyoming","Niobrara",4.284348433
+"56029",66754,"Wyoming","Park",3.6126323952
+"56031",64753,"Wyoming","Platte",3.9382879953
+"56033",68898,"Wyoming","Sheridan",3.3250113381
+"56035",85960,"Wyoming","Sublette",3.5555362474
+"56037",79375,"Wyoming","Sweetwater",3.834420787
+"56039",108279,"Wyoming","Teton",3.0449088771
+"56041",78164,"Wyoming","Uinta",3.7576056007
+"56043",61875,"Wyoming","Washakie",3.7296246714
+"56045",71800,"Wyoming","Weston",3.7589959544
+"72001",17659,NA,NA,NA
+"72003",20301,NA,NA,NA
+"72005",18348,NA,NA,NA
+"72007",23160,NA,NA,NA
+"72009",22511,NA,NA,NA
+"72011",22673,NA,NA,NA
+"72013",21799,NA,NA,NA
+"72015",18496,NA,NA,NA
+"72017",20282,NA,NA,NA
+"72019",21262,NA,NA,NA
+"72021",29403,NA,NA,NA
+"72023",23077,NA,NA,NA
+"72025",29279,NA,NA,NA
+"72027",23263,NA,NA,NA
+"72029",26021,NA,NA,NA
+"72031",32888,NA,NA,NA
+"72033",22407,NA,NA,NA
+"72035",26704,NA,NA,NA
+"72037",22945,NA,NA,NA
+"72039",19618,NA,NA,NA
+"72041",25580,NA,NA,NA
+"72043",20569,NA,NA,NA
+"72045",16153,NA,NA,NA
+"72047",21670,NA,NA,NA
+"72049",25483,NA,NA,NA
+"72051",31485,NA,NA,NA
+"72053",24309,NA,NA,NA
+"72054",21560,NA,NA,NA
+"72055",14525,NA,NA,NA
+"72057",19165,NA,NA,NA
+"72059",21312,NA,NA,NA
+"72061",43304,NA,NA,NA
+"72063",39533,NA,NA,NA
+"72065",24407,NA,NA,NA
+"72067",22542,NA,NA,NA
+"72069",25940,NA,NA,NA
+"72071",19965,NA,NA,NA
+"72073",18363,NA,NA,NA
+"72075",23035,NA,NA,NA
+"72077",25931,NA,NA,NA
+"72079",17131,NA,NA,NA
+"72081",18844,NA,NA,NA
+"72083",16506,NA,NA,NA
+"72085",23193,NA,NA,NA
+"72087",21306,NA,NA,NA
+"72089",22585,NA,NA,NA
+"72091",20385,NA,NA,NA
+"72093",20133,NA,NA,NA
+"72095",21951,NA,NA,NA
+"72097",16788,NA,NA,NA
+"72099",20331,NA,NA,NA
+"72101",22282,NA,NA,NA
+"72103",20486,NA,NA,NA
+"72105",20616,NA,NA,NA
+"72107",16869,NA,NA,NA
+"72109",20778,NA,NA,NA
+"72111",20072,NA,NA,NA
+"72113",18994,NA,NA,NA
+"72115",20209,NA,NA,NA
+"72117",26771,NA,NA,NA
+"72119",25963,NA,NA,NA
+"72121",20464,NA,NA,NA
+"72123",20123,NA,NA,NA
+"72125",17862,NA,NA,NA
+"72127",26111,NA,NA,NA
+"72129",19629,NA,NA,NA
+"72131",17557,NA,NA,NA
+"72133",22680,NA,NA,NA
+"72135",32456,NA,NA,NA
+"72137",28719,NA,NA,NA
+"72139",35821,NA,NA,NA
+"72141",17164,NA,NA,NA
+"72143",24778,NA,NA,NA
+"72145",23701,NA,NA,NA
+"72147",17062,NA,NA,NA
+"72149",22461,NA,NA,NA
+"72151",19972,NA,NA,NA
+"72153",19827,NA,NA,NA
