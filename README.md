@@ -1,48 +1,39 @@
-# connect-to-census
+## Income and Health: Exploring the Relationship Between Household Income and Physical Health
+This project investigates the connection between median household income and physical health outcomes across U.S. counties, using data from the U.S. Census Bureau and County Health Rankings.
 
-In this assignment, you will connect your data to census data and do a bit of basic exploratory data analysis (EDA) on your dataset. The EDA will be:
-* 1-D (distribution of your data) 
-* 2-D scatterplots (comparing your data to census variables)
+### Project Overview
+The analysis explores how economic factors shape health outcomes by examining the relationship between county-level median household income and the average number of physically unhealthy days reported per month.
 
-## Assignment
+### Data Sources
 
-Identify the geospatial columns in your data. You may have addresses or latitude and longitude. In this assignment you will 
+Census Dataset: Income in the Past 12 Months (in 2022 inflation-adjusted dollars) at the county level from the U.S. Census Bureau API
+Health Dataset: County Health Rankings and Roadmaps' "Poor Physical Health Days" metric, which measures the average number of physically unhealthy days reported in the past 30 days (age-adjusted)
 
-### Part 1: Geocoding your data and joining it with Census data
+### Key Findings
 
-1. In the `connect-to-census.ipynb` notebook, add code to:
+A strong, non-linear relationship exists between income and health outcomes
+Income alone explains over 48% of the variation in unhealthy days across counties
+The relationship is stronger in lower-income states, where each $1,000 increase in median income corresponds to a larger decrease in unhealthy days
+State-specific factors substantially influence health outcomes beyond income
 
-    a. download your data
+### Repository Contents
 
-    b. convert addresses --> lat/long (if the data doesn't already have lat/long)
-    
-    c. convert lat/long to census geography codes (like 'GEOID', 'STATE', 'COUNTY', 'TRACT', 'BLOCK', etc...). you may want to have more than one level of geography so you can do the analysis at different levels later on.
-    
-    d. this notebook should output a file containing your data and the census geographies you're interested in.
+distributions.ipynb: Analysis of income and health distributions
+scatterplots.ipynb: Visual exploration of relationships between variables
+linear-regression.ipynb: Statistical analysis of income-health relationships
+Data collection and processing scripts
 
-    Example notebooks to help you with all this will live in [this repository](https://github.com/data4news/census-examples). You may use R or Python (or a combination of the two).
+### Tools & Methods
 
+R for statistical analysis
+Census API for demographic data
+Linear regression and t-tests
+Log transformations to explore non-linear relationships
+Data visualization
 
-2. In `merge-with-census.ipynb` notebook, download some census data using `tidycensus` and merge it with your data.
-
-### Part 2: Exploratory Data Analysis
-
-1. In the `distributions.ipynb` notebook, do some basic exploratory data analysis on **your dataset** in one dimension. Here you will explore the **distributions** of your data (histograms, boxplots, dotplots, etc). You may have already done this in the planning phase. If you haven't changed topics, feel free to just drop that notebook in as your distributions.ipynb notebook.
-
-2. In the `scatterplots.ipynb` notebook, do some basic exploratory data analysis on your data, but this time, merge in some census variables you're interested in and make some **scatterplots** with a variable from **your dataset** as the Y and variables from the **census data** as the X. 
-
-### Part 3: Write up your findings
-
-1. In a new google doc, summarize what you've found so far. Think of this as a short memo of what you've done or the progress you've made towards pitching a story on this topic or using this dataset. You don't need to show all the charts, just the ones you found most interesting. What questions do you have that you'd like to dig more into? Do you think you've got an idea for a story angle? Write it informally as a memo to Dhrumil and Shivangi (your editors). 
-
-## Usage
-
-1. Rename `.env.example` to `.env` and put in your census API key. 
-   
-    _(FYI there is a file in this repo called `.gitignore` that will prevent `.env` from being tracked by git so you don't push your census key on accident._
-
-2. Run the notebooks. If you're unfamiliar with this setup, see https://github.com/dmil/jupyter-quickstart/
-
-## Note about large files
-
-If your data is too big (bigger than ~50MB), just upload the code to transform your data, not the data itself. If you want to make sure to never upload the datafile to git, just add the name of the file to the `.gitignore` file.
+### Next Steps
+Future work could explore:
+    - Additional variables like healthcare access and employment type
+    - Outlier counties that deviate from observed trends
+    - Non-linear dynamics and potential threshold effects
+    - Data quality and cross-state comparability issues
